@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+		 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+		 xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+		 xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>
+		<Ontology rdf:about="file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO">
+			<location>file:/SUMO.owl</location>
+		</Ontology>
+	</onto1>
+	<onto2>
+		<Ontology rdf:about="http://iasted">
+			<location>file:/iasted.owl</location>
+		</Ontology>
+	</onto2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#City'/>
+			<entity2 rdf:resource='http://iasted#City'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#GeographicArea'/>
+			<entity2 rdf:resource='http://iasted#Place'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Human'/>
+			<entity2 rdf:resource='http://iasted#Person'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#IntentionalProcess'/>
+			<entity2 rdf:resource='http://iasted#Time'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#StateOrProvince'/>
+			<entity2 rdf:resource='http://iasted#State'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Currency'/>
+			<entity2 rdf:resource='http://iasted#Money'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#GeographicArea'/>
+			<entity2 rdf:resource='http://iasted#Time_zone'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Currency'/>
+			<entity2 rdf:resource='http://iasted#Currency'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Text'/>
+			<entity2 rdf:resource='http://iasted#Item'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#IntentionalProcess'/>
+			<entity2 rdf:resource='http://iasted#Activity'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+</Alignment>
+</rdf:RDF>

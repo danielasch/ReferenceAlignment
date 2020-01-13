@@ -1,0 +1,1002 @@
+NOME: Science_Worker
+Desc: "price category - science worker""confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [price, person, science, conf, worker, category, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-09632518-N : Words[W-09632518-N-1-worker]}
+Conjunto de synsets recuperados:
+SYNSET{SID-09632518-N : Words[W-09632518-N-1-worker]} | a person who works at a specific occupation; "he is a good worker"
+BOW: [occupation, person, work, worker, specific, good]
+MEDIA: 1.3988369766775577
+
+SYNSET{SID-10481711-N : Words[W-10481711-N-1-proletarian, W-10481711-N-2-prole, W-10481711-N-3-worker]} | a member of the working class (not necessarily employed); "workers of the world--unite!"
+BOW: [employ, world, unite, proletarian, work, member, prole, worker, class, necessarily]
+MEDIA: 1.1138931644663899
+
+SYNSET{SID-02207449-N : Words[W-02207449-N-1-worker]} | sterile member of a colony of social insects that forages for food and cares for the larvae
+BOW: [colony, social, sterile, larva, member, insect, forage, worker, food, care]
+MEDIA: 0.9426449485436024
+
+SYNSET{SID-09767197-N : Words[W-09767197-N-1-actor, W-09767197-N-2-doer, W-09767197-N-3-worker]} | a person who acts and gets things done; "he's a principal actor in this affair"; "when you want something done get a doer"; "he's a miracle worker"
+BOW: [actor, principal, act, person, doer, get, want, miracle, affair, worker, thing, he]
+MEDIA: 1.3596601219372437
+
+
+----------
+NOME: Thing
+Desc: null
+Supers: []
+Subs: [<http://confOf#Contribution>, <http://confOf#Paper>, <http://confOf#Poster>, <http://confOf#Short_paper>, <http://confOf#Person>, <http://confOf#Administrator>, <http://confOf#Assistant>, <http://confOf#Author>, <http://confOf#Chair_PC>, <http://confOf#Member_PC>, <http://confOf#Participant>, <http://confOf#Member>, <http://confOf#Regular>, <http://confOf#Student>, <http://confOf#Scholar>, <http://confOf#Science_Worker>, <http://confOf#Volunteer>]
+Contexto: [student, chair, author, assistant, scholar, participant, administrator, volunteer, pc, contribution, paper, person, science, member, short, worker, poster, thing, regular]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Artifact>
+Synset selecionado: SYNSET{SID-04424218-N : Words[W-04424218-N-1-thing]}
+Conjunto de synsets recuperados:
+SYNSET{SID-13943968-N : Words[W-13943968-N-1-thing]} | a special situation; "this thing has got to end"; "it is a remarkable thing"
+BOW: [special, remarkable, get, end, thing, situation]
+MEDIA: 0.8041428379906472
+
+SYNSET{SID-00034479-N : Words[W-00034479-N-1-thing]} | an action; "how could you do such a thing?"
+BOW: [action, thing]
+MEDIA: 0.9880337127680449
+
+SYNSET{SID-05855004-N : Words[W-05855004-N-1-thing]} | a special abstraction; "a thing of the spirit"; "things of the heart"
+BOW: [special, abstraction, spirit, thing, heart]
+MEDIA: 0.8912554814137126
+
+SYNSET{SID-04424218-N : Words[W-04424218-N-1-thing]} | an artifact; "how does this thing work?"
+BOW: [artifact, work, do, thing]
+MEDIA: 1.2282288844213134
+
+SYNSET{SID-07289831-N : Words[W-07289831-N-1-thing]} | an event; "a funny thing happened on the way to the..."
+BOW: [happen, event, thing, funny, way]
+MEDIA: 1.078229807317257
+
+SYNSET{SID-05671325-N : Words[W-05671325-N-1-matter, W-05671325-N-2-affair, W-05671325-N-3-thing]} | a vaguely specified concern; "several matters to attend to"; "it is none of your affair"; "things are going well"
+BOW: [attend, specify, go, affair, matter, thing, vaguely, concern]
+MEDIA: 0.8701005520522717
+
+SYNSET{SID-06723908-N : Words[W-06723908-N-1-thing]} | a statement regarded as an object; "to say the same thing in other terms"; "how can you say such a thing?"
+BOW: [regard, statement, say, term, thing, object]
+MEDIA: 0.9367698330223856
+
+SYNSET{SID-04424418-N : Words[W-04424418-N-1-thing]} | an entity that is not named specifically; "I couldn't tell what the thing was"
+BOW: [tell, name, specifically, thing, entity]
+MEDIA: 0.9853923319054669
+
+SYNSET{SID-04617289-N : Words[W-04617289-N-1-thing]} | any attribute or quality considered as having its own existence; "the thing I like about her is ..."
+BOW: [like, have, existence, attribute, consider, thing, quality]
+MEDIA: 0.8176194635527103
+
+SYNSET{SID-05984182-N : Words[W-05984182-N-1-thing]} | a special objective; "the thing is to stay in bounds"
+BOW: [special, bound, thing, objective, stay]
+MEDIA: 0.9551808530599565
+
+SYNSET{SID-07480356-N : Words[W-07480356-N-1-thing]} | a persistent illogical feeling of desire or aversion; "he has a thing about seafood"; "she has a thing about him"
+BOW: [aversion, seafood, desire, feeling, persistent, thing, illogical]
+MEDIA: 0.7322665325302938
+
+SYNSET{SID-00002452-N : Words[W-00002452-N-1-thing]} | a separate and self-contained entity
+BOW: [contain, separate, self, thing, entity]
+MEDIA: 0.7807960935231102
+
+
+----------
+NOME: Working_event
+Desc: null
+Supers: [<http://confOf#Event>]
+Subs: [<http://confOf#Conference>, <http://confOf#Tutorial>, <http://confOf#Workshop>]
+Contexto: [conference, workshop, work, tutorial, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.6767503412440419
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 1.108680142229423
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.9873553044526489
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.7776620406541042
+
+
+----------
+NOME: Topic
+Desc: "confTool"
+Supers: []
+Subs: []
+Contexto: [topic, conf, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity>
+Synset selecionado: SYNSET{SID-05814291-N : Words[W-05814291-N-1-topic, W-05814291-N-2-subject, W-05814291-N-3-issue, W-05814291-N-4-matter]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06599788-N : Words[W-06599788-N-1-subject, W-06599788-N-2-topic, W-06599788-N-3-theme]} | the subject matter of a conversation or discussion; "he didn't want to discuss that subject"; "it was a very sensitive topic"; "his letters were always on the theme of love"
+BOW: [love, subject, didnt, want, letter, topic, theme, discussion, sensitive, matter, conversation, discuss]
+MEDIA: 1.5442584125169863
+
+SYNSET{SID-05814291-N : Words[W-05814291-N-1-topic, W-05814291-N-2-subject, W-05814291-N-3-issue, W-05814291-N-4-matter]} | some situation or event that is thought about; "he kept drifting off the topic"; "he had been thinking about the subject for several years"; "it is a matter for the police"
+BOW: [think, police, issue, year, subject, keep, topic, matter, event, situation, drift]
+MEDIA: 1.5526949670024666
+
+
+----------
+NOME: Event
+Desc: "confTool"
+Supers: []
+Subs: [<http://confOf#Administrative_event>, <http://confOf#Camera_Ready_event>, <http://confOf#Registration_of_participants_event>, <http://confOf#Reviewing_event>, <http://confOf#Reviewing_results_event>, <http://confOf#Submission_event>, <http://confOf#Social_event>, <http://confOf#Banquet>, <http://confOf#Reception>, <http://confOf#Trip>, <http://confOf#Working_event>, <http://confOf#Conference>, <http://confOf#Tutorial>, <http://confOf#Workshop>]
+Contexto: [conference, social, workshop, work, banquet, conf, tool, participant, result, trip, review, ready, administrative, submission, registration, tutorial, reception, event, camera]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.226888306898457
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 0.948069914149145
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.7866480085061067
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.8129489804893015
+
+
+----------
+NOME: Company
+Desc: null
+Supers: [<http://confOf#Organization>]
+Subs: []
+Contexto: [organization, company]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Company-Military>
+Synset selecionado: SYNSET{SID-08214272-N : Words[W-08214272-N-1-company]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08058098-N : Words[W-08058098-N-1-company]} | an institution created to conduct business; "he only invests in large well-established companies"; "he started the company in his garage"
+BOW: [established, institution, conduct, business, large, invest, start, garage, create, company]
+MEDIA: 2.0736771803349257
+
+SYNSET{SID-08214272-N : Words[W-08214272-N-1-company]} | small military unit; usually two or three platoons
+BOW: [small, unit, company, military, usually, platoon]
+MEDIA: 2.0824621513020247
+
+SYNSET{SID-13929588-N : Words[W-13929588-N-1-company, W-13929588-N-2-companionship, W-13929588-N-3-fellowship, W-13929588-N-4-society]} | the state of being with someone; "he missed their company"; "he enjoyed the society of his friends"
+BOW: [society, companionship, friend, enjoy, company, state, fellowship, miss]
+MEDIA: 1.628516266355291
+
+SYNSET{SID-08187033-N : Words[W-08187033-N-1-company, W-08187033-N-2-troupe]} | organization of performers and associated personnel (especially theatrical); "the traveling company all stayed at the same hotel"
+BOW: [theatrical, performer, especially, troupe, organization, hotel, company, personnel, travel, associate, stay]
+MEDIA: 2.0444885488938205
+
+SYNSET{SID-09887850-N : Words[W-09887850-N-1-caller, W-09887850-N-2-company]} | a social or business visitor; "the room was a mess because he hadn't expected company"
+BOW: [expect, caller, business, social, hadnt, company, mess, visitor, room]
+MEDIA: 1.5947182812831469
+
+SYNSET{SID-08184861-N : Words[W-08184861-N-1-company]} | a social gathering of guests or companions; "the house was filled with company when I arrived"
+BOW: [social, companion, arrive, company, guest, fill, gathering, house]
+MEDIA: 1.2452496308105765
+
+SYNSET{SID-08264897-N : Words[W-08264897-N-1-party, W-08264897-N-2-company]} | a band of people associated temporarily in some activity; "they organized a party to search for food"; "the company of cooks walked into the kitchen"
+BOW: [activity, cook, temporarily, people, associate, food, search, organize, company, band, kitchen, party, walk]
+MEDIA: 1.4616061517825494
+
+SYNSET{SID-08219059-N : Words[W-08219059-N-1-ship's_company, W-08219059-N-2-company]} | crew of a ship including the officers; the whole force or personnel of a ship
+BOW: [include, officer, ship, company, force, personnel, 's, crew]
+MEDIA: 1.9472400678205304
+
+SYNSET{SID-08077711-N : Words[W-08077711-N-1-company]} | a unit of firefighters including their equipment; "a hook-and-ladder company"
+BOW: [include, unit, hook, ladder, firefighter, equipment, company]
+MEDIA: 1.7919482154372548
+
+
+----------
+NOME: Short_paper
+Desc: "confTool"
+Supers: [<http://confOf#Contribution>, owl:Thing]
+Subs: []
+Contexto: [contribution, paper, short, conf, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Paper>
+Synset selecionado: SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.0963010167858254
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.2074101652467142
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.116801244027626
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.3191283440270734
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.1830170904850643
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.0924181205336936
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 0.9657370210625231
+
+
+----------
+NOME: Organization
+Desc: null
+Supers: []
+Subs: [<http://confOf#Company>, <http://confOf#University>]
+Contexto: [university, organization, company]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization>
+Synset selecionado: SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]} | a group of people who work together
+BOW: [work, organization, organisation, people, group]
+MEDIA: 2.2277728617191315
+
+SYNSET{SID-05726596-N : Words[W-05726596-N-1-arrangement, W-05726596-N-2-organization, W-05726596-N-3-organisation, W-05726596-N-4-system]} | an organized structure for arranging or classifying; "he changed the arrangement of the topics"; "the facts were familiar but it was in the organization of them that he was original"; "he tried to understand their system of classification"
+BOW: [classify, fact, original, change, understand, organisation, familiar, classification, structure, arrangement, system, organize, arrange, organization, topic, try]
+MEDIA: 1.0781415639212355
+
+SYNSET{SID-08164585-N : Words[W-08164585-N-1-administration, W-08164585-N-2-governance, W-08164585-N-3-governing_body, W-08164585-N-4-establishment, W-08164585-N-5-brass, W-08164585-N-6-organization, W-08164585-N-7-organisation]} | the persons (or committees or departments etc.) who make up a body for the purpose of administering something; "he claims that the present administration is corrupt"; "the governance of an association is responsible to its members"; "he quickly became recognized as a member of the establishment"
+BOW: [committee, corrupt, govern, purpose, administration, quickly, organisation, association, establishment, brass, body, recognize, person, organization, responsible, administer, member, claim, department, present, make, governance]
+MEDIA: 1.4857863060509164
+
+SYNSET{SID-01136519-N : Words[W-01136519-N-1-organization, W-01136519-N-2-organisation]} | the act of organizing a business or an activity related to a business; "he was brought in to supervise the organization of a new department"
+BOW: [new, act, business, activity, related, organize, organization, bring, supervise, organisation, department]
+MEDIA: 1.6439445206726138
+
+SYNSET{SID-04768657-N : Words[W-04768657-N-1-organization, W-04768657-N-2-organisation, W-04768657-N-3-system]} | an ordered manner; orderliness by virtue of being methodical and well organized; "his compulsive organization was not an endearing quality"; "we can't do it unless we establish some system around here"
+BOW: [organisation, manner, establish, quality, compulsive, endearing, system, organize, unless, organization, methodical, virtue, orderliness, order]
+MEDIA: 0.9986918375805197
+
+SYNSET{SID-01008378-N : Words[W-01008378-N-1-organization, W-01008378-N-2-organisation]} | the activity or result of distributing or disposing persons or things properly or methodically; "his organization of the work force was very efficient"
+BOW: [methodically, activity, efficient, work, organisation, result, properly, person, organization, dispose, force, distribute, thing]
+MEDIA: 1.240686673957568
+
+SYNSET{SID-00237078-N : Words[W-00237078-N-1-constitution, W-00237078-N-2-establishment, W-00237078-N-3-formation, W-00237078-N-4-organization, W-00237078-N-5-organisation]} | the act of forming or establishing something; "the constitution of a PTA group last year"; "it was the establishment of his reputation"; "he still remembers the organization of the club"
+BOW: [constitution, year, organisation, reputation, establishment, formation, establish, remember, act, form, organization, club, pta, group]
+MEDIA: 1.3917444154087988
+
+
+----------
+NOME: Scholar
+Desc: "price category - scholar""confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [price, person, conf, scholar, category, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SocialRole>
+Synset selecionado: SYNSET{SID-10558773-N : Words[W-10558773-N-1-scholar]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10557854-N : Words[W-10557854-N-1-scholar, W-10557854-N-2-scholarly_person, W-10557854-N-3-bookman, W-10557854-N-4-student]} | a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines
+BOW: [study, student, learn, bookman, discipline, scholar, long, gain, mastery, scholarly, humanities, especially, person]
+MEDIA: 1.2032082954173458
+
+SYNSET{SID-10251779-N : Words[W-10251779-N-1-learner, W-10251779-N-2-scholar, W-10251779-N-3-assimilator]} | someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs
+BOW: [take, teacher, especially, learn, learner, scholar, assimilator, belief, child, knowledge]
+MEDIA: 0.9914911904571844
+
+SYNSET{SID-10558773-N : Words[W-10558773-N-1-scholar]} | a student who holds a scholarship
+BOW: [student, scholarship, scholar, hold]
+MEDIA: 1.2261334676337097
+
+
+----------
+NOME: Camera_Ready_event
+Desc: "confTool""Final upload of accepted contributions"
+Supers: [<http://confOf#Administrative_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [contribution, upload, administrative, ready, final, conf, event, camera, tool, accept]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.3562751466757619
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 1.0006410257105016
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.8185564411869564
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.9077880630618893
+
+
+----------
+NOME: Administrative_event
+Desc: null
+Supers: [<http://confOf#Event>]
+Subs: [<http://confOf#Camera_Ready_event>, <http://confOf#Registration_of_participants_event>, <http://confOf#Reviewing_event>, <http://confOf#Reviewing_results_event>, <http://confOf#Submission_event>]
+Contexto: [result, administrative, ready, review, submission, registration, event, camera, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.281013856525533
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 0.9989786855165019
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.783378460262072
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.9744197732806141
+
+
+----------
+NOME: Reviewing_event
+Desc: "Reviewing procedure for submitted contributions""confTool"
+Supers: [<http://confOf#Administrative_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [contribution, submit, administrative, review, conf, procedure, event, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.253748828836251
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 1.0509608392021619
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.8726099690329647
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.9967038811373641
+
+
+----------
+NOME: Workshop
+Desc: null
+Supers: [<http://confOf#Working_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [workshop, work, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Workshop>
+Synset selecionado: SYNSET{SID-04603081-N : Words[W-04603081-N-1-workshop, W-04603081-N-2-shop]}
+Conjunto de synsets recuperados:
+SYNSET{SID-04603081-N : Words[W-04603081-N-1-workshop, W-04603081-N-2-shop]} | small workplace where handcrafts or manufacturing are done
+BOW: [small, manufacture, shop, workshop, handcraft, workplace]
+MEDIA: 1.971597673707745
+
+SYNSET{SID-00892413-N : Words[W-00892413-N-1-workshop]} | a brief intensive course for a small group; emphasizes problem solving
+BOW: [brief, small, problem, workshop, solve, course, emphasize, intensive, group]
+MEDIA: 1.7770556857188542
+
+
+----------
+NOME: Student
+Desc: "confTool"
+Supers: [<http://confOf#Participant>, <http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [student, person, conf, thing, participant, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Profession>
+Synset selecionado: SYNSET{SID-10557854-N : Words[W-10557854-N-1-scholar, W-10557854-N-2-scholarly_person, W-10557854-N-3-bookman, W-10557854-N-4-student]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10665698-N : Words[W-10665698-N-1-student, W-10665698-N-2-pupil, W-10665698-N-3-educatee]} | a learner who is enrolled in an educational institution
+BOW: [institution, educational, student, enrol, learner, educatee, pupil]
+MEDIA: 1.36890228549462
+
+SYNSET{SID-10557854-N : Words[W-10557854-N-1-scholar, W-10557854-N-2-scholarly_person, W-10557854-N-3-bookman, W-10557854-N-4-student]} | a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines
+BOW: [study, student, learn, bookman, discipline, scholar, long, gain, mastery, scholarly, humanities, especially, person]
+MEDIA: 1.3709889214563493
+
+
+----------
+NOME: Volunteer
+Desc: "confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [volunteer, person, conf, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-10759151-N : Words[W-10759151-N-1-volunteer, W-10759151-N-2-unpaid_worker]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10759331-N : Words[W-10759331-N-1-volunteer, W-10759331-N-2-military_volunteer, W-10759331-N-3-voluntary]} | (military) a person who freely enlists for service
+BOW: [volunteer, person, service, voluntary, military, freely, enlist]
+MEDIA: 1.6314269897661038
+
+SYNSET{SID-10759151-N : Words[W-10759151-N-1-volunteer, W-10759151-N-2-unpaid_worker]} | a person who performs voluntary work
+BOW: [volunteer, person, work, perform, voluntary, unpaid, worker]
+MEDIA: 1.7157797776162624
+
+SYNSET{SID-09745732-N : Words[W-09745732-N-1-Tennessean, W-09745732-N-2-Volunteer]} | a native or resident of Tennessee
+BOW: [volunteer, tennessee, native, tennessean, resident]
+MEDIA: 1.1557860450819135
+
+
+----------
+NOME: Author
+Desc: "confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [author, person, conf, thing, tool]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]} | writes (books or stories or articles or the like) professionally (for pay)
+BOW: [like, author, book, pay, writer, write, professionally, article, story]
+MEDIA: 1.2973048170614576
+
+SYNSET{SID-10126177-N : Words[W-10126177-N-1-generator, W-10126177-N-2-source, W-10126177-N-3-author]} | someone who originates or causes or initiates something; "he was the generator of several complaints"
+BOW: [initiate, originate, complaint, author, generator, cause, source]
+MEDIA: 1.2459716647863388
+
+
+----------
+NOME: Poster
+Desc: "confTool"
+Supers: [<http://confOf#Contribution>, owl:Thing]
+Subs: []
+Contexto: [contribution, conf, poster, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-09854510-N : Words[W-09854510-N-1-bill_poster, W-09854510-N-2-poster, W-09854510-N-3-bill_sticker]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06793426-N : Words[W-06793426-N-1-poster, W-06793426-N-2-posting, W-06793426-N-3-placard, W-06793426-N-4-notice, W-06793426-N-5-bill, W-06793426-N-6-card]} | a sign posted in a public place as an advertisement; "a poster advertised the coming attractions"
+BOW: [sign, bill, come, attraction, post, public, advertisement, place, poster, card, advertise, placard, notice]
+MEDIA: 1.2492376904074962
+
+SYNSET{SID-09854510-N : Words[W-09854510-N-1-bill_poster, W-09854510-N-2-poster, W-09854510-N-3-bill_sticker]} | someone who pastes up bills or placards on walls or billboards
+BOW: [sticker, bill, paste, billboard, poster, wall, placard]
+MEDIA: 1.4754537421145608
+
+SYNSET{SID-02387722-N : Words[W-02387722-N-1-post_horse, W-02387722-N-2-post-horse, W-02387722-N-3-poster]} | a horse kept at an inn or post house for use by mail carriers or for rent to travelers
+BOW: [horse, carrier, post, mail, traveler, use, keep, inn, rent, poster, house, post-horse]
+MEDIA: 0.7600466113750978
+
+
+----------
+NOME: Tutorial
+Desc: null
+Supers: [<http://confOf#Working_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [work, tutorial, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Meeting>
+Synset selecionado: SYNSET{SID-07148022-N : Words[W-07148022-N-1-tutorial]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07148022-N : Words[W-07148022-N-1-tutorial]} | a session of intensive tuition given by a tutor to an individual or to a small number of students
+BOW: [small, give, number, individual, student, session, tutorial, tuition, intensive, tutor]
+MEDIA: 1.6268714529772599
+
+
+----------
+NOME: Trip
+Desc: null
+Supers: [<http://confOf#Social_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [trip, social, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-07288385-N : Words[W-07288385-N-1-trip, W-07288385-N-2-head_trip]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00308370-N : Words[W-00308370-N-1-trip]} | a journey for some purpose (usually including the return); "he took a trip to the shopping center"
+BOW: [include, take, trip, journey, purpose, center, usually, return, shopping]
+MEDIA: 1.6941089088235188
+
+SYNSET{SID-14378311-N : Words[W-14378311-N-1-trip]} | a hallucinatory experience induced by drugs; "an acid trip"
+BOW: [acid, induce, trip, hallucinatory, experience, drug]
+MEDIA: 1.2161496667087905
+
+SYNSET{SID-07317519-N : Words[W-07317519-N-1-slip, W-07317519-N-2-trip]} | an accidental misstep threatening (or causing) a fall; "he blamed his slip on the ice"; "the jolt caused many slips and a few spills"
+BOW: [trip, fall, slip, spill, threaten, blame, cause, ice, jolt, misstep, accidental]
+MEDIA: 1.1577078908554872
+
+SYNSET{SID-07288385-N : Words[W-07288385-N-1-trip, W-07288385-N-2-head_trip]} | an exciting or stimulating experience
+BOW: [head, trip, stimulating, exciting, experience]
+MEDIA: 1.7915188879705966
+
+SYNSET{SID-04485226-N : Words[W-04485226-N-1-tripper, W-04485226-N-2-trip]} | a catch mechanism that acts as a switch; "the pressure activates the tripper and releases the water"
+BOW: [trip, act, release, activate, catch, pressure, mechanism, water, tripper, switch]
+MEDIA: 1.0838246318356444
+
+SYNSET{SID-00286240-N : Words[W-00286240-N-1-trip]} | a light or nimble tread; "he heard the trip of women's feet overhead"
+BOW: [tread, trip, light, nimble, overhead, hear, foot, women]
+MEDIA: 0.9330895961466013
+
+SYNSET{SID-00076563-N : Words[W-00076563-N-1-trip, W-00076563-N-2-trip-up, W-00076563-N-3-stumble, W-00076563-N-4-misstep]} | an unintentional but embarrassing blunder; "he recited the whole poem without a single trip"; "he arranged his robes to avoid a trip-up later"; "confusion caused his unfortunate misstep"
+BOW: [stumble, unfortunate, cause, recite, single, trip, poem, later, trip-up, arrange, robe, embarrassing, unintentional, avoid, blunder, misstep, confusion]
+MEDIA: 0.9567331114564749
+
+
+----------
+NOME: Paper
+Desc: "confTool"
+Supers: [<http://confOf#Contribution>, owl:Thing]
+Subs: []
+Contexto: [contribution, paper, conf, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Paper>
+Synset selecionado: SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.1105684944428504
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.297467817655868
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.1630146190380821
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.2983992239896907
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.2499210263009775
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.1915292715420946
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 0.9730881446972489
+
+
+----------
+NOME: Registration_of_participants_event
+Desc: "Registration of new ConfTool users""confTool"
+Supers: [<http://confOf#Administrative_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [new, administrative, conf, registration, event, user, tool, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.1211598339141347
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 0.9230141028092476
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.9113865781288647
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.8653455916964958
+
+
+----------
+NOME: Contribution
+Desc: "confTool"
+Supers: [owl:Thing]
+Subs: [<http://confOf#Paper>, <http://confOf#Poster>, <http://confOf#Short_paper>]
+Contexto: [contribution, paper, short, conf, poster, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Text>
+Synset selecionado: SYNSET{SID-01102712-N : Words[W-01102712-N-1-contribution]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00787465-N : Words[W-00787465-N-1-contribution, W-00787465-N-2-part, W-00787465-N-3-share]} | the part played by a person in bringing about a result; "I am proud of my contribution in advancing the project"; "they all did their share of the work"
+BOW: [play, result, contribution, proud, person, work, part, bring, project, share, do, advance]
+MEDIA: 1.1884911144963033
+
+SYNSET{SID-13270038-N : Words[W-13270038-N-1-contribution, W-13270038-N-2-donation]} | a voluntary gift (as of money or service or ideas) made to some worthwhile cause
+BOW: [gift, contribution, money, service, idea, donation, voluntary, cause, worthwhile]
+MEDIA: 1.27629136741032
+
+SYNSET{SID-01089778-N : Words[W-01089778-N-1-contribution, W-01089778-N-2-donation]} | act of giving in common with others for a common purpose especially to a charity
+BOW: [give, contribution, act, common, especially, purpose, charity, donation]
+MEDIA: 1.145939651723893
+
+SYNSET{SID-13269890-N : Words[W-13269890-N-1-contribution]} | an amount of money contributed; "he expected his contribution to be repaid with interest"
+BOW: [expect, contribution, repay, money, contribute]
+MEDIA: 1.125294235144143
+
+SYNSET{SID-01102712-N : Words[W-01102712-N-1-contribution]} | a writing for publication especially one of a collection of writings as an article or story
+BOW: [contribution, especially, writings, publication, collection, write, article, story]
+MEDIA: 1.280084732825344
+
+
+----------
+NOME: Member
+Desc: "confTool"
+Supers: [<http://confOf#Participant>, <http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [person, member, conf, thing, participant, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#GroupOfPeople>
+Synset selecionado: SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]} | one of the persons who compose a social group (especially individuals who have joined and participate in a group organization); "only members will be admitted"; "a member of the faculty"; "she was introduced to all the members of his family"
+BOW: [participate, individual, social, introduce, faculty, admit, especially, compose, person, fellow, organization, member, join, family, group]
+MEDIA: 1.5095851863508063
+
+SYNSET{SID-13810615-N : Words[W-13810615-N-1-member]} | anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+BOW: [belong, set, sex, member, snake, opposite, reptilia, class]
+MEDIA: 0.9493901088687077
+
+SYNSET{SID-05559908-N : Words[W-05559908-N-1-extremity, W-05559908-N-2-appendage, W-05559908-N-3-member]} | an external body part that projects from the body; "it is important to keep the extremities warm"
+BOW: [important, external, warm, appendage, part, member, project, body, extremity]
+MEDIA: 1.2954486778902787
+
+SYNSET{SID-08170686-N : Words[W-08170686-N-1-member]} | an organization that is a member of another organization (especially a state that belongs to a group of nations); "the library was a member of the interlibrary loan association"; "Canada is a member of the United Nations"
+BOW: [loan, belong, nation, unite, interlibrary, association, library, especially, canada, organization, member, state, group]
+MEDIA: 1.1681041099225882
+
+SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]} | the male organ of copulation (`member' is a euphemism)
+BOW: [organ, `, copulation, member, penis, phallus, male, euphemism]
+MEDIA: 1.1183709635588457
+
+
+----------
+NOME: Assistant
+Desc: "confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [person, assistant, conf, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-09815790-N : Words[W-09815790-N-1-assistant, W-09815790-N-2-helper, W-09815790-N-3-help, W-09815790-N-4-supporter]}
+Conjunto de synsets recuperados:
+SYNSET{SID-09815790-N : Words[W-09815790-N-1-assistant, W-09815790-N-2-helper, W-09815790-N-3-help, W-09815790-N-4-supporter]} | a person who contributes to the fulfillment of a need or furtherance of an effort or purpose; "my invaluable assistant"; "they hired additional help to finish the work"
+BOW: [invaluable, hire, need, purpose, work, assistant, additional, contribute, effort, supporter, help, helper, furtherance, person, finish, fulfillment]
+MEDIA: 1.2923035369021818
+
+
+----------
+NOME: University
+Desc: null
+Supers: [<http://confOf#Organization>]
+Subs: []
+Contexto: [university, organization]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#University>
+Synset selecionado: SYNSET{SID-08286163-N : Words[W-08286163-N-1-university]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08286163-N : Words[W-08286163-N-1-university]} | the body of faculty and students at a university
+BOW: [student, university, body, faculty]
+MEDIA: 3.907687859609723
+
+SYNSET{SID-04511002-N : Words[W-04511002-N-1-university]} | establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching
+BOW: [include, living, learn, university, establishment, teaching, house, research, seat, administrative, facility, higher, quarter]
+MEDIA: 1.7124760068523197
+
+SYNSET{SID-08286569-N : Words[W-08286569-N-1-university]} | a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees
+BOW: [profession, institution, large, learn, university, degree, create, diverse, educate, grant, life, higher]
+MEDIA: 2.106176034236948
+
+
+----------
+NOME: Member_PC
+Desc: "Reviewer""confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [pc, person, member, conf, reviewer, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Computer>
+Synset selecionado: SYNSET{SID-03918480-N : Words[W-03918480-N-1-personal_computer, W-03918480-N-2-PC, W-03918480-N-3-microcomputer]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03918480-N : Words[W-03918480-N-1-personal_computer, W-03918480-N-2-PC, W-03918480-N-3-microcomputer]} | a small digital computer based on a microprocessor and designed to be used by one person at a time
+BOW: [small, digital, microprocessor, computer, pc, use, person, design, personal, time, microcomputer, base]
+MEDIA: 1.1671655613463372
+
+
+----------
+NOME: Country
+Desc: null
+Supers: []
+Subs: []
+Contexto: [country]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Nation>
+Synset selecionado: SYNSET{SID-08544813-N : Words[W-08544813-N-1-country, W-08544813-N-2-state, W-08544813-N-3-land]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08168978-N : Words[W-08168978-N-1-state, W-08168978-N-2-nation, W-08168978-N-3-country, W-08168978-N-4-land, W-08168978-N-5-commonwealth, W-08168978-N-6-res_publica, W-08168978-N-7-body_politic]} | a politically organized body of people under a single government; "the state has elected a new president"; "African nations"; "students who had come to the nation's capitol"; "the country's largest manufacturer"; "an industrialized land"
+BOW: [publica, country, new, largest, nation, student, industrialize, come, politically, body, people, elect, manufacturer, single, capitol, re, government, politic, organize, african, land, commonwealth, state, president]
+MEDIA: 2.4651350174099207
+
+SYNSET{SID-08544813-N : Words[W-08544813-N-1-country, W-08544813-N-2-state, W-08544813-N-3-land]} | the territory occupied by a nation; "he returned to the land of his birth"; "he visited several European countries"
+BOW: [country, nation, european, land, birth, state, visit, occupied, return, territory]
+MEDIA: 3.2169249653816223
+
+SYNSET{SID-08166552-N : Words[W-08166552-N-1-nation, W-08166552-N-2-land, W-08166552-N-3-country]} | the people who live in a nation or country; "a statement that sums up the nation's mood"; "the news was announced to the nation"; "the whole country worshipped him"
+BOW: [news, country, mood, nation, statement, land, sum, people, worship, live, announce]
+MEDIA: 2.707775705917315
+
+SYNSET{SID-08644722-N : Words[W-08644722-N-1-country, W-08644722-N-2-rural_area]} | an area outside of cities and towns; "his poetry celebrated the slower pace of life in the country"
+BOW: [area, country, town, city, celebrate, outside, rural, pace, slower, life, poetry]
+MEDIA: 2.6011112704873085
+
+SYNSET{SID-08497294-N : Words[W-08497294-N-1-area, W-08497294-N-2-country]} | a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography); "it was a mountainous area"; "Bible country"
+BOW: [area, boundary, country, geographical, bible, distinguish, purpose, particular, serve, people, indefinite, special, mountainous, culture, geography, usually, region]
+MEDIA: 2.2334513381150933
+
+
+----------
+NOME: Submission_event
+Desc: "confTool""Submission of contributions"
+Supers: [<http://confOf#Administrative_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [contribution, administrative, submission, conf, event, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.1786072723722707
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 0.943026690899084
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.9180953741027528
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.9531330733734649
+
+
+----------
+NOME: Banquet
+Desc: null
+Supers: [<http://confOf#Social_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [social, banquet, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Meeting>
+Synset selecionado: SYNSET{SID-08253640-N : Words[W-08253640-N-1-banquet, W-08253640-N-2-feast]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08253640-N : Words[W-08253640-N-1-banquet, W-08253640-N-2-feast]} | a ceremonial dinner party for many people
+BOW: [banquet, ceremonial, dinner, people, party, feast]
+MEDIA: 2.7675144167409997
+
+SYNSET{SID-07578093-N : Words[W-07578093-N-1-banquet, W-07578093-N-2-feast, W-07578093-N-3-spread]} | a meal that is well prepared and greatly enjoyed; "a banquet for the graduating seniors"; "the Thanksgiving feast"; "they put out quite a spread"
+BOW: [meal, senior, thanksgive, prepared, graduate, banquet, enjoy, quite, greatly, feast, spread]
+MEDIA: 1.47756829378054
+
+
+----------
+NOME: Chair_PC
+Desc: "confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [pc, chair, person, conf, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Computer>
+Synset selecionado: SYNSET{SID-03918480-N : Words[W-03918480-N-1-personal_computer, W-03918480-N-2-PC, W-03918480-N-3-microcomputer]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03918480-N : Words[W-03918480-N-1-personal_computer, W-03918480-N-2-PC, W-03918480-N-3-microcomputer]} | a small digital computer based on a microprocessor and designed to be used by one person at a time
+BOW: [small, digital, microprocessor, computer, pc, use, person, design, personal, time, microcomputer, base]
+MEDIA: 1.2432378050612491
+
+
+----------
+NOME: Reception
+Desc: null
+Supers: [<http://confOf#Social_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [social, event, reception]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SocialParty>
+Synset selecionado: SYNSET{SID-08254331-N : Words[W-08254331-N-1-reception]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06630852-N : Words[W-06630852-N-1-reception, W-06630852-N-2-response]} | the manner in which something is greeted; "she did not expect the cold reception she received from her superiors"
+BOW: [expect, receive, superior, response, greet, cold, manner, do, reception]
+MEDIA: 1.384093618641297
+
+SYNSET{SID-08254331-N : Words[W-08254331-N-1-reception]} | a formal party of people; as after a wedding
+BOW: [formal, wedding, reception, people, party]
+MEDIA: 2.2739204317331314
+
+SYNSET{SID-06281040-N : Words[W-06281040-N-1-reception]} | quality or fidelity of a received broadcast
+BOW: [broadcast, receive, fidelity, reception, quality]
+MEDIA: 1.8120246424029272
+
+SYNSET{SID-00090253-N : Words[W-00090253-N-1-reception, W-00090253-N-2-receipt]} | the act of receiving
+BOW: [receive, act, receipt, reception]
+MEDIA: 1.9642987164358299
+
+SYNSET{SID-00139919-N : Words[W-00139919-N-1-reception]} | (American football) the act of catching a pass in football; "the tight end made a great reception on the 20 yard line"
+BOW: [yard, act, pass, line, american, end, football, catch, reception, tight, great, 20]
+MEDIA: 1.0499709875633318
+
+
+----------
+NOME: Conference
+Desc: null
+Supers: [<http://confOf#Working_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [conference, work, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Communication>
+Synset selecionado: SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+MEDIA: 1.9124306893597047
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+MEDIA: 1.983777795297404
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+MEDIA: 2.097309562830358
+
+
+----------
+NOME: City
+Desc: null
+Supers: []
+Subs: []
+Contexto: [city]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#City>
+Synset selecionado: SYNSET{SID-08226335-N : Words[W-08226335-N-1-city, W-08226335-N-2-metropolis]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08524735-N : Words[W-08524735-N-1-city, W-08524735-N-2-metropolis, W-08524735-N-3-urban_center]} | a large and densely populated urban area; may include several independent administrative districts; "Ancient Troy was a great city"
+BOW: [densely, area, include, large, independent, city, metropolis, center, populated, ancient, great, urban, administrative, district, troy]
+MEDIA: 2.7537124352529645
+
+SYNSET{SID-08540903-N : Words[W-08540903-N-1-city]} | an incorporated administrative district established by state charter; "the city raised the tax rate"
+BOW: [established, city, rate, incorporated, administrative, charter, district, raise, tax, state]
+MEDIA: 2.8837037943303585
+
+SYNSET{SID-08226335-N : Words[W-08226335-N-1-city, W-08226335-N-2-metropolis]} | people living in a large densely populated municipality; "the city voted for Republicans in 1994"
+BOW: [densely, large, 1994, city, metropolis, republican, municipality, populated, people, vote, live]
+MEDIA: 2.954075912182981
+
+
+----------
+NOME: Participant
+Desc: "confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: [<http://confOf#Member>, <http://confOf#Regular>, <http://confOf#Student>]
+Contexto: [student, person, member, conf, thing, participant, regular, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10401829-N : Words[W-10401829-N-1-participant]} | someone who takes part in an activity
+BOW: [take, activity, part, participant]
+MEDIA: 1.7305241571739316
+
+SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]} | a person who participates in or is skilled at some game
+BOW: [game, participate, person, skilled, participant, player]
+MEDIA: 2.037996114231646
+
+
+----------
+NOME: Administrator
+Desc: "confTool"
+Supers: [<http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [administrator, person, conf, thing, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-09770472-N : Words[W-09770472-N-1-administrator, W-09770472-N-2-executive]}
+Conjunto de synsets recuperados:
+SYNSET{SID-09770949-N : Words[W-09770949-N-1-administrator, W-09770949-N-2-decision_maker]} | someone who administers a business
+BOW: [administrator, decision, business, administer, maker]
+MEDIA: 1.4412024088203907
+
+SYNSET{SID-09770743-N : Words[W-09770743-N-1-administrator]} | the party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor
+BOW: [probate, die, administrator, executor, appoint, estate, name, distribute, court, party]
+MEDIA: 1.0413234763080255
+
+SYNSET{SID-09770472-N : Words[W-09770472-N-1-administrator, W-09770472-N-2-executive]} | someone who manages a government agency or department
+BOW: [executive, administrator, government, agency, department, manage]
+MEDIA: 1.5128636370257784
+
+
+----------
+NOME: Person
+Desc: "confTool"
+Supers: [owl:Thing]
+Subs: [<http://confOf#Administrator>, <http://confOf#Assistant>, <http://confOf#Author>, <http://confOf#Chair_PC>, <http://confOf#Member_PC>, <http://confOf#Participant>, <http://confOf#Member>, <http://confOf#Regular>, <http://confOf#Student>, <http://confOf#Scholar>, <http://confOf#Science_Worker>, <http://confOf#Volunteer>]
+Contexto: [student, chair, author, assistant, conf, scholar, tool, participant, administrator, volunteer, pc, person, science, member, worker, thing, regular]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+MEDIA: 1.4059405983132194
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+MEDIA: 0.9281570303959169
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+MEDIA: 0.8539128350698192
+
+
+----------
+NOME: Reviewing_results_event
+Desc: "Results of the reviewing procedures, accessable to authors""confTool"
+Supers: [<http://confOf#Administrative_event>, <http://confOf#Event>]
+Subs: []
+Contexto: [result, administrative, review, author, conf, procedure, event, accessable, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.1737387845189207
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 0.9013603171592371
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.9037482418986015
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 1.0992252041210628
+
+
+----------
+NOME: Social_event
+Desc: null
+Supers: [<http://confOf#Event>]
+Subs: [<http://confOf#Banquet>, <http://confOf#Reception>, <http://confOf#Trip>]
+Contexto: [trip, social, banquet, event, reception]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.7179784528911113
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 1.4335199810564518
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.9462052214633635
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.7804544134414755
+
+
+----------
+NOME: Regular
+Desc: "confTool"
+Supers: [<http://confOf#Participant>, <http://confOf#Person>, owl:Thing]
+Subs: []
+Contexto: [person, conf, thing, participant, regular, tool]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-10517743-N : Words[W-10517743-N-1-regular]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10517405-N : Words[W-10517405-N-1-regular, W-10517405-N-2-habitue, W-10517405-N-3-fixture]} | a regular patron; "an habitue of the racetrack"; "a bum who is a Central Park fixture"
+BOW: [habitue, fixture, patron, central, bum, regular, park, racetrack]
+MEDIA: 1.0942298017228798
+
+SYNSET{SID-10517743-N : Words[W-10517743-N-1-regular]} | a soldier in the regular army
+BOW: [army, soldier, regular]
+MEDIA: 1.4065493009467092
+
+SYNSET{SID-10517583-N : Words[W-10517583-N-1-regular]} | a dependable follower (especially in party politics); "he is one of the party regulars"
+BOW: [politics, follower, especially, dependable, regular, party]
+MEDIA: 1.2785792878195126
+
+SYNSET{SID-05096972-N : Words[W-05096972-N-1-regular]} | a garment size for persons of average height and weight
+BOW: [average, size, person, garment, weight, regular, height]
+MEDIA: 1.2949200016668156
+
+
+----------

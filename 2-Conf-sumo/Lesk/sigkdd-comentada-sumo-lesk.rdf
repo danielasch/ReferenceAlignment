@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+		 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+		 xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+		 xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>
+		<Ontology rdf:about="file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO">
+			<location>file:/SUMO.owl</location>
+		</Ontology>
+	</onto1>
+	<onto2>
+		<Ontology rdf:about="http://sigkdd">
+			<location>file:/sigkdd-comentada.owl</location>
+		</Ontology>
+	</onto2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#UnilateralGiving'/>
+			<entity2 rdf:resource='http://sigkdd#Award'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Word'/>
+			<entity2 rdf:resource='http://sigkdd#Person'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Position'/>
+			<entity2 rdf:resource='http://sigkdd#Place'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#TimePosition'/>
+			<entity2 rdf:resource='http://sigkdd#Deadline'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#ChargingAFee'/>
+			<entity2 rdf:resource='http://sigkdd#Fee'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FactualText'/>
+			<entity2 rdf:resource='http://sigkdd#Document'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Commission'/>
+			<entity2 rdf:resource='http://sigkdd#Committee'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting'/>
+			<entity2 rdf:resource='http://sigkdd#Conference'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+</Alignment>
+</rdf:RDF>

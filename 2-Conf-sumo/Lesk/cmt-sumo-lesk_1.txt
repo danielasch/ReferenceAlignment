@@ -1,0 +1,189 @@
+NOME: ProgramCommittee
+Desc: null
+Supers: []
+Subs: []
+Contexto: [committee, program]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Commission>
+Synset selecionado: SYNSET{SID-08324514-N : Words[W-08324514-N-1-committee, W-08324514-N-2-commission]}
+Número de Synsets recuperados: 2
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08324514-N : Words[W-08324514-N-1-committee, W-08324514-N-2-commission]} | a special group delegated to consider some matter; "a committee is a group that keeps minutes and loses hours" - Milton Berle
+BOW: [committee, lose, matter, minute, special, delegate, hour, keep, milton, commission, consider, berle, group]
+
+SYNSET{SID-08325686-N : Words[W-08325686-N-1-committee, W-08325686-N-2-citizens_committee]} | a self-constituted organization to promote something
+BOW: [citizen, promote, committee, organization, self, constitute]
+
+Intersecção de palavras: committee,
+----------
+NOME: Conference
+Desc: null
+Supers: [owl:Thing]
+Subs: []
+Contexto: [conference, thing]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+
+Intersecção de palavras: conference,
+----------
+NOME: SubjectArea
+Desc: null
+Supers: []
+Subs: []
+Contexto: [area, subject]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FieldOfStudy>
+Synset selecionado: SYNSET{SID-05815517-N : Words[W-05815517-N-1-area]}
+Número de Synsets recuperados: 6
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08497294-N : Words[W-08497294-N-1-area, W-08497294-N-2-country]} | a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography); "it was a mountainous area"; "Bible country"
+BOW: [area, boundary, country, geographical, bible, distinguish, purpose, particular, serve, people, indefinite, special, mountainous, culture, geography, usually, region]
+
+SYNSET{SID-05815517-N : Words[W-05815517-N-1-area]} | a subject of study; "it was his area of specialization"; "areas of interest include..."
+BOW: [area, include, study, subject, specialization]
+
+SYNSET{SID-05221895-N : Words[W-05221895-N-1-area, W-05221895-N-2-region]} | a part of an animal that has a special function or is supplied by a given artery or nerve; "in the abdominal region"
+BOW: [area, special, give, part, function, nerve, animal, abdominal, artery, region, supply]
+
+SYNSET{SID-14514039-N : Words[W-14514039-N-1-sphere, W-14514039-N-2-domain, W-14514039-N-3-area, W-14514039-N-4-orbit, W-14514039-N-5-field, W-14514039-N-6-arena]} | a particular environment or walk of life; "his social sphere is limited"; "it was a closed area of employment"; "he's out of my orbit"
+BOW: [area, social, particular, arena, employment, life, environment, field, sphere, domain, limit, orbit, close, he, walk]
+
+SYNSET{SID-02735688-N : Words[W-02735688-N-1-area]} | a part of a structure having some specific characteristic or function; "the spacious cooking area provided plenty of room for servants"
+BOW: [area, part, spacious, plenty, specific, structure, characteristic, room, servant, provide, function, have, cooking]
+
+SYNSET{SID-05128519-N : Words[W-05128519-N-1-area, W-05128519-N-2-expanse, W-05128519-N-3-surface_area]} | the extent of a 2-dimensional surface enclosed within a boundary; "the area of a rectangle"; "it was about 500 square feet in area"
+BOW: [area, extent, boundary, square, 2, surface, dimensional, 500, rectangle, expanse, foot, enclosed]
+
+Intersecção de palavras: area, subject,
+----------
+NOME: Document
+Desc: null
+Supers: []
+Subs: [<http://cmt#Paper>, <http://cmt#PaperAbstract>, <http://cmt#PaperFullVersion>, <http://cmt#Review>, <http://cmt#Meta-Review>]
+Contexto: [paper, review, meta, document, abstract, version]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FactualText>
+Synset selecionado: SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]} | writing that provides information (especially information of an official nature)
+BOW: [provide, especially, nature, document, official, information, write, papers]
+
+SYNSET{SID-03217458-N : Words[W-03217458-N-1-document]} | anything serving as a representation of a person's thinking by means of symbolic marks
+BOW: [symbolic, think, means, person, document, serve, representation, mark]
+
+SYNSET{SID-13403331-N : Words[W-13403331-N-1-document]} | a written account of ownership or obligation
+BOW: [ownership, obligation, document, write, account]
+
+SYNSET{SID-06510977-N : Words[W-06510977-N-1-text_file, W-06510977-N-2-document]} | (computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+BOW: [contain, use, document, format, seven, bit, character, file, instruction, science, text, possibly, ascius]
+
+Intersecção de palavras: document,
+----------
+NOME: Bid
+Desc: null
+Supers: []
+Subs: []
+Contexto: [bid]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Ordering>
+Synset selecionado: SYNSET{SID-07168131-N : Words[W-07168131-N-1-command, W-07168131-N-2-bid, W-07168131-N-3-bidding, W-07168131-N-4-dictation]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-07168131-N : Words[W-07168131-N-1-command, W-07168131-N-2-bid, W-07168131-N-3-bidding, W-07168131-N-4-dictation]} | an authoritative direction or instruction to do something
+BOW: [dictation, authoritative, bidding, instruction, bid, command, direction]
+
+SYNSET{SID-00786887-N : Words[W-00786887-N-1-bid, W-00786887-N-2-play]} | an attempt to get something; "they made a futile play for power"; "he made a bid to gain attention"
+BOW: [play, futile, attention, power, bid, attempt, gain]
+
+SYNSET{SID-07165086-N : Words[W-07165086-N-1-bid, W-07165086-N-2-tender]} | a formal proposal to buy at a specified price
+BOW: [tender, formal, proposal, price, buy, specify, bid]
+
+SYNSET{SID-06737112-N : Words[W-06737112-N-1-bid, W-06737112-N-2-bidding]} | (bridge) the number of tricks a bridge player is willing to contract to make
+BOW: [number, bidding, willing, contract, bridge, trick, bid, make, player]
+
+Intersecção de palavras: bid,
+----------
+NOME: Person
+Desc: null
+Supers: []
+Subs: [<http://cmt#Chairman>, <http://cmt#ConferenceMember>, <http://cmt#AssociatedChair>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#ConferenceChair>, <http://cmt#ProgramCommitteeMember>, <http://cmt#ProgramCommitteeChair>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>, <http://cmt#ExternalReviewer>, <http://cmt#ProgramCommitteeMember>, <http://cmt#ProgramCommitteeChair>, <http://cmt#User>, <http://cmt#Administrator>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>]
+Contexto: [conference, committee, author, chair, chairman, reviewer, program, associate, external, administrator, co-author, meta, person, member, user]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+
+Intersecção de palavras: person,
+----------
+NOME: Preference
+Desc: null
+Supers: []
+Subs: []
+Contexto: [preference]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#PsychologicalAttribute>
+Synset selecionado: SYNSET{SID-07498210-N : Words[W-07498210-N-1-preference, W-07498210-N-2-penchant, W-07498210-N-3-predilection, W-07498210-N-4-taste]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-07498210-N : Words[W-07498210-N-1-preference, W-07498210-N-2-penchant, W-07498210-N-3-predilection, W-07498210-N-4-taste]} | a strong liking; "my own preference is for good literature"; "the Irish have a penchant for blarney"
+BOW: [liking, literature, predilection, strong, preference, taste, penchant, irish, good, blarney]
+
+SYNSET{SID-06200344-N : Words[W-06200344-N-1-predilection, W-06200344-N-2-preference, W-06200344-N-3-orientation]} | a predisposition in favor of something; "a predilection for expensive cars"; "his sexual preferences"; "showed a Marxist orientation"
+BOW: [predilection, orientation, favor, car, preference, show, predisposition, marxist, sexual, expensive]
+
+SYNSET{SID-05791452-N : Words[W-05791452-N-1-preference, W-05791452-N-2-druthers]} | the right or chance to choose; "given my druthers, I'd eat cake"
+BOW: [give, chance, druther, cake, preference, eat, choose, right, id]
+
+SYNSET{SID-05158095-N : Words[W-05158095-N-1-preference]} | grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)
+BOW: [country, trade, especially, favor, advantage, preference, duty, grant, matter, international, levy]
+
+Intersecção de palavras: preference,
+----------
+NOME: Decision
+Desc: null
+Supers: []
+Subs: [<http://cmt#Acceptance>, <http://cmt#Rejection>]
+Contexto: [acceptance, decision, rejection]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Deciding>
+Synset selecionado: SYNSET{SID-00162632-N : Words[W-00162632-N-1-decision, W-00162632-N-2-determination, W-00162632-N-3-conclusion]}
+Número de Synsets recuperados: 5
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00162632-N : Words[W-00162632-N-1-decision, W-00162632-N-2-determination, W-00162632-N-3-conclusion]} | the act of making up your mind about something; "the burden of decision was his"; "he drew his conclusions quickly"
+BOW: [conclusion, mind, act, decision, quickly, determination, draw, make, burden]
+
+SYNSET{SID-05838176-N : Words[W-05838176-N-1-decision, W-05838176-N-2-determination, W-05838176-N-3-conclusion]} | a position or opinion or judgment reached after consideration; "a decision unfavorable to the opposition"; "his conclusion took the evidence into account"; "satisfied with the panel's determination"
+BOW: [decision, evidence, reach, satisfied, determination, opinion, conclusion, opposition, take, judgment, unfavorable, consideration, position, panel, account]
+
+SYNSET{SID-07293678-N : Words[W-07293678-N-1-decision]} | (boxing) a victory won on points when no knockout has occurred; "had little trouble in taking a unanimous decision over his opponent"
+BOW: [knockout, take, decision, occur, victory, unanimous, opponent, boxing, trouble, win, point, little]
+
+SYNSET{SID-07293546-N : Words[W-07293546-N-1-decision]} | the outcome of a game or contest; "the team dropped three decisions in a row"
+BOW: [drop, game, contest, decision, team, row, outcome]
+
+SYNSET{SID-04863969-N : Words[W-04863969-N-1-decisiveness, W-04863969-N-2-decision]} | the trait of resoluteness as evidenced by firmness of character or purpose; "a man of unusual decisiveness"
+BOW: [character, decision, evidence, purpose, firmness, decisiveness, trait, man, resoluteness, unusual]
+
+Intersecção de palavras: decision,
+----------

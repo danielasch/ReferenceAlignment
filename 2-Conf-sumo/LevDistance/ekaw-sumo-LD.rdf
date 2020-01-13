@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+		 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+		 xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+		 xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>
+		<Ontology rdf:about="file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO">
+			<location>file:/SUMO.owl</location>
+		</Ontology>
+	</onto1>
+	<onto2>
+		<Ontology rdf:about="http://ekaw">
+			<location>file:/ekaw.owl</location>
+		</Ontology>
+	</onto2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Word'/>
+			<entity2 rdf:resource='http://ekaw#Person'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Learning'/>
+			<entity2 rdf:resource='http://ekaw#Location'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#ComputerFile'/>
+			<entity2 rdf:resource='http://ekaw#Document'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#OrganizationalBoard'/>
+			<entity2 rdf:resource='http://ekaw#Organisation'/>
+			<relation>&lt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://ekaw#Research_Topic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://ekaw#Event'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+</Alignment>
+</rdf:RDF>

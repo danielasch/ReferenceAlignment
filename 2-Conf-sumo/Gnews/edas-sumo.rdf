@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+		 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+		 xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+		 xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>
+		<Ontology rdf:about="file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO">
+			<location>file:/SUMO.owl</location>
+		</Ontology>
+	</onto1>
+	<onto2>
+		<Ontology rdf:about="http://edas">
+			<location>file:/edas.owl</location>
+		</Ontology>
+	</onto2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Helping'/>
+			<entity2 rdf:resource='http://edas#Sponsorship'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human'/>
+			<entity2 rdf:resource='http://edas#Person'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksEnterpriseTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SocialParty'/>
+			<entity2 rdf:resource='http://edas#Reception'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Nation'/>
+			<entity2 rdf:resource='http://edas#Country'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Questioning'/>
+			<entity2 rdf:resource='http://edas#TextualReviewQuestion'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#SignalProcessingTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://edas#AcademicEvent'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksSensorTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article'/>
+			<entity2 rdf:resource='http://edas#RejectedPaper'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Communication'/>
+			<entity2 rdf:resource='http://edas#TwoLevelConference'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SubjectiveAssessmentAttribute'/>
+			<entity2 rdf:resource='http://edas#MeetingRoomPlace'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Putting'/>
+			<entity2 rdf:resource='http://edas#SlideSet'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#LandArea'/>
+			<entity2 rdf:resource='http://edas#Place'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization'/>
+			<entity2 rdf:resource='http://edas#GovernmentOrganization'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human'/>
+			<entity2 rdf:resource='http://edas#Presenter'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#MedicineTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Questioning'/>
+			<entity2 rdf:resource='http://edas#NumericalReviewQuestion'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization'/>
+			<entity2 rdf:resource='http://edas#Organization'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SubjectiveAssessmentAttribute'/>
+			<entity2 rdf:resource='http://edas#ConferenceVenuePlace'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Lecture'/>
+			<entity2 rdf:resource='http://edas#ClosingTalk'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksOpticalTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#Topic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Newspaper'/>
+			<entity2 rdf:resource='http://edas#ActivePaper'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Certificate'/>
+			<entity2 rdf:resource='http://edas#Document'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FactualText'/>
+			<entity2 rdf:resource='http://edas#ContactInformation'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Corporation'/>
+			<entity2 rdf:resource='http://edas#PublishedPaper'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Communication'/>
+			<entity2 rdf:resource='http://edas#Conference'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksAapplicationsTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#WirelessCommunicationsTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://edas#BreakEvent'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#CryptographyTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#AntennasTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Questioning'/>
+			<entity2 rdf:resource='http://edas#ReviewQuestion'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Communication'/>
+			<entity2 rdf:resource='http://edas#SingleLevelConference'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SubjectiveAssessmentAttribute'/>
+			<entity2 rdf:resource='http://edas#AccommodationPlace'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#ReviewForm'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing'/>
+			<entity2 rdf:resource='http://edas#CallForReviews'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Separating'/>
+			<entity2 rdf:resource='http://edas#CoffeeBreak'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Lecture'/>
+			<entity2 rdf:resource='http://edas#WelcomeTalk'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Requesting'/>
+			<entity2 rdf:resource='http://edas#PaperPresentation'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing'/>
+			<entity2 rdf:resource='http://edas#WeekRejectRating'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#PerformanceTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing'/>
+			<entity2 rdf:resource='http://edas#Review'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#TimeInterval'/>
+			<entity2 rdf:resource='http://edas#FreeTimeBreak'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#IntentionalProcess'/>
+			<entity2 rdf:resource='http://www.w3.org/2002/07/owl#Thing'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#EducationalProcess'/>
+			<entity2 rdf:resource='http://edas#Workshop'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://edas#SocialEvent'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://edas#NonAcademicEvent'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#BloodTypeO'/>
+			<entity2 rdf:resource='http://edas#NGO'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#SecurityTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization'/>
+			<entity2 rdf:resource='http://edas#AcademiaOrganization'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization'/>
+			<entity2 rdf:resource='http://edas#IndustryOrganization'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article'/>
+			<entity2 rdf:resource='http://edas#PendingPaper'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Chair'/>
+			<entity2 rdf:resource='http://edas#SessionChair'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Region'/>
+			<entity2 rdf:resource='http://edas#DiningPlace'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#RadioCommunicationsTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#ComputerArchitectureTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human'/>
+			<entity2 rdf:resource='http://edas#Attendee'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#MobileComputingTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksMeasurementsTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#MultimediaTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#GroupOfPeople'/>
+			<entity2 rdf:resource='http://edas#TPCMember'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Corporation'/>
+			<entity2 rdf:resource='http://edas#Paper'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Meeting'/>
+			<entity2 rdf:resource='http://edas#OrganizationalMeeting'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#ParallelAndDistributedComputingTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Translocation'/>
+			<entity2 rdf:resource='http://edas#Excursion'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#CADTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://edas#MealEvent'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position'/>
+			<entity2 rdf:resource='http://edas#Reviewer'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Corporation'/>
+			<entity2 rdf:resource='http://edas#AcceptedPaper'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#TestOnlyTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#SatelliteAndSpaceCommunicationsTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Text'/>
+			<entity2 rdf:resource='http://edas#CallForManuscripts'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting'/>
+			<entity2 rdf:resource='http://edas#ConferenceSession'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://edas#ConferenceEvent'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Requesting'/>
+			<entity2 rdf:resource='http://edas#Call'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#MicroelectronicsTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#CommunicationTheoryTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksSwitchingTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FactualText'/>
+			<entity2 rdf:resource='http://edas#RatedPapers'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Entity'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksSecurityTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#PowerlineTransmissionTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#ComputerNetworksManagementTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing'/>
+			<entity2 rdf:resource='http://edas#ReviewRating'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing'/>
+			<entity2 rdf:resource='http://edas#RejectRating'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#UnilateralGiving'/>
+			<entity2 rdf:resource='http://edas#TravelGrant'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Separating'/>
+			<entity2 rdf:resource='http://edas#MealBreak'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition'/>
+			<entity2 rdf:resource='http://edas#CommunicationsTopic'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Corporation'/>
+			<entity2 rdf:resource='http://edas#WithdrawnPaper'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FactualText'/>
+			<entity2 rdf:resource='http://edas#CallForPapers'/>
+			<relation>&gt;</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#ComputerProgram'/>
+			<entity2 rdf:resource='http://edas#Programme'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource='file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process'/>
+			<entity2 rdf:resource='http://edas#TalkEvent'/>
+			<relation>&lt</relation>
+			<measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+		</Cell>
+	</map>
+</Alignment>
+</rdf:RDF>

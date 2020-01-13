@@ -1,0 +1,832 @@
+NOME: Co-author
+Desc: null
+Supers: [<http://cmt#Author>, <http://cmt#ConferenceMember>, <http://cmt#Person>, <http://cmt#User>, <http://cmt#Person>]
+Subs: []
+Contexto: [co-author, conference, author, person, member, user]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]} | writes (books or stories or articles or the like) professionally (for pay)
+BOW: [like, author, book, pay, writer, write, professionally, article, story]
+MEDIA: 1.0610262828628982
+
+SYNSET{SID-10126177-N : Words[W-10126177-N-1-generator, W-10126177-N-2-source, W-10126177-N-3-author]} | someone who originates or causes or initiates something; "he was the generator of several complaints"
+BOW: [initiate, originate, complaint, author, generator, cause, source]
+MEDIA: 0.9687261214657199
+
+
+----------
+NOME: Thing
+Desc: null
+Supers: []
+Subs: [<http://cmt#Conference>]
+Contexto: [conference, thing]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#IntentionalProcess>
+Synset selecionado: SYNSET{SID-00034479-N : Words[W-00034479-N-1-thing]}
+Conjunto de synsets recuperados:
+SYNSET{SID-13943968-N : Words[W-13943968-N-1-thing]} | a special situation; "this thing has got to end"; "it is a remarkable thing"
+BOW: [special, remarkable, get, end, thing, situation]
+MEDIA: 1.9728405789161723
+
+SYNSET{SID-00034479-N : Words[W-00034479-N-1-thing]} | an action; "how could you do such a thing?"
+BOW: [action, thing]
+MEDIA: 3.166120587848127
+
+SYNSET{SID-05855004-N : Words[W-05855004-N-1-thing]} | a special abstraction; "a thing of the spirit"; "things of the heart"
+BOW: [special, abstraction, spirit, thing, heart]
+MEDIA: 1.5413557663559914
+
+SYNSET{SID-04424218-N : Words[W-04424218-N-1-thing]} | an artifact; "how does this thing work?"
+BOW: [artifact, work, do, thing]
+MEDIA: 2.554452731856145
+
+SYNSET{SID-07289831-N : Words[W-07289831-N-1-thing]} | an event; "a funny thing happened on the way to the..."
+BOW: [happen, event, thing, funny, way]
+MEDIA: 3.0722985630854964
+
+SYNSET{SID-05671325-N : Words[W-05671325-N-1-matter, W-05671325-N-2-affair, W-05671325-N-3-thing]} | a vaguely specified concern; "several matters to attend to"; "it is none of your affair"; "things are going well"
+BOW: [attend, specify, go, affair, matter, thing, vaguely, concern]
+MEDIA: 1.9829915824811906
+
+SYNSET{SID-06723908-N : Words[W-06723908-N-1-thing]} | a statement regarded as an object; "to say the same thing in other terms"; "how can you say such a thing?"
+BOW: [regard, statement, say, term, thing, object]
+MEDIA: 2.024498919102674
+
+SYNSET{SID-04424418-N : Words[W-04424418-N-1-thing]} | an entity that is not named specifically; "I couldn't tell what the thing was"
+BOW: [tell, name, specifically, thing, entity]
+MEDIA: 2.1587630342692137
+
+SYNSET{SID-04617289-N : Words[W-04617289-N-1-thing]} | any attribute or quality considered as having its own existence; "the thing I like about her is ..."
+BOW: [like, have, existence, attribute, consider, thing, quality]
+MEDIA: 1.7608408925921788
+
+SYNSET{SID-05984182-N : Words[W-05984182-N-1-thing]} | a special objective; "the thing is to stay in bounds"
+BOW: [special, bound, thing, objective, stay]
+MEDIA: 1.8570990432053804
+
+SYNSET{SID-07480356-N : Words[W-07480356-N-1-thing]} | a persistent illogical feeling of desire or aversion; "he has a thing about seafood"; "she has a thing about him"
+BOW: [aversion, seafood, desire, feeling, persistent, thing, illogical]
+MEDIA: 1.5489910622792584
+
+SYNSET{SID-00002452-N : Words[W-00002452-N-1-thing]} | a separate and self-contained entity
+BOW: [contain, separate, self, thing, entity]
+MEDIA: 1.7025266904383898
+
+
+----------
+NOME: User
+Desc: null
+Supers: [<http://cmt#Person>]
+Subs: [<http://cmt#Administrator>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>]
+Contexto: [administrator, co-author, author, meta, person, reviewer, user]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#DiseaseOrSyndrome>
+Synset selecionado: SYNSET{SID-10036266-N : Words[W-10036266-N-1-drug_user, W-10036266-N-2-substance_abuser, W-10036266-N-3-user]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10741590-N : Words[W-10741590-N-1-user]} | a person who makes use of a thing; someone who uses or employs something
+BOW: [employ, person, use, user, make, thing]
+MEDIA: 1.364577482232735
+
+SYNSET{SID-10072546-N : Words[W-10072546-N-1-exploiter, W-10072546-N-2-user]} | a person who uses something or someone selfishly or unethically
+BOW: [unethically, person, use, exploiter, user, selfishly]
+MEDIA: 1.472401807605777
+
+SYNSET{SID-10036266-N : Words[W-10036266-N-1-drug_user, W-10036266-N-2-substance_abuser, W-10036266-N-3-user]} | a person who takes drugs
+BOW: [take, person, substance, user, abuser, drug]
+MEDIA: 1.5177671153408787
+
+
+----------
+NOME: ProgramCommittee
+Desc: null
+Supers: []
+Subs: []
+Contexto: [committee, program]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization>
+Synset selecionado: SYNSET{SID-08325686-N : Words[W-08325686-N-1-committee, W-08325686-N-2-citizens_committee]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08324514-N : Words[W-08324514-N-1-committee, W-08324514-N-2-commission]} | a special group delegated to consider some matter; "a committee is a group that keeps minutes and loses hours" - Milton Berle
+BOW: [committee, lose, matter, minute, special, delegate, hour, keep, milton, commission, consider, berle, group]
+MEDIA: 1.5986903162243276
+
+SYNSET{SID-08325686-N : Words[W-08325686-N-1-committee, W-08325686-N-2-citizens_committee]} | a self-constituted organization to promote something
+BOW: [citizen, promote, committee, organization, self, constitute]
+MEDIA: 2.1582844822357097
+
+
+----------
+NOME: AuthorNotReviewer
+Desc: null
+Supers: [<http://cmt#Author>, <http://cmt#ConferenceMember>, <http://cmt#Person>, <http://cmt#User>, <http://cmt#Person>]
+Subs: []
+Contexto: [conference, author, person, member, reviewer, user]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Writing>
+Synset selecionado: SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]} | someone who reads manuscripts and judges their suitability for publication
+BOW: [read, manuscript, suitability, reader, publication, reviewer, judge, referee]
+MEDIA: 1.5804842679062858
+
+SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]} | a writer who reports and analyzes events of the day
+BOW: [commentator, analyze, report, reviewer, writer, event, day]
+MEDIA: 1.7301362012845596
+
+
+----------
+NOME: Conference
+Desc: null
+Supers: [owl:Thing]
+Subs: []
+Contexto: [conference, thing]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Communication>
+Synset selecionado: SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+MEDIA: 1.83217358822003
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+MEDIA: 2.0079712697770447
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+MEDIA: 2.4120588057364025
+
+
+----------
+NOME: SubjectArea
+Desc: null
+Supers: []
+Subs: []
+Contexto: [area, subject]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FieldOfStudy>
+Synset selecionado: SYNSET{SID-05815517-N : Words[W-05815517-N-1-area]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08497294-N : Words[W-08497294-N-1-area, W-08497294-N-2-country]} | a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography); "it was a mountainous area"; "Bible country"
+BOW: [area, boundary, country, geographical, bible, distinguish, purpose, particular, serve, people, indefinite, special, mountainous, culture, geography, usually, region]
+MEDIA: 1.6649620443144266
+
+SYNSET{SID-05815517-N : Words[W-05815517-N-1-area]} | a subject of study; "it was his area of specialization"; "areas of interest include..."
+BOW: [area, include, study, subject, specialization]
+MEDIA: 2.982416471466422
+
+SYNSET{SID-05221895-N : Words[W-05221895-N-1-area, W-05221895-N-2-region]} | a part of an animal that has a special function or is supplied by a given artery or nerve; "in the abdominal region"
+BOW: [area, special, give, part, function, nerve, animal, abdominal, artery, region, supply]
+MEDIA: 1.6319376590069046
+
+SYNSET{SID-14514039-N : Words[W-14514039-N-1-sphere, W-14514039-N-2-domain, W-14514039-N-3-area, W-14514039-N-4-orbit, W-14514039-N-5-field, W-14514039-N-6-arena]} | a particular environment or walk of life; "his social sphere is limited"; "it was a closed area of employment"; "he's out of my orbit"
+BOW: [area, social, particular, arena, employment, life, environment, field, sphere, domain, limit, orbit, close, he, walk]
+MEDIA: 1.6261595974986753
+
+SYNSET{SID-02735688-N : Words[W-02735688-N-1-area]} | a part of a structure having some specific characteristic or function; "the spacious cooking area provided plenty of room for servants"
+BOW: [area, part, spacious, plenty, specific, structure, characteristic, room, servant, provide, function, have, cooking]
+MEDIA: 1.5694833142557538
+
+SYNSET{SID-05128519-N : Words[W-05128519-N-1-area, W-05128519-N-2-expanse, W-05128519-N-3-surface_area]} | the extent of a 2-dimensional surface enclosed within a boundary; "the area of a rectangle"; "it was about 500 square feet in area"
+BOW: [area, extent, boundary, square, 2, surface, dimensional, 500, rectangle, expanse, foot, enclosed]
+MEDIA: 1.669280903879553
+
+
+----------
+NOME: PaperFullVersion
+Desc: null
+Supers: [<http://cmt#Paper>, <http://cmt#Document>]
+Subs: []
+Contexto: [paper, document, version]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#PsychologicalAttribute>
+Synset selecionado: SYNSET{SID-05928513-N : Words[W-05928513-N-1-interpretation, W-05928513-N-2-reading, W-05928513-N-3-version]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07173585-N : Words[W-07173585-N-1-version]} | an interpretation of a matter from a particular viewpoint; "his version of the fight was different from mine"
+BOW: [viewpoint, interpretation, particular, matter, different, version, fight]
+MEDIA: 1.5474507199334246
+
+SYNSET{SID-05840650-N : Words[W-05840650-N-1-version, W-05840650-N-2-variant, W-05840650-N-3-variation, W-05840650-N-4-edition]} | something a little different from others of the same type; "an experimental version of the night fighter"; "a variant of the same word"; "an emery wheel is the modern variation of a grindstone"; "the boy is a younger edition of his father"
+BOW: [younger, emery, wheel, night, father, edition, experimental, type, version, boy, variation, grindstone, modern, variant, fighter, different, word, little]
+MEDIA: 1.2748101091495265
+
+SYNSET{SID-06408779-N : Words[W-06408779-N-1-adaptation, W-06408779-N-2-version]} | a written work (as a novel) that has been recast in a new form; "the play is an adaptation of a short novel"
+BOW: [play, new, recast, form, work, adaptation, short, version, write, novel]
+MEDIA: 1.6113079835971196
+
+SYNSET{SID-06536389-N : Words[W-06536389-N-1-translation, W-06536389-N-2-interlingual_rendition, W-06536389-N-3-rendering, W-06536389-N-4-version]} | a written communication in a second language having the same meaning as the written communication in a first language
+BOW: [rendition, interlingual, meaning, translation, have, language, communication, render, version, write, second]
+MEDIA: 1.4822543605766965
+
+SYNSET{SID-05928513-N : Words[W-05928513-N-1-interpretation, W-05928513-N-2-reading, W-05928513-N-3-version]} | a mental representation of the meaning or significance of something
+BOW: [significance, interpretation, meaning, reading, mental, version, representation]
+MEDIA: 1.6392846999778634
+
+SYNSET{SID-01267901-N : Words[W-01267901-N-1-version]} | manual turning of a fetus in the uterus (usually to aid delivery)
+BOW: [delivery, uterus, turn, usually, manual, version, aid, fetus]
+MEDIA: 1.4728303237158495
+
+
+----------
+NOME: Document
+Desc: null
+Supers: []
+Subs: [<http://cmt#Paper>, <http://cmt#PaperAbstract>, <http://cmt#PaperFullVersion>, <http://cmt#Review>, <http://cmt#Meta-Review>]
+Contexto: [paper, review, meta, document, abstract, version]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FactualText>
+Synset selecionado: SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]} | writing that provides information (especially information of an official nature)
+BOW: [provide, especially, nature, document, official, information, write, papers]
+MEDIA: 1.5819468866296422
+
+SYNSET{SID-03217458-N : Words[W-03217458-N-1-document]} | anything serving as a representation of a person's thinking by means of symbolic marks
+BOW: [symbolic, think, means, person, document, serve, representation, mark]
+MEDIA: 1.113889190419286
+
+SYNSET{SID-13403331-N : Words[W-13403331-N-1-document]} | a written account of ownership or obligation
+BOW: [ownership, obligation, document, write, account]
+MEDIA: 1.5630841850458335
+
+SYNSET{SID-06510977-N : Words[W-06510977-N-1-text_file, W-06510977-N-2-document]} | (computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+BOW: [contain, use, document, format, seven, bit, character, file, instruction, science, text, possibly, ascius]
+MEDIA: 1.366624146914826
+
+
+----------
+NOME: ProgramCommitteeMember
+Desc: "The Program Committee consists of all members of the conference except for Authors who are not also Reviewers."
+Supers: [<http://cmt#ConferenceMember>, <http://cmt#Person>, <http://cmt#Person>]
+Subs: [<http://cmt#ProgramCommitteeChair>]
+Contexto: [committee, conference, chair, person, author, member, program, reviewer, consist]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#GroupOfPeople>
+Synset selecionado: SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]} | one of the persons who compose a social group (especially individuals who have joined and participate in a group organization); "only members will be admitted"; "a member of the faculty"; "she was introduced to all the members of his family"
+BOW: [participate, individual, social, introduce, faculty, admit, especially, compose, person, fellow, organization, member, join, family, group]
+MEDIA: 1.2985496122963482
+
+SYNSET{SID-13810615-N : Words[W-13810615-N-1-member]} | anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+BOW: [belong, set, sex, member, snake, opposite, reptilia, class]
+MEDIA: 0.7994427422494886
+
+SYNSET{SID-05559908-N : Words[W-05559908-N-1-extremity, W-05559908-N-2-appendage, W-05559908-N-3-member]} | an external body part that projects from the body; "it is important to keep the extremities warm"
+BOW: [important, external, warm, appendage, part, member, project, body, extremity]
+MEDIA: 1.0816738951698315
+
+SYNSET{SID-08170686-N : Words[W-08170686-N-1-member]} | an organization that is a member of another organization (especially a state that belongs to a group of nations); "the library was a member of the interlibrary loan association"; "Canada is a member of the United Nations"
+BOW: [loan, belong, nation, unite, interlibrary, association, library, especially, canada, organization, member, state, group]
+MEDIA: 1.1251204608219207
+
+SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]} | the male organ of copulation (`member' is a euphemism)
+BOW: [organ, `, copulation, member, penis, phallus, male, euphemism]
+MEDIA: 0.9048313893516833
+
+
+----------
+NOME: ConferenceMember
+Desc: null
+Supers: [<http://cmt#Person>]
+Subs: [<http://cmt#AssociatedChair>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#ConferenceChair>, <http://cmt#ProgramCommitteeMember>, <http://cmt#ProgramCommitteeChair>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>]
+Contexto: [co-author, committee, conference, author, chair, meta, person, member, reviewer, program, associate]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#GroupOfPeople>
+Synset selecionado: SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]} | one of the persons who compose a social group (especially individuals who have joined and participate in a group organization); "only members will be admitted"; "a member of the faculty"; "she was introduced to all the members of his family"
+BOW: [participate, individual, social, introduce, faculty, admit, especially, compose, person, fellow, organization, member, join, family, group]
+MEDIA: 1.1569127624459339
+
+SYNSET{SID-13810615-N : Words[W-13810615-N-1-member]} | anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+BOW: [belong, set, sex, member, snake, opposite, reptilia, class]
+MEDIA: 0.6645601959660946
+
+SYNSET{SID-05559908-N : Words[W-05559908-N-1-extremity, W-05559908-N-2-appendage, W-05559908-N-3-member]} | an external body part that projects from the body; "it is important to keep the extremities warm"
+BOW: [important, external, warm, appendage, part, member, project, body, extremity]
+MEDIA: 0.9924129636092771
+
+SYNSET{SID-08170686-N : Words[W-08170686-N-1-member]} | an organization that is a member of another organization (especially a state that belongs to a group of nations); "the library was a member of the interlibrary loan association"; "Canada is a member of the United Nations"
+BOW: [loan, belong, nation, unite, interlibrary, association, library, especially, canada, organization, member, state, group]
+MEDIA: 0.9918481204251699
+
+SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]} | the male organ of copulation (`member' is a euphemism)
+BOW: [organ, `, copulation, member, penis, phallus, male, euphemism]
+MEDIA: 0.8840486439757197
+
+
+----------
+NOME: Acceptance
+Desc: null
+Supers: [<http://cmt#Decision>]
+Subs: []
+Contexto: [acceptance, decision]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Getting>
+Synset selecionado: SYNSET{SID-00180413-N : Words[W-00180413-N-1-adoption, W-00180413-N-2-acceptance, W-00180413-N-3-acceptation, W-00180413-N-4-espousal]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06193727-N : Words[W-06193727-N-1-credence, W-06193727-N-2-acceptance]} | the mental attitude that something is believable and should be accepted as true; "he gave credence to the gossip"; "acceptance of Newtonian mechanics was unquestioned for 200 years"
+BOW: [give, year, newtonian, unquestioned, mechanic, mental, accept, 200, acceptance, true, gossip, believable, credence, attitude]
+MEDIA: 1.1798161334757293
+
+SYNSET{SID-00180413-N : Words[W-00180413-N-1-adoption, W-00180413-N-2-acceptance, W-00180413-N-3-acceptation, W-00180413-N-4-espousal]} | the act of accepting with approval; favorable reception; "its adoption by society"; "the proposal found wide acceptance"
+BOW: [proposal, society, adoption, espousal, act, acceptance, wide, approval, acceptation, favorable, reception, accept]
+MEDIA: 2.361058844253421
+
+SYNSET{SID-13932421-N : Words[W-13932421-N-1-acceptance]} | the state of being acceptable and accepted; "torn jeans received no acceptance at the country club"
+BOW: [acceptable, receive, country, acceptance, tear, club, state, jeans, accept]
+MEDIA: 1.5184415902735457
+
+SYNSET{SID-07176073-N : Words[W-07176073-N-1-acceptance]} | (contract law) words signifying consent to the terms of an offer (thereby creating a contract)
+BOW: [offer, law, acceptance, contract, signify, create, term, consent, word]
+MEDIA: 1.7959983626173601
+
+SYNSET{SID-13381602-N : Words[W-13381602-N-1-acceptance, W-13381602-N-2-banker's_acceptance]} | banking: a time draft drawn on and accepted by a bank
+BOW: [bank, acceptance, draft, time, draw, banker, 's, banking, accept]
+MEDIA: 1.3698207783616252
+
+SYNSET{SID-04638175-N : Words[W-04638175-N-1-toleration, W-04638175-N-2-acceptance, W-04638175-N-3-sufferance]} | a disposition to tolerate or accept people or situations; "all people should practice toleration and live together in peace"
+BOW: [disposition, practice, acceptance, peace, toleration, sufferance, people, situation, live, tolerate, accept]
+MEDIA: 1.750467442060736
+
+SYNSET{SID-00082525-N : Words[W-00082525-N-1-acceptance]} | the act of taking something that is offered; "her acceptance of the gift encouraged him"; "he anticipated their acceptance of his offer"
+BOW: [offer, gift, take, act, acceptance, encourage, anticipate]
+MEDIA: 1.8663784449121783
+
+
+----------
+NOME: Administrator
+Desc: null
+Supers: [<http://cmt#User>, <http://cmt#Person>]
+Subs: []
+Contexto: [administrator, person, user]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-09770472-N : Words[W-09770472-N-1-administrator, W-09770472-N-2-executive]}
+Conjunto de synsets recuperados:
+SYNSET{SID-09770949-N : Words[W-09770949-N-1-administrator, W-09770949-N-2-decision_maker]} | someone who administers a business
+BOW: [administrator, decision, business, administer, maker]
+MEDIA: 1.9125161257882912
+
+SYNSET{SID-09770743-N : Words[W-09770743-N-1-administrator]} | the party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor
+BOW: [probate, die, administrator, executor, appoint, estate, name, distribute, court, party]
+MEDIA: 1.6273749936372042
+
+SYNSET{SID-09770472-N : Words[W-09770472-N-1-administrator, W-09770472-N-2-executive]} | someone who manages a government agency or department
+BOW: [executive, administrator, government, agency, department, manage]
+MEDIA: 2.198634073138237
+
+
+----------
+NOME: ProgramCommitteeChair
+Desc: null
+Supers: [<http://cmt#ProgramCommitteeMember>, <http://cmt#ConferenceMember>, <http://cmt#Person>, <http://cmt#Person>]
+Subs: []
+Contexto: [committee, conference, chair, person, member, program]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 1.8035909734963855
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.5875953622162342
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 2.362445003183728
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 0.9115130063478968
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.3157308540798518
+
+
+----------
+NOME: Review
+Desc: null
+Supers: [<http://cmt#Document>]
+Subs: [<http://cmt#Meta-Review>]
+Contexto: [review, meta, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing>
+Synset selecionado: SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]} | a new appraisal or evaluation
+BOW: [evaluation, new, review, appraisal, reassessment, revaluation, reappraisal]
+MEDIA: 2.448850896741663
+
+SYNSET{SID-06410391-N : Words[W-06410391-N-1-review, W-06410391-N-2-critique, W-06410391-N-3-critical_review, W-06410391-N-4-review_article]} | an essay or article that gives a critical evaluation (as of a book or play)
+BOW: [evaluation, play, give, critical, review, book, essay, critique, article]
+MEDIA: 2.099882527082055
+
+SYNSET{SID-00143251-N : Words[W-00143251-N-1-follow-up, W-00143251-N-2-followup, W-00143251-N-3-reexamination, W-00143251-N-4-review]} | a subsequent examination of a patient for the purpose of monitoring earlier treatment
+BOW: [follow-up, followup, treatment, earlier, purpose, review, patient, examination, subsequent, reexamination, monitoring]
+MEDIA: 1.6433792914066352
+
+SYNSET{SID-13411533-N : Words[W-13411533-N-1-review, W-13411533-N-2-limited_review]} | (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+BOW: [datum, limited, financial, reliability, accounting, assurance, provide, review, service, audit, exhaustive, interested, party]
+MEDIA: 1.537399282320761
+
+SYNSET{SID-07019866-N : Words[W-07019866-N-1-revue, W-07019866-N-2-review]} | a variety show with topical sketches and songs and dancing and comedians
+BOW: [song, comedian, topical, revue, variety, review, sketch, dance]
+MEDIA: 1.442250975475569
+
+SYNSET{SID-06597758-N : Words[W-06597758-N-1-review]} | a periodical that publishes critical essays on current affairs or literature or art
+BOW: [literature, current, art, critical, review, periodical, publish, essay, affair]
+MEDIA: 1.8469673298575262
+
+SYNSET{SID-06469377-N : Words[W-06469377-N-1-recapitulation, W-06469377-N-2-recap, W-06469377-N-3-review]} | a summary at the end that repeats the substance of a longer discussion
+BOW: [summary, longer, review, repeat, substance, recapitulation, recap, end, discussion]
+MEDIA: 2.023277219936803
+
+SYNSET{SID-01197258-N : Words[W-01197258-N-1-review]} | (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)
+BOW: [judicial, law, especially, review, appellate, reexamination, proceedings, court]
+MEDIA: 1.5942372952122241
+
+SYNSET{SID-00897811-N : Words[W-00897811-N-1-review, W-00897811-N-2-brushup]} | practice intended to polish performance or refresh the memory
+BOW: [practice, performance, memory, brushup, review, refresh, polish, intend]
+MEDIA: 1.3434664928354323
+
+SYNSET{SID-00879271-N : Words[W-00879271-N-1-inspection, W-00879271-N-2-review]} | a formal or official examination; "the platoon stood ready for review"; "we had to wait for the inspection before we could use the elevator"
+BOW: [formal, wait, elevator, review, ready, use, examination, official, stand, platoon, inspection]
+MEDIA: 1.4546762366962591
+
+
+----------
+NOME: Reviewer
+Desc: null
+Supers: [<http://cmt#ConferenceMember>, <http://cmt#Person>, <http://cmt#User>, <http://cmt#Person>]
+Subs: [<http://cmt#Meta-Reviewer>]
+Contexto: [conference, meta, person, member, reviewer, user]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Writing>
+Synset selecionado: SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]} | someone who reads manuscripts and judges their suitability for publication
+BOW: [read, manuscript, suitability, reader, publication, reviewer, judge, referee]
+MEDIA: 1.3523072737734765
+
+SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]} | a writer who reports and analyzes events of the day
+BOW: [commentator, analyze, report, reviewer, writer, event, day]
+MEDIA: 1.5034262328741272
+
+
+----------
+NOME: Bid
+Desc: null
+Supers: []
+Subs: []
+Contexto: [bid]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Requesting>
+Synset selecionado: SYNSET{SID-07165086-N : Words[W-07165086-N-1-bid, W-07165086-N-2-tender]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07168131-N : Words[W-07168131-N-1-command, W-07168131-N-2-bid, W-07168131-N-3-bidding, W-07168131-N-4-dictation]} | an authoritative direction or instruction to do something
+BOW: [dictation, authoritative, bidding, instruction, bid, command, direction]
+MEDIA: 2.311676953520094
+
+SYNSET{SID-00786887-N : Words[W-00786887-N-1-bid, W-00786887-N-2-play]} | an attempt to get something; "they made a futile play for power"; "he made a bid to gain attention"
+BOW: [play, futile, attention, power, bid, attempt, gain]
+MEDIA: 2.768694907426834
+
+SYNSET{SID-07165086-N : Words[W-07165086-N-1-bid, W-07165086-N-2-tender]} | a formal proposal to buy at a specified price
+BOW: [tender, formal, proposal, price, buy, specify, bid]
+MEDIA: 3.585386760532856
+
+SYNSET{SID-06737112-N : Words[W-06737112-N-1-bid, W-06737112-N-2-bidding]} | (bridge) the number of tricks a bridge player is willing to contract to make
+BOW: [number, bidding, willing, contract, bridge, trick, bid, make, player]
+MEDIA: 2.680578198697832
+
+
+----------
+NOME: Meta-Review
+Desc: null
+Supers: [<http://cmt#Review>, <http://cmt#Document>]
+Subs: []
+Contexto: [review, meta, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing>
+Synset selecionado: SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]} | a new appraisal or evaluation
+BOW: [evaluation, new, review, appraisal, reassessment, revaluation, reappraisal]
+MEDIA: 2.448850896741663
+
+SYNSET{SID-06410391-N : Words[W-06410391-N-1-review, W-06410391-N-2-critique, W-06410391-N-3-critical_review, W-06410391-N-4-review_article]} | an essay or article that gives a critical evaluation (as of a book or play)
+BOW: [evaluation, play, give, critical, review, book, essay, critique, article]
+MEDIA: 2.099882527082055
+
+SYNSET{SID-00143251-N : Words[W-00143251-N-1-follow-up, W-00143251-N-2-followup, W-00143251-N-3-reexamination, W-00143251-N-4-review]} | a subsequent examination of a patient for the purpose of monitoring earlier treatment
+BOW: [follow-up, followup, treatment, earlier, purpose, review, patient, examination, subsequent, reexamination, monitoring]
+MEDIA: 1.6433792914066352
+
+SYNSET{SID-13411533-N : Words[W-13411533-N-1-review, W-13411533-N-2-limited_review]} | (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+BOW: [datum, limited, financial, reliability, accounting, assurance, provide, review, service, audit, exhaustive, interested, party]
+MEDIA: 1.537399282320761
+
+SYNSET{SID-07019866-N : Words[W-07019866-N-1-revue, W-07019866-N-2-review]} | a variety show with topical sketches and songs and dancing and comedians
+BOW: [song, comedian, topical, revue, variety, review, sketch, dance]
+MEDIA: 1.442250975475569
+
+SYNSET{SID-06597758-N : Words[W-06597758-N-1-review]} | a periodical that publishes critical essays on current affairs or literature or art
+BOW: [literature, current, art, critical, review, periodical, publish, essay, affair]
+MEDIA: 1.8469673298575262
+
+SYNSET{SID-06469377-N : Words[W-06469377-N-1-recapitulation, W-06469377-N-2-recap, W-06469377-N-3-review]} | a summary at the end that repeats the substance of a longer discussion
+BOW: [summary, longer, review, repeat, substance, recapitulation, recap, end, discussion]
+MEDIA: 2.023277219936803
+
+SYNSET{SID-01197258-N : Words[W-01197258-N-1-review]} | (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)
+BOW: [judicial, law, especially, review, appellate, reexamination, proceedings, court]
+MEDIA: 1.5942372952122241
+
+SYNSET{SID-00897811-N : Words[W-00897811-N-1-review, W-00897811-N-2-brushup]} | practice intended to polish performance or refresh the memory
+BOW: [practice, performance, memory, brushup, review, refresh, polish, intend]
+MEDIA: 1.3434664928354323
+
+SYNSET{SID-00879271-N : Words[W-00879271-N-1-inspection, W-00879271-N-2-review]} | a formal or official examination; "the platoon stood ready for review"; "we had to wait for the inspection before we could use the elevator"
+BOW: [formal, wait, elevator, review, ready, use, examination, official, stand, platoon, inspection]
+MEDIA: 1.4546762366962591
+
+
+----------
+NOME: ExternalReviewer
+Desc: "An External Reviewer is a person that has been assigned to review a paper for another Reviewer, but is not themselves a Reviewer. "
+Supers: [<http://cmt#Person>]
+Subs: []
+Contexto: [external, paper, person, review, reviewer, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]} | someone who reads manuscripts and judges their suitability for publication
+BOW: [read, manuscript, suitability, reader, publication, reviewer, judge, referee]
+MEDIA: 1.8114465224789456
+
+SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]} | a writer who reports and analyzes events of the day
+BOW: [commentator, analyze, report, reviewer, writer, event, day]
+MEDIA: 1.6289893733448393
+
+
+----------
+NOME: Chairman
+Desc: null
+Supers: [<http://cmt#Person>]
+Subs: []
+Contexto: [person, chairman]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 2.8955430300398306
+
+
+----------
+NOME: Paper
+Desc: null
+Supers: [<http://cmt#Document>]
+Subs: [<http://cmt#PaperAbstract>, <http://cmt#PaperFullVersion>]
+Contexto: [paper, document, abstract, version]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article>
+Synset selecionado: SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.519609057220805
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.7661846654179196
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.7827210382361394
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.5033444354776293
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.8914888773790814
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.682445260375971
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.3569662674563006
+
+
+----------
+NOME: Author
+Desc: null
+Supers: [<http://cmt#ConferenceMember>, <http://cmt#Person>, <http://cmt#User>, <http://cmt#Person>]
+Subs: [<http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>]
+Contexto: [co-author, conference, author, person, member, reviewer, user]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]} | writes (books or stories or articles or the like) professionally (for pay)
+BOW: [like, author, book, pay, writer, write, professionally, article, story]
+MEDIA: 1.2458083003811125
+
+SYNSET{SID-10126177-N : Words[W-10126177-N-1-generator, W-10126177-N-2-source, W-10126177-N-3-author]} | someone who originates or causes or initiates something; "he was the generator of several complaints"
+BOW: [initiate, originate, complaint, author, generator, cause, source]
+MEDIA: 1.003861612241183
+
+
+----------
+NOME: AssociatedChair
+Desc: null
+Supers: [<http://cmt#ConferenceMember>, <http://cmt#Person>]
+Subs: []
+Contexto: [conference, chair, person, member, associate]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 2.0153576700249687
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.9338886461087637
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 2.5415594374591657
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 1.082938538731209
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.4207445975237838
+
+
+----------
+NOME: Person
+Desc: null
+Supers: []
+Subs: [<http://cmt#Chairman>, <http://cmt#ConferenceMember>, <http://cmt#AssociatedChair>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#ConferenceChair>, <http://cmt#ProgramCommitteeMember>, <http://cmt#ProgramCommitteeChair>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>, <http://cmt#ExternalReviewer>, <http://cmt#ProgramCommitteeMember>, <http://cmt#ProgramCommitteeChair>, <http://cmt#User>, <http://cmt#Administrator>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>]
+Contexto: [conference, committee, author, chair, chairman, reviewer, program, associate, external, administrator, co-author, meta, person, member, user]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+MEDIA: 1.1106369191159804
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+MEDIA: 0.7699952601105906
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+MEDIA: 0.771990961059654
+
+
+----------
+NOME: Preference
+Desc: null
+Supers: []
+Subs: []
+Contexto: [preference]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#PsychologicalAttribute>
+Synset selecionado: SYNSET{SID-07498210-N : Words[W-07498210-N-1-preference, W-07498210-N-2-penchant, W-07498210-N-3-predilection, W-07498210-N-4-taste]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07498210-N : Words[W-07498210-N-1-preference, W-07498210-N-2-penchant, W-07498210-N-3-predilection, W-07498210-N-4-taste]} | a strong liking; "my own preference is for good literature"; "the Irish have a penchant for blarney"
+BOW: [liking, literature, predilection, strong, preference, taste, penchant, irish, good, blarney]
+MEDIA: 3.1596356257796288
+
+SYNSET{SID-06200344-N : Words[W-06200344-N-1-predilection, W-06200344-N-2-preference, W-06200344-N-3-orientation]} | a predisposition in favor of something; "a predilection for expensive cars"; "his sexual preferences"; "showed a Marxist orientation"
+BOW: [predilection, orientation, favor, car, preference, show, predisposition, marxist, sexual, expensive]
+MEDIA: 2.8914793618023396
+
+SYNSET{SID-05791452-N : Words[W-05791452-N-1-preference, W-05791452-N-2-druthers]} | the right or chance to choose; "given my druthers, I'd eat cake"
+BOW: [give, chance, druther, cake, preference, eat, choose, right, id]
+MEDIA: 2.619692376918263
+
+SYNSET{SID-05158095-N : Words[W-05158095-N-1-preference]} | grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)
+BOW: [country, trade, especially, favor, advantage, preference, duty, grant, matter, international, levy]
+MEDIA: 2.0607536150650545
+
+
+----------
+NOME: Decision
+Desc: null
+Supers: []
+Subs: [<http://cmt#Acceptance>, <http://cmt#Rejection>]
+Contexto: [acceptance, decision, rejection]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Learning>
+Synset selecionado: SYNSET{SID-05838176-N : Words[W-05838176-N-1-decision, W-05838176-N-2-determination, W-05838176-N-3-conclusion]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00162632-N : Words[W-00162632-N-1-decision, W-00162632-N-2-determination, W-00162632-N-3-conclusion]} | the act of making up your mind about something; "the burden of decision was his"; "he drew his conclusions quickly"
+BOW: [conclusion, mind, act, decision, quickly, determination, draw, make, burden]
+MEDIA: 1.739148386598875
+
+SYNSET{SID-05838176-N : Words[W-05838176-N-1-decision, W-05838176-N-2-determination, W-05838176-N-3-conclusion]} | a position or opinion or judgment reached after consideration; "a decision unfavorable to the opposition"; "his conclusion took the evidence into account"; "satisfied with the panel's determination"
+BOW: [decision, evidence, reach, satisfied, determination, opinion, conclusion, opposition, take, judgment, unfavorable, consideration, position, panel, account]
+MEDIA: 1.9272162392735481
+
+SYNSET{SID-07293678-N : Words[W-07293678-N-1-decision]} | (boxing) a victory won on points when no knockout has occurred; "had little trouble in taking a unanimous decision over his opponent"
+BOW: [knockout, take, decision, occur, victory, unanimous, opponent, boxing, trouble, win, point, little]
+MEDIA: 1.2876773103036814
+
+SYNSET{SID-07293546-N : Words[W-07293546-N-1-decision]} | the outcome of a game or contest; "the team dropped three decisions in a row"
+BOW: [drop, game, contest, decision, team, row, outcome]
+MEDIA: 1.697930515732705
+
+SYNSET{SID-04863969-N : Words[W-04863969-N-1-decisiveness, W-04863969-N-2-decision]} | the trait of resoluteness as evidenced by firmness of character or purpose; "a man of unusual decisiveness"
+BOW: [character, decision, evidence, purpose, firmness, decisiveness, trait, man, resoluteness, unusual]
+MEDIA: 1.4100834429264069
+
+
+----------
+NOME: ConferenceChair
+Desc: null
+Supers: [<http://cmt#ConferenceMember>, <http://cmt#Person>]
+Subs: []
+Contexto: [conference, chair, person, member]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 2.232476841454627
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.7544886815760816
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 2.6373806925998493
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 1.1778837740088681
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.5531109784690975
+
+
+----------
+NOME: Rejection
+Desc: null
+Supers: [<http://cmt#Decision>]
+Subs: []
+Contexto: [decision, rejection]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SubjectiveAssessmentAttribute>
+Synset selecionado: SYNSET{SID-13937554-N : Words[W-13937554-N-1-rejection]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00203342-N : Words[W-00203342-N-1-rejection]} | the act of rejecting something; "his proposals were met with rejection"
+BOW: [proposal, act, meet, reject, rejection]
+MEDIA: 3.1847529597580433
+
+SYNSET{SID-13937554-N : Words[W-13937554-N-1-rejection]} | the state of being rejected
+BOW: [reject, state, rejection]
+MEDIA: 3.781950796643893
+
+SYNSET{SID-11505318-N : Words[W-11505318-N-1-rejection]} | (medicine) an immunological response that refuses to accept substances or organisms that are recognized as foreign; "rejection of the transplanted liver"
+BOW: [refuse, organism, liver, response, substance, transplant, medicine, recognize, rejection, immunological, accept, foreign]
+MEDIA: 1.875870507210493
+
+SYNSET{SID-07207273-N : Words[W-07207273-N-1-rejection]} | the speech act of rejecting
+BOW: [act, speech, reject, rejection]
+MEDIA: 3.3597930427640676
+
+
+----------
+NOME: Meta-Reviewer
+Desc: "A special type of Reviewer.  There can be any number of Reviewers for a given paper, but only one Meta-Reviewer.  The Meta-Reviewer can go over all the reviews submitted for the paper and submit their own review.  Questions for the Meta-Reviewer can be different from those for a normal Reviewer.  Their role is to ensure that the reviews are good and consistent. The decision to use Meta-Reviewers is optional, and must be set before paper assignment occurs."
+Supers: [<http://cmt#Reviewer>, <http://cmt#ConferenceMember>, <http://cmt#Person>, <http://cmt#User>, <http://cmt#Person>]
+Subs: []
+Contexto: [conference, role, submit, use, type, good, number, paper, review, member, different, give, normal, ensure, set, question, decision, occur, assignment, optional, consistent, reviewer, -, special, meta, person, user]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Writing>
+Synset selecionado: SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]} | someone who reads manuscripts and judges their suitability for publication
+BOW: [read, manuscript, suitability, reader, publication, reviewer, judge, referee]
+MEDIA: 0.8612124281784485
+
+SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]} | a writer who reports and analyzes events of the day
+BOW: [commentator, analyze, report, reviewer, writer, event, day]
+MEDIA: 0.9177134071215592
+
+
+----------
+NOME: PaperAbstract
+Desc: null
+Supers: [<http://cmt#Paper>, <http://cmt#Document>]
+Subs: []
+Contexto: [paper, document, abstract]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Summary>
+Synset selecionado: SYNSET{SID-06468951-N : Words[W-06468951-N-1-outline, W-06468951-N-2-synopsis, W-06468951-N-3-abstract, W-06468951-N-4-precis]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05854150-N : Words[W-05854150-N-1-abstraction, W-05854150-N-2-abstract]} | a concept or idea not associated with any specific instance; "he loved her only in the abstract--not in person"
+BOW: [love, instance, idea, person, abstraction, concept, abstract, specific, associate]
+MEDIA: 1.9523581338580698
+
+SYNSET{SID-06468951-N : Words[W-06468951-N-1-outline, W-06468951-N-2-synopsis, W-06468951-N-3-abstract, W-06468951-N-4-precis]} | a sketchy summary of the main points of an argument or theory
+BOW: [summary, outline, argument, sketchy, main, synopsis, abstract, precis, point, theory]
+MEDIA: 2.1530358536789813
+
+
+----------

@@ -1,0 +1,1546 @@
+NOME: ProgramCommittee
+Desc: null
+Supers: []
+Subs: []
+Contexto: [committee, program]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Commission>
+Synset selecionado: SYNSET{SID-08324514-N : Words[W-08324514-N-1-committee, W-08324514-N-2-commission]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-08324514-N : Words[W-08324514-N-1-committee, W-08324514-N-2-commission]}
+Somatorio total: 5.0694447
+
+	committee - committee : 1.0
+	committee - lose : 0.22222221
+	committee - matter : 0.44444442
+	committee - minute : 0.3333333
+	committee - special : 0.111111104
+	committee - delegate : 0.22222221
+	committee - hour : 0.111111104
+	committee - keep : 0.111111104
+	committee - milton : 0.3333333
+	committee - commission : 0.5
+	committee - consider : 0.44444442
+	committee - berle : 0.111111104
+	committee - group : 0.0
+	Somatorio: 3.9444447
+
+	program - committee : 0.0
+	program - lose : 0.14285713
+	program - matter : 0.0
+	program - minute : 0.0
+	program - special : 0.14285713
+	program - delegate : 0.125
+	program - hour : 0.28571427
+	program - keep : 0.0
+	program - milton : 0.0
+	program - commission : 0.0
+	program - consider : 0.0
+	program - berle : 0.14285713
+	program - group : 0.28571427
+	Somatorio: 1.125
+
+Synset 2: SYNSET{SID-08325686-N : Words[W-08325686-N-1-committee, W-08325686-N-2-citizens_committee]}
+Somatorio total: 2.9285712
+
+	committee - citizen : 0.3333333
+	committee - promote : 0.3333333
+	committee - committee : 1.0
+	committee - organization : 0.16666669
+	committee - self : 0.0
+	committee - constitute : 0.5
+	Somatorio: 2.3333333
+
+	program - citizen : 0.0
+	program - promote : 0.4285714
+	program - committee : 0.0
+	program - organization : 0.16666669
+	program - self : 0.0
+	program - constitute : 0.0
+	Somatorio: 0.5952381
+
+
+----------
+NOME: Conference
+Desc: null
+Supers: [owl:Thing]
+Subs: []
+Contexto: [conference, thing]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]}
+Somatorio total: 4.214178
+
+	conference - formal : 0.19999999
+	conference - conference : 1.0
+	conference - especially : 0.0
+	conference - prearranged : 0.27272725
+	conference - exchange : 0.19999999
+	conference - information : 0.18181819
+	conference - consultation : 0.25
+	conference - discussion : 0.0
+	conference - meeting : 0.19999999
+	conference - agenda : 0.19999999
+	Somatorio: 2.5045457
+
+	thing - formal : 0.0
+	thing - conference : 0.100000024
+	thing - especially : 0.100000024
+	thing - prearranged : 0.18181819
+	thing - exchange : 0.375
+	thing - information : 0.090909064
+	thing - consultation : 0.16666669
+	thing - discussion : 0.100000024
+	thing - meeting : 0.4285714
+	thing - agenda : 0.16666669
+	Somatorio: 1.7096322
+
+Synset 2: SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]}
+Somatorio total: 2.4159093
+
+	conference - conference : 1.0
+	conference - organize : 0.19999999
+	conference - league : 0.19999999
+	conference - match : 0.100000024
+	conference - member : 0.19999999
+	conference - association : 0.0
+	conference - team : 0.100000024
+	conference - sport : 0.100000024
+	Somatorio: 1.9000001
+
+	thing - conference : 0.100000024
+	thing - organize : 0.125
+	thing - league : 0.0
+	thing - match : 0.0
+	thing - member : 0.0
+	thing - association : 0.090909064
+	thing - team : 0.19999999
+	thing - sport : 0.0
+	Somatorio: 0.5159091
+
+Synset 3: SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]}
+Somatorio total: 2.2727273
+
+	conference - conference : 1.0
+	conference - topic : 0.19999999
+	conference - discussion : 0.0
+	conference - agree : 0.3
+	conference - participant : 0.0
+	conference - group : 0.100000024
+	Somatorio: 1.6
+
+	thing - conference : 0.100000024
+	thing - topic : 0.19999999
+	thing - discussion : 0.100000024
+	thing - agree : 0.0
+	thing - participant : 0.27272725
+	thing - group : 0.0
+	Somatorio: 0.6727273
+
+
+----------
+NOME: SubjectArea
+Desc: null
+Supers: []
+Subs: []
+Contexto: [area, subject]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#SubjectiveAssessmentAttribute>
+Synset selecionado: SYNSET{SID-14514039-N : Words[W-14514039-N-1-sphere, W-14514039-N-2-domain, W-14514039-N-3-area, W-14514039-N-4-orbit, W-14514039-N-5-field, W-14514039-N-6-arena]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-08497294-N : Words[W-08497294-N-1-area, W-08497294-N-2-country]}
+Somatorio total: 4.850505
+
+	area - area : 1.0
+	area - boundary : 0.125
+	area - country : 0.0
+	area - geographical : 0.16666669
+	area - bible : 0.0
+	area - distinguish : 0.0
+	area - purpose : 0.14285713
+	area - particular : 0.3
+	area - serve : 0.19999999
+	area - people : 0.0
+	area - indefinite : 0.100000024
+	area - special : 0.28571427
+	area - mountainous : 0.090909064
+	area - culture : 0.14285713
+	area - geography : 0.111111104
+	area - usually : 0.14285713
+	area - region : 0.16666669
+	Somatorio: 2.9746392
+
+	subject - area : 0.14285713
+	subject - boundary : 0.125
+	subject - country : 0.0
+	subject - geographical : 0.08333331
+	subject - bible : 0.28571427
+	subject - distinguish : 0.090909064
+	subject - purpose : 0.14285713
+	subject - particular : 0.100000024
+	subject - serve : 0.28571427
+	subject - people : 0.0
+	subject - indefinite : 0.100000024
+	subject - special : 0.14285713
+	subject - mountainous : 0.090909064
+	subject - culture : 0.14285713
+	subject - geography : 0.0
+	subject - usually : 0.14285713
+	subject - region : 0.0
+	Somatorio: 1.8758655
+
+Synset 2: SYNSET{SID-05815517-N : Words[W-05815517-N-1-area]}
+Somatorio total: 2.7142856
+
+	area - area : 1.0
+	area - include : 0.0
+	area - study : 0.0
+	area - subject : 0.14285713
+	area - specialization : 0.14285713
+	Somatorio: 1.2857141
+
+	subject - area : 0.14285713
+	subject - include : 0.0
+	subject - study : 0.14285713
+	subject - subject : 1.0
+	subject - specialization : 0.14285713
+	Somatorio: 1.4285715
+
+Synset 3: SYNSET{SID-05221895-N : Words[W-05221895-N-1-area, W-05221895-N-2-region]}
+Somatorio total: 4.225794
+
+	area - area : 1.0
+	area - special : 0.28571427
+	area - give : 0.0
+	area - part : 0.25
+	area - function : 0.0
+	area - nerve : 0.19999999
+	area - animal : 0.3333333
+	area - abdominal : 0.22222221
+	area - artery : 0.5
+	area - region : 0.16666669
+	area - supply : 0.0
+	Somatorio: 2.9579365
+
+	subject - area : 0.14285713
+	subject - special : 0.14285713
+	subject - give : 0.14285713
+	subject - part : 0.14285713
+	subject - function : 0.125
+	subject - nerve : 0.14285713
+	subject - animal : 0.0
+	subject - abdominal : 0.0
+	subject - artery : 0.14285713
+	subject - region : 0.0
+	subject - supply : 0.28571427
+	Somatorio: 1.2678571
+
+Synset 4: SYNSET{SID-14514039-N : Words[W-14514039-N-1-sphere, W-14514039-N-2-domain, W-14514039-N-3-area, W-14514039-N-4-orbit, W-14514039-N-5-field, W-14514039-N-6-arena]}
+Somatorio total: 5.7279224
+
+	area - area : 1.0
+	area - social : 0.16666669
+	area - particular : 0.3
+	area - arena : 0.8
+	area - employment : 0.100000024
+	area - life : 0.0
+	area - environment : 0.18181819
+	area - field : 0.19999999
+	area - sphere : 0.16666669
+	area - domain : 0.16666669
+	area - limit : 0.0
+	area - orbit : 0.19999999
+	area - close : 0.0
+	area - he : 0.25
+	area - walk : 0.0
+	Somatorio: 3.5318186
+
+	subject - area : 0.14285713
+	subject - social : 0.14285713
+	subject - particular : 0.100000024
+	subject - arena : 0.14285713
+	subject - employment : 0.19999999
+	subject - life : 0.14285713
+	subject - environment : 0.18181819
+	subject - field : 0.14285713
+	subject - sphere : 0.28571427
+	subject - domain : 0.0
+	subject - limit : 0.14285713
+	subject - orbit : 0.28571427
+	subject - close : 0.14285713
+	subject - he : 0.14285713
+	subject - walk : 0.0
+	Somatorio: 2.1961038
+
+Synset 5: SYNSET{SID-02735688-N : Words[W-02735688-N-1-area]}
+Somatorio total: 4.267857
+
+	area - area : 1.0
+	area - part : 0.25
+	area - spacious : 0.125
+	area - plenty : 0.16666669
+	area - specific : 0.125
+	area - structure : 0.111111104
+	area - characteristic : 0.21428573
+	area - room : 0.0
+	area - servant : 0.28571427
+	area - provide : 0.14285713
+	area - function : 0.0
+	area - have : 0.25
+	area - cooking : 0.0
+	Somatorio: 2.670635
+
+	subject - area : 0.14285713
+	subject - part : 0.14285713
+	subject - spacious : 0.125
+	subject - plenty : 0.14285713
+	subject - specific : 0.125
+	subject - structure : 0.22222221
+	subject - characteristic : 0.14285713
+	subject - room : 0.0
+	subject - servant : 0.28571427
+	subject - provide : 0.0
+	subject - function : 0.125
+	subject - have : 0.14285713
+	subject - cooking : 0.0
+	Somatorio: 1.5972221
+
+Synset 6: SYNSET{SID-05128519-N : Words[W-05128519-N-1-area, W-05128519-N-2-expanse, W-05128519-N-3-surface_area]}
+Somatorio total: 3.9933257
+
+	area - area : 1.0
+	area - extent : 0.16666669
+	area - boundary : 0.125
+	area - square : 0.3333333
+	area - 2 : 0.0
+	area - surface : 0.28571427
+	area - dimensional : 0.18181819
+	area - 500 : 0.0
+	area - rectangle : 0.22222221
+	area - expanse : 0.14285713
+	area - foot : 0.0
+	area - enclosed : 0.125
+	Somatorio: 2.5826116
+
+	subject - area : 0.14285713
+	subject - extent : 0.28571427
+	subject - boundary : 0.125
+	subject - square : 0.28571427
+	subject - 2 : 0.0
+	subject - surface : 0.4285714
+	subject - dimensional : 0.0
+	subject - 500 : 0.0
+	subject - rectangle : 0.0
+	subject - expanse : 0.0
+	subject - foot : 0.14285713
+	subject - enclosed : 0.0
+	Somatorio: 1.4107141
+
+
+----------
+NOME: Document
+Desc: null
+Supers: []
+Subs: [<http://cmt#Paper>, <http://cmt#PaperAbstract>, <http://cmt#PaperFullVersion>, <http://cmt#Review>, <http://cmt#Meta-Review>]
+Contexto: [paper, review, meta, document, abstract, version]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#ComputerFile>
+Synset selecionado: SYNSET{SID-06510977-N : Words[W-06510977-N-1-text_file, W-06510977-N-2-document]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]}
+Somatorio total: 8.125433
+
+	paper - provide : 0.14285713
+	paper - especially : 0.19999999
+	paper - nature : 0.3333333
+	paper - document : 0.125
+	paper - official : 0.0
+	paper - information : 0.090909064
+	paper - write : 0.0
+	paper - papers : 0.8333333
+	Somatorio: 1.7254329
+
+	review - provide : 0.4285714
+	review - especially : 0.19999999
+	review - nature : 0.0
+	review - document : 0.125
+	review - official : 0.125
+	review - information : 0.18181819
+	review - write : 0.16666669
+	review - papers : 0.0
+	Somatorio: 1.2270563
+
+	meta - provide : 0.0
+	meta - especially : 0.19999999
+	meta - nature : 0.16666669
+	meta - document : 0.25
+	meta - official : 0.125
+	meta - information : 0.18181819
+	meta - write : 0.19999999
+	meta - papers : 0.16666669
+	Somatorio: 1.2901516
+
+	document - provide : 0.125
+	document - especially : 0.100000024
+	document - nature : 0.25
+	document - document : 1.0
+	document - official : 0.0
+	document - information : 0.090909064
+	document - write : 0.125
+	document - papers : 0.125
+	Somatorio: 1.8159091
+
+	abstract - provide : 0.0
+	abstract - especially : 0.100000024
+	abstract - nature : 0.125
+	abstract - document : 0.125
+	abstract - official : 0.0
+	abstract - information : 0.18181819
+	abstract - write : 0.125
+	abstract - papers : 0.125
+	Somatorio: 0.7818182
+
+	version - provide : 0.14285713
+	version - especially : 0.100000024
+	version - nature : 0.0
+	version - document : 0.125
+	version - official : 0.125
+	version - information : 0.36363637
+	version - write : 0.28571427
+	version - papers : 0.14285713
+	Somatorio: 1.2850649
+
+Synset 2: SYNSET{SID-03217458-N : Words[W-03217458-N-1-document]}
+Somatorio total: 8.377381
+
+	paper - symbolic : 0.0
+	paper - think : 0.0
+	paper - means : 0.0
+	paper - person : 0.16666669
+	paper - document : 0.125
+	paper - serve : 0.0
+	paper - representation : 0.14285713
+	paper - mark : 0.19999999
+	Somatorio: 0.6345238
+
+	review - symbolic : 0.0
+	review - think : 0.16666669
+	review - means : 0.16666669
+	review - person : 0.16666669
+	review - document : 0.125
+	review - serve : 0.3333333
+	review - representation : 0.21428573
+	review - mark : 0.0
+	Somatorio: 1.1726191
+
+	meta - symbolic : 0.125
+	meta - think : 0.0
+	meta - means : 0.39999998
+	meta - person : 0.16666669
+	meta - document : 0.25
+	meta - serve : 0.19999999
+	meta - representation : 0.21428573
+	meta - mark : 0.25
+	Somatorio: 1.6059524
+
+	document - symbolic : 0.0
+	document - think : 0.125
+	document - means : 0.25
+	document - person : 0.125
+	document - document : 1.0
+	document - serve : 0.125
+	document - representation : 0.21428573
+	document - mark : 0.125
+	Somatorio: 1.9642857
+
+	abstract - symbolic : 0.0
+	abstract - think : 0.125
+	abstract - means : 0.125
+	abstract - person : 0.125
+	abstract - document : 0.125
+	abstract - serve : 0.25
+	abstract - representation : 0.14285713
+	abstract - mark : 0.125
+	Somatorio: 1.0178571
+
+	version - symbolic : 0.0
+	version - think : 0.14285713
+	version - means : 0.14285713
+	version - person : 0.71428573
+	version - document : 0.125
+	version - serve : 0.28571427
+	version - representation : 0.4285714
+	version - mark : 0.14285713
+	Somatorio: 1.9821427
+
+Synset 3: SYNSET{SID-13403331-N : Words[W-13403331-N-1-document]}
+Somatorio total: 5.06627
+
+	paper - ownership : 0.22222221
+	paper - obligation : 0.100000024
+	paper - document : 0.125
+	paper - write : 0.0
+	paper - account : 0.0
+	Somatorio: 0.44722223
+
+	review - ownership : 0.111111104
+	review - obligation : 0.100000024
+	review - document : 0.125
+	review - write : 0.16666669
+	review - account : 0.0
+	Somatorio: 0.5027778
+
+	meta - ownership : 0.111111104
+	meta - obligation : 0.100000024
+	meta - document : 0.25
+	meta - write : 0.19999999
+	meta - account : 0.0
+	Somatorio: 0.6611111
+
+	document - ownership : 0.0
+	document - obligation : 0.100000024
+	document - document : 1.0
+	document - write : 0.125
+	document - account : 0.375
+	Somatorio: 1.6
+
+	abstract - ownership : 0.111111104
+	abstract - obligation : 0.19999999
+	abstract - document : 0.125
+	abstract - write : 0.125
+	abstract - account : 0.25
+	Somatorio: 0.8111111
+
+	version - ownership : 0.3333333
+	version - obligation : 0.3
+	version - document : 0.125
+	version - write : 0.28571427
+	version - account : 0.0
+	Somatorio: 1.0440476
+
+Synset 4: SYNSET{SID-06510977-N : Words[W-06510977-N-1-text_file, W-06510977-N-2-document]}
+Somatorio total: 13.308839
+
+	paper - contain : 0.0
+	paper - use : 0.19999999
+	paper - document : 0.125
+	paper - format : 0.0
+	paper - seven : 0.19999999
+	paper - bit : 0.0
+	paper - character : 0.3333333
+	paper - file : 0.19999999
+	paper - instruction : 0.090909064
+	paper - science : 0.14285713
+	paper - text : 0.0
+	paper - possibly : 0.125
+	paper - ascius : 0.0
+	Somatorio: 1.4170995
+
+	review - contain : 0.0
+	review - use : 0.16666669
+	review - document : 0.125
+	review - format : 0.0
+	review - seven : 0.5
+	review - bit : 0.16666669
+	review - character : 0.22222221
+	review - file : 0.16666669
+	review - instruction : 0.18181819
+	review - science : 0.14285713
+	review - text : 0.16666669
+	review - possibly : 0.125
+	review - ascius : 0.16666669
+	Somatorio: 2.1302311
+
+	meta - contain : 0.28571427
+	meta - use : 0.0
+	meta - document : 0.25
+	meta - format : 0.16666669
+	meta - seven : 0.19999999
+	meta - bit : 0.25
+	meta - character : 0.111111104
+	meta - file : 0.0
+	meta - instruction : 0.090909064
+	meta - science : 0.14285713
+	meta - text : 0.25
+	meta - possibly : 0.0
+	meta - ascius : 0.0
+	Somatorio: 1.7472582
+
+	document - contain : 0.25
+	document - use : 0.25
+	document - document : 1.0
+	document - format : 0.375
+	document - seven : 0.25
+	document - bit : 0.125
+	document - character : 0.0
+	document - file : 0.125
+	document - instruction : 0.090909064
+	document - science : 0.25
+	document - text : 0.25
+	document - possibly : 0.125
+	document - ascius : 0.125
+	Somatorio: 3.215909
+
+	abstract - contain : 0.25
+	abstract - use : 0.125
+	abstract - document : 0.125
+	abstract - format : 0.25
+	abstract - seven : 0.125
+	abstract - bit : 0.25
+	abstract - character : 0.3333333
+	abstract - file : 0.0
+	abstract - instruction : 0.45454544
+	abstract - science : 0.125
+	abstract - text : 0.25
+	abstract - possibly : 0.125
+	abstract - ascius : 0.25
+	Somatorio: 2.6628788
+
+	version - contain : 0.14285713
+	version - use : 0.14285713
+	version - document : 0.125
+	version - format : 0.14285713
+	version - seven : 0.28571427
+	version - bit : 0.14285713
+	version - character : 0.111111104
+	version - file : 0.14285713
+	version - instruction : 0.36363637
+	version - science : 0.0
+	version - text : 0.14285713
+	version - possibly : 0.25
+	version - ascius : 0.14285713
+	Somatorio: 2.1354616
+
+
+----------
+NOME: Bid
+Desc: null
+Supers: []
+Subs: []
+Contexto: [bid]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Committing>
+Synset selecionado: SYNSET{SID-06737112-N : Words[W-06737112-N-1-bid, W-06737112-N-2-bidding]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-07168131-N : Words[W-07168131-N-1-command, W-07168131-N-2-bid, W-07168131-N-3-bidding, W-07168131-N-4-dictation]}
+Somatorio total: 1.961483
+
+	bid - dictation : 0.111111104
+	bid - authoritative : 0.07692307
+	bid - bidding : 0.4285714
+	bid - instruction : 0.090909064
+	bid - bid : 1.0
+	bid - command : 0.14285713
+	bid - direction : 0.111111104
+	Somatorio: 1.961483
+
+Synset 2: SYNSET{SID-00786887-N : Words[W-00786887-N-1-bid, W-00786887-N-2-play]}
+Somatorio total: 1.5277778
+
+	bid - play : 0.0
+	bid - futile : 0.16666669
+	bid - attention : 0.111111104
+	bid - power : 0.0
+	bid - bid : 1.0
+	bid - attempt : 0.0
+	bid - gain : 0.25
+	Somatorio: 1.5277778
+
+Synset 3: SYNSET{SID-07165086-N : Words[W-07165086-N-1-bid, W-07165086-N-2-tender]}
+Somatorio total: 1.8428571
+
+	bid - tender : 0.16666669
+	bid - formal : 0.0
+	bid - proposal : 0.0
+	bid - price : 0.19999999
+	bid - buy : 0.3333333
+	bid - specify : 0.14285713
+	bid - bid : 1.0
+	Somatorio: 1.8428571
+
+Synset 4: SYNSET{SID-06737112-N : Words[W-06737112-N-1-bid, W-06737112-N-2-bidding]}
+Somatorio total: 2.4380953
+
+	bid - number : 0.16666669
+	bid - bidding : 0.4285714
+	bid - willing : 0.14285713
+	bid - contract : 0.0
+	bid - bridge : 0.5
+	bid - trick : 0.19999999
+	bid - bid : 1.0
+	bid - make : 0.0
+	bid - player : 0.0
+	Somatorio: 2.4380953
+
+
+----------
+NOME: Person
+Desc: null
+Supers: []
+Subs: [<http://cmt#Chairman>, <http://cmt#ConferenceMember>, <http://cmt#AssociatedChair>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#ConferenceChair>, <http://cmt#ProgramCommitteeMember>, <http://cmt#ProgramCommitteeChair>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>, <http://cmt#ExternalReviewer>, <http://cmt#ProgramCommitteeMember>, <http://cmt#ProgramCommitteeChair>, <http://cmt#User>, <http://cmt#Administrator>, <http://cmt#Author>, <http://cmt#AuthorNotReviewer>, <http://cmt#Co-author>, <http://cmt#Reviewer>, <http://cmt#Meta-Reviewer>]
+Contexto: [conference, committee, author, chair, chairman, reviewer, program, associate, external, administrator, co-author, meta, person, member, user]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Word>
+Synset selecionado: SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]}
+Somatorio total: 15.098809
+
+	conference - individual : 0.0
+	conference - someone : 0.39999998
+	conference - person : 0.19999999
+	conference - soul : 0.100000024
+	conference - human : 0.100000024
+	conference - somebody : 0.19999999
+	conference - mortal : 0.19999999
+	Somatorio: 1.2
+
+	committee - individual : 0.100000024
+	committee - someone : 0.3333333
+	committee - person : 0.0
+	committee - soul : 0.111111104
+	committee - human : 0.111111104
+	committee - somebody : 0.22222221
+	committee - mortal : 0.22222221
+	Somatorio: 1.0999999
+
+	author - individual : 0.0
+	author - someone : 0.14285713
+	author - person : 0.16666669
+	author - soul : 0.0
+	author - human : 0.16666669
+	author - somebody : 0.125
+	author - mortal : 0.0
+	Somatorio: 0.6011905
+
+	chair - individual : 0.100000024
+	chair - someone : 0.0
+	chair - person : 0.0
+	chair - soul : 0.0
+	chair - human : 0.0
+	chair - somebody : 0.0
+	chair - mortal : 0.0
+	Somatorio: 0.100000024
+
+	chairman - individual : 0.19999999
+	chairman - someone : 0.0
+	chairman - person : 0.25
+	chairman - soul : 0.0
+	chairman - human : 0.5
+	chairman - somebody : 0.0
+	chairman - mortal : 0.25
+	Somatorio: 1.2
+
+	reviewer - individual : 0.19999999
+	reviewer - someone : 0.125
+	reviewer - person : 0.125
+	reviewer - soul : 0.0
+	reviewer - human : 0.0
+	reviewer - somebody : 0.0
+	reviewer - mortal : 0.0
+	Somatorio: 0.45
+
+	program - individual : 0.100000024
+	program - someone : 0.0
+	program - person : 0.14285713
+	program - soul : 0.14285713
+	program - human : 0.14285713
+	program - somebody : 0.0
+	program - mortal : 0.28571427
+	Somatorio: 0.8142857
+
+	associate - individual : 0.100000024
+	associate - someone : 0.3333333
+	associate - person : 0.111111104
+	associate - soul : 0.22222221
+	associate - human : 0.111111104
+	associate - somebody : 0.111111104
+	associate - mortal : 0.22222221
+	Somatorio: 1.2111111
+
+	external - individual : 0.19999999
+	external - someone : 0.25
+	external - person : 0.25
+	external - soul : 0.125
+	external - human : 0.125
+	external - somebody : 0.125
+	external - mortal : 0.375
+	Somatorio: 1.45
+
+	administrator - individual : 0.23076922
+	administrator - someone : 0.07692307
+	administrator - person : 0.15384614
+	administrator - soul : 0.07692307
+	administrator - human : 0.15384614
+	administrator - somebody : 0.07692307
+	administrator - mortal : 0.23076922
+	Somatorio: 0.99999994
+
+	co-author - individual : 0.0
+	co-author - someone : 0.111111104
+	co-author - person : 0.111111104
+	co-author - soul : 0.22222221
+	co-author - human : 0.111111104
+	co-author - somebody : 0.111111104
+	co-author - mortal : 0.22222221
+	Somatorio: 0.88888884
+
+	meta - individual : 0.100000024
+	meta - someone : 0.28571427
+	meta - person : 0.16666669
+	meta - soul : 0.0
+	meta - human : 0.19999999
+	meta - somebody : 0.25
+	meta - mortal : 0.5
+	Somatorio: 1.502381
+
+	person - individual : 0.0
+	person - someone : 0.28571427
+	person - person : 1.0
+	person - soul : 0.16666669
+	person - human : 0.16666669
+	person - somebody : 0.125
+	person - mortal : 0.16666669
+	Somatorio: 1.9107144
+
+	member - individual : 0.0
+	member - someone : 0.28571427
+	member - person : 0.16666669
+	member - soul : 0.0
+	member - human : 0.16666669
+	member - somebody : 0.25
+	member - mortal : 0.16666669
+	Somatorio: 1.0357144
+
+	user - individual : 0.0
+	user - someone : 0.14285713
+	user - person : 0.16666669
+	user - soul : 0.0
+	user - human : 0.19999999
+	user - somebody : 0.125
+	user - mortal : 0.0
+	Somatorio: 0.6345238
+
+Synset 2: SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]}
+Somatorio total: 13.854426
+
+	conference - include : 0.19999999
+	conference - weapon : 0.100000024
+	conference - hide : 0.100000024
+	conference - person : 0.19999999
+	conference - clothing : 0.19999999
+	conference - usually : 0.0
+	conference - body : 0.100000024
+	conference - human : 0.100000024
+	Somatorio: 1.0
+
+	committee - include : 0.111111104
+	committee - weapon : 0.0
+	committee - hide : 0.22222221
+	committee - person : 0.0
+	committee - clothing : 0.22222221
+	committee - usually : 0.0
+	committee - body : 0.111111104
+	committee - human : 0.111111104
+	Somatorio: 0.77777773
+
+	author - include : 0.0
+	author - weapon : 0.16666669
+	author - hide : 0.0
+	author - person : 0.16666669
+	author - clothing : 0.25
+	author - usually : 0.14285713
+	author - body : 0.0
+	author - human : 0.16666669
+	Somatorio: 0.8928572
+
+	chair - include : 0.14285713
+	chair - weapon : 0.16666669
+	chair - hide : 0.19999999
+	chair - person : 0.0
+	chair - clothing : 0.25
+	chair - usually : 0.14285713
+	chair - body : 0.0
+	chair - human : 0.0
+	Somatorio: 0.90238094
+
+	chairman - include : 0.0
+	chairman - weapon : 0.25
+	chairman - hide : 0.25
+	chairman - person : 0.25
+	chairman - clothing : 0.125
+	chairman - usually : 0.0
+	chairman - body : 0.0
+	chairman - human : 0.5
+	Somatorio: 1.375
+
+	reviewer - include : 0.125
+	reviewer - weapon : 0.125
+	reviewer - hide : 0.25
+	reviewer - person : 0.125
+	reviewer - clothing : 0.0
+	reviewer - usually : 0.0
+	reviewer - body : 0.0
+	reviewer - human : 0.0
+	Somatorio: 0.625
+
+	program - include : 0.0
+	program - weapon : 0.0
+	program - hide : 0.0
+	program - person : 0.14285713
+	program - clothing : 0.125
+	program - usually : 0.0
+	program - body : 0.14285713
+	program - human : 0.14285713
+	Somatorio: 0.5535714
+
+	associate - include : 0.22222221
+	associate - weapon : 0.0
+	associate - hide : 0.22222221
+	associate - person : 0.111111104
+	associate - clothing : 0.111111104
+	associate - usually : 0.111111104
+	associate - body : 0.111111104
+	associate - human : 0.111111104
+	Somatorio: 0.99999994
+
+	external - include : 0.0
+	external - weapon : 0.125
+	external - hide : 0.125
+	external - person : 0.25
+	external - clothing : 0.125
+	external - usually : 0.0
+	external - body : 0.0
+	external - human : 0.125
+	Somatorio: 0.75
+
+	administrator - include : 0.15384614
+	administrator - weapon : 0.15384614
+	administrator - hide : 0.07692307
+	administrator - person : 0.15384614
+	administrator - clothing : 0.07692307
+	administrator - usually : 0.15384614
+	administrator - body : 0.0
+	administrator - human : 0.15384614
+	Somatorio: 0.92307687
+
+	co-author - include : 0.111111104
+	co-author - weapon : 0.22222221
+	co-author - hide : 0.0
+	co-author - person : 0.111111104
+	co-author - clothing : 0.22222221
+	co-author - usually : 0.111111104
+	co-author - body : 0.111111104
+	co-author - human : 0.111111104
+	Somatorio: 0.99999994
+
+	meta - include : 0.0
+	meta - weapon : 0.16666669
+	meta - hide : 0.0
+	meta - person : 0.16666669
+	meta - clothing : 0.125
+	meta - usually : 0.14285713
+	meta - body : 0.0
+	meta - human : 0.19999999
+	Somatorio: 0.8011905
+
+	person - include : 0.0
+	person - weapon : 0.5
+	person - hide : 0.0
+	person - person : 1.0
+	person - clothing : 0.125
+	person - usually : 0.0
+	person - body : 0.0
+	person - human : 0.16666669
+	Somatorio: 1.7916667
+
+	member - include : 0.0
+	member - weapon : 0.16666669
+	member - hide : 0.16666669
+	member - person : 0.16666669
+	member - clothing : 0.0
+	member - usually : 0.0
+	member - body : 0.0
+	member - human : 0.16666669
+	Somatorio: 0.66666675
+
+	user - include : 0.14285713
+	user - weapon : 0.0
+	user - hide : 0.0
+	user - person : 0.16666669
+	user - clothing : 0.0
+	user - usually : 0.28571427
+	user - body : 0.0
+	user - human : 0.19999999
+	Somatorio: 0.7952381
+
+Synset 3: SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]}
+Somatorio total: 37.1671
+
+	conference - use : 0.100000024
+	conference - accord : 0.100000024
+	conference - verb : 0.19999999
+	conference - grammatical : 0.090909064
+	conference - classification : 0.14285713
+	conference - form : 0.19999999
+	conference - addressee : 0.19999999
+	conference - stop : 0.0
+	conference - pronoun : 0.19999999
+	conference - person : 0.19999999
+	conference - possessive : 0.3
+	conference - speaker : 0.100000024
+	conference - determiner : 0.19999999
+	conference - indicate : 0.19999999
+	conference - talk : 0.0
+	conference - category : 0.19999999
+	conference - party : 0.100000024
+	Somatorio: 2.5337663
+
+	committee - use : 0.111111104
+	committee - accord : 0.0
+	committee - verb : 0.0
+	committee - grammatical : 0.27272725
+	committee - classification : 0.21428573
+	committee - form : 0.22222221
+	committee - addressee : 0.22222221
+	committee - stop : 0.111111104
+	committee - pronoun : 0.0
+	committee - person : 0.0
+	committee - possessive : 0.19999999
+	committee - speaker : 0.111111104
+	committee - determiner : 0.19999999
+	committee - indicate : 0.22222221
+	committee - talk : 0.111111104
+	committee - category : 0.111111104
+	committee - party : 0.111111104
+	Somatorio: 2.2203465
+
+	author - use : 0.16666669
+	author - accord : 0.3333333
+	author - verb : 0.0
+	author - grammatical : 0.18181819
+	author - classification : 0.21428573
+	author - form : 0.16666669
+	author - addressee : 0.111111104
+	author - stop : 0.3333333
+	author - pronoun : 0.14285713
+	author - person : 0.16666669
+	author - possessive : 0.0
+	author - speaker : 0.14285713
+	author - determiner : 0.19999999
+	author - indicate : 0.0
+	author - talk : 0.16666669
+	author - category : 0.375
+	author - party : 0.16666669
+	Somatorio: 2.8679295
+
+	chair - use : 0.0
+	chair - accord : 0.16666669
+	chair - verb : 0.0
+	chair - grammatical : 0.18181819
+	chair - classification : 0.21428573
+	chair - form : 0.0
+	chair - addressee : 0.0
+	chair - stop : 0.0
+	chair - pronoun : 0.0
+	chair - person : 0.0
+	chair - possessive : 0.100000024
+	chair - speaker : 0.28571427
+	chair - determiner : 0.19999999
+	chair - indicate : 0.125
+	chair - talk : 0.19999999
+	chair - category : 0.25
+	chair - party : 0.0
+	Somatorio: 1.723485
+
+	chairman - use : 0.0
+	chairman - accord : 0.125
+	chairman - verb : 0.125
+	chairman - grammatical : 0.18181819
+	chairman - classification : 0.35714287
+	chairman - form : 0.25
+	chairman - addressee : 0.0
+	chairman - stop : 0.0
+	chairman - pronoun : 0.125
+	chairman - person : 0.25
+	chairman - possessive : 0.0
+	chairman - speaker : 0.0
+	chairman - determiner : 0.3
+	chairman - indicate : 0.125
+	chairman - talk : 0.125
+	chairman - category : 0.125
+	chairman - party : 0.25
+	Somatorio: 2.3389611
+
+	reviewer - use : 0.125
+	reviewer - accord : 0.0
+	reviewer - verb : 0.25
+	reviewer - grammatical : 0.090909064
+	reviewer - classification : 0.0714286
+	reviewer - form : 0.0
+	reviewer - addressee : 0.22222221
+	reviewer - stop : 0.0
+	reviewer - pronoun : 0.0
+	reviewer - person : 0.125
+	reviewer - possessive : 0.100000024
+	reviewer - speaker : 0.25
+	reviewer - determiner : 0.3
+	reviewer - indicate : 0.125
+	reviewer - talk : 0.0
+	reviewer - category : 0.125
+	reviewer - party : 0.0
+	Somatorio: 1.78456
+
+	program - use : 0.0
+	program - accord : 0.14285713
+	program - verb : 0.14285713
+	program - grammatical : 0.18181819
+	program - classification : 0.0714286
+	program - form : 0.4285714
+	program - addressee : 0.111111104
+	program - stop : 0.14285713
+	program - pronoun : 0.4285714
+	program - person : 0.14285713
+	program - possessive : 0.100000024
+	program - speaker : 0.0
+	program - determiner : 0.100000024
+	program - indicate : 0.125
+	program - talk : 0.0
+	program - category : 0.125
+	program - party : 0.28571427
+	Somatorio: 2.5286436
+
+	associate - use : 0.22222221
+	associate - accord : 0.22222221
+	associate - verb : 0.0
+	associate - grammatical : 0.18181819
+	associate - classification : 0.4285714
+	associate - form : 0.111111104
+	associate - addressee : 0.22222221
+	associate - stop : 0.22222221
+	associate - pronoun : 0.111111104
+	associate - person : 0.111111104
+	associate - possessive : 0.3
+	associate - speaker : 0.22222221
+	associate - determiner : 0.100000024
+	associate - indicate : 0.44444442
+	associate - talk : 0.111111104
+	associate - category : 0.0
+	associate - party : 0.111111104
+	Somatorio: 3.1215007
+
+	external - use : 0.125
+	external - accord : 0.125
+	external - verb : 0.25
+	external - grammatical : 0.18181819
+	external - classification : 0.0714286
+	external - form : 0.125
+	external - addressee : 0.111111104
+	external - stop : 0.125
+	external - pronoun : 0.0
+	external - person : 0.25
+	external - possessive : 0.100000024
+	external - speaker : 0.125
+	external - determiner : 0.39999998
+	external - indicate : 0.0
+	external - talk : 0.25
+	external - category : 0.25
+	external - party : 0.125
+	Somatorio: 2.614358
+
+	administrator - use : 0.07692307
+	administrator - accord : 0.15384614
+	administrator - verb : 0.07692307
+	administrator - grammatical : 0.15384614
+	administrator - classification : 0.28571427
+	administrator - form : 0.07692307
+	administrator - addressee : 0.23076922
+	administrator - stop : 0.23076922
+	administrator - pronoun : 0.07692307
+	administrator - person : 0.15384614
+	administrator - possessive : 0.07692307
+	administrator - speaker : 0.23076922
+	administrator - determiner : 0.15384614
+	administrator - indicate : 0.3076923
+	administrator - talk : 0.15384614
+	administrator - category : 0.15384614
+	administrator - party : 0.15384614
+	Somatorio: 2.747253
+
+	co-author - use : 0.111111104
+	co-author - accord : 0.22222221
+	co-author - verb : 0.0
+	co-author - grammatical : 0.090909064
+	co-author - classification : 0.21428573
+	co-author - form : 0.111111104
+	co-author - addressee : 0.0
+	co-author - stop : 0.22222221
+	co-author - pronoun : 0.111111104
+	co-author - person : 0.111111104
+	co-author - possessive : 0.100000024
+	co-author - speaker : 0.22222221
+	co-author - determiner : 0.100000024
+	co-author - indicate : 0.0
+	co-author - talk : 0.111111104
+	co-author - category : 0.3333333
+	co-author - party : 0.22222221
+	Somatorio: 2.2829723
+
+	meta - use : 0.0
+	meta - accord : 0.0
+	meta - verb : 0.25
+	meta - grammatical : 0.27272725
+	meta - classification : 0.0714286
+	meta - form : 0.0
+	meta - addressee : 0.111111104
+	meta - stop : 0.0
+	meta - pronoun : 0.0
+	meta - person : 0.16666669
+	meta - possessive : 0.100000024
+	meta - speaker : 0.14285713
+	meta - determiner : 0.19999999
+	meta - indicate : 0.125
+	meta - talk : 0.0
+	meta - category : 0.125
+	meta - party : 0.19999999
+	Somatorio: 1.7647908
+
+	person - use : 0.16666669
+	person - accord : 0.0
+	person - verb : 0.3333333
+	person - grammatical : 0.0
+	person - classification : 0.21428573
+	person - form : 0.16666669
+	person - addressee : 0.22222221
+	person - stop : 0.16666669
+	person - pronoun : 0.4285714
+	person - person : 1.0
+	person - possessive : 0.3
+	person - speaker : 0.28571427
+	person - determiner : 0.3
+	person - indicate : 0.0
+	person - talk : 0.0
+	person - category : 0.125
+	person - party : 0.3333333
+	Somatorio: 4.0424604
+
+	member - use : 0.16666669
+	member - accord : 0.0
+	member - verb : 0.3333333
+	member - grammatical : 0.090909064
+	member - classification : 0.0
+	member - form : 0.0
+	member - addressee : 0.22222221
+	member - stop : 0.0
+	member - pronoun : 0.0
+	member - person : 0.16666669
+	member - possessive : 0.100000024
+	member - speaker : 0.4285714
+	member - determiner : 0.39999998
+	member - indicate : 0.0
+	member - talk : 0.0
+	member - category : 0.125
+	member - party : 0.0
+	Somatorio: 2.0333695
+
+	user - use : 0.75
+	user - accord : 0.16666669
+	user - verb : 0.25
+	user - grammatical : 0.0
+	user - classification : 0.0714286
+	user - form : 0.0
+	user - addressee : 0.22222221
+	user - stop : 0.0
+	user - pronoun : 0.0
+	user - person : 0.16666669
+	user - possessive : 0.19999999
+	user - speaker : 0.28571427
+	user - determiner : 0.19999999
+	user - indicate : 0.0
+	user - talk : 0.0
+	user - category : 0.25
+	user - party : 0.0
+	Somatorio: 2.5626986
+
+
+----------
+NOME: Preference
+Desc: null
+Supers: []
+Subs: []
+Contexto: [preference]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#PsychologicalAttribute>
+Synset selecionado: SYNSET{SID-07498210-N : Words[W-07498210-N-1-preference, W-07498210-N-2-penchant, W-07498210-N-3-predilection, W-07498210-N-4-taste]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-07498210-N : Words[W-07498210-N-1-preference, W-07498210-N-2-penchant, W-07498210-N-3-predilection, W-07498210-N-4-taste]}
+Somatorio total: 2.5333335
+
+	preference - liking : 0.100000024
+	preference - literature : 0.19999999
+	preference - predilection : 0.3333333
+	preference - strong : 0.19999999
+	preference - preference : 1.0
+	preference - taste : 0.100000024
+	preference - penchant : 0.3
+	preference - irish : 0.100000024
+	preference - good : 0.0
+	preference - blarney : 0.19999999
+	Somatorio: 2.5333335
+
+Synset 2: SYNSET{SID-06200344-N : Words[W-06200344-N-1-predilection, W-06200344-N-2-preference, W-06200344-N-3-orientation]}
+Somatorio total: 2.3294375
+
+	preference - predilection : 0.3333333
+	preference - orientation : 0.18181819
+	preference - favor : 0.100000024
+	preference - car : 0.100000024
+	preference - preference : 1.0
+	preference - show : 0.0
+	preference - predisposition : 0.21428573
+	preference - marxist : 0.100000024
+	preference - sexual : 0.100000024
+	preference - expensive : 0.19999999
+	Somatorio: 2.3294375
+
+Synset 3: SYNSET{SID-05791452-N : Words[W-05791452-N-1-preference, W-05791452-N-2-druthers]}
+Somatorio total: 2.0
+
+	preference - give : 0.100000024
+	preference - chance : 0.3
+	preference - druther : 0.19999999
+	preference - cake : 0.100000024
+	preference - preference : 1.0
+	preference - eat : 0.100000024
+	preference - choose : 0.100000024
+	preference - right : 0.100000024
+	preference - id : 0.0
+	Somatorio: 2.0
+
+Synset 4: SYNSET{SID-05158095-N : Words[W-05158095-N-1-preference]}
+Somatorio total: 2.1538463
+
+	preference - country : 0.100000024
+	preference - trade : 0.19999999
+	preference - especially : 0.0
+	preference - favor : 0.100000024
+	preference - advantage : 0.100000024
+	preference - preference : 1.0
+	preference - duty : 0.0
+	preference - grant : 0.19999999
+	preference - matter : 0.19999999
+	preference - international : 0.15384614
+	preference - levy : 0.100000024
+	Somatorio: 2.1538463
+
+
+----------
+NOME: Decision
+Desc: null
+Supers: []
+Subs: [<http://cmt#Acceptance>, <http://cmt#Rejection>]
+Contexto: [acceptance, decision, rejection]
+Conceito Topo alinhado: <file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl#Learning>
+Synset selecionado: SYNSET{SID-05838176-N : Words[W-05838176-N-1-decision, W-05838176-N-2-determination, W-05838176-N-3-conclusion]}
+Conjunto de synsets recuperados:
+Synset 1: SYNSET{SID-00162632-N : Words[W-00162632-N-1-decision, W-00162632-N-2-determination, W-00162632-N-3-conclusion]}
+Somatorio total: 5.6130342
+
+	acceptance - conclusion : 0.0
+	acceptance - mind : 0.100000024
+	acceptance - act : 0.3
+	acceptance - decision : 0.19999999
+	acceptance - quickly : 0.0
+	acceptance - determination : 0.15384614
+	acceptance - draw : 0.100000024
+	acceptance - make : 0.19999999
+	acceptance - burden : 0.100000024
+	Somatorio: 1.1538461
+
+	decision - conclusion : 0.5
+	decision - mind : 0.125
+	decision - act : 0.125
+	decision - decision : 1.0
+	decision - quickly : 0.125
+	decision - determination : 0.46153843
+	decision - draw : 0.125
+	decision - make : 0.0
+	decision - burden : 0.125
+	Somatorio: 2.5865383
+
+	rejection - conclusion : 0.3
+	rejection - mind : 0.111111104
+	rejection - act : 0.22222221
+	rejection - decision : 0.44444442
+	rejection - quickly : 0.111111104
+	rejection - determination : 0.46153843
+	rejection - draw : 0.0
+	rejection - make : 0.111111104
+	rejection - burden : 0.111111104
+	Somatorio: 1.8726494
+
+Synset 2: SYNSET{SID-05838176-N : Words[W-05838176-N-1-decision, W-05838176-N-2-determination, W-05838176-N-3-conclusion]}
+Somatorio total: 10.735451
+
+	acceptance - decision : 0.19999999
+	acceptance - evidence : 0.3
+	acceptance - reach : 0.3
+	acceptance - satisfied : 0.0
+	acceptance - determination : 0.15384614
+	acceptance - opinion : 0.100000024
+	acceptance - conclusion : 0.0
+	acceptance - opposition : 0.0
+	acceptance - take : 0.3
+	acceptance - judgment : 0.100000024
+	acceptance - unfavorable : 0.18181819
+	acceptance - consideration : 0.07692307
+	acceptance - position : 0.100000024
+	acceptance - panel : 0.3
+	acceptance - account : 0.39999998
+	Somatorio: 2.5125875
+
+	decision - decision : 1.0
+	decision - evidence : 0.125
+	decision - reach : 0.125
+	decision - satisfied : 0.3333333
+	decision - determination : 0.46153843
+	decision - opinion : 0.5
+	decision - conclusion : 0.5
+	decision - opposition : 0.39999998
+	decision - take : 0.0
+	decision - judgment : 0.0
+	decision - unfavorable : 0.0
+	decision - consideration : 0.38461536
+	decision - position : 0.5
+	decision - panel : 0.0
+	decision - account : 0.125
+	Somatorio: 4.4544873
+
+	rejection - decision : 0.44444442
+	rejection - evidence : 0.111111104
+	rejection - reach : 0.3333333
+	rejection - satisfied : 0.111111104
+	rejection - determination : 0.46153843
+	rejection - opinion : 0.3333333
+	rejection - conclusion : 0.3
+	rejection - opposition : 0.39999998
+	rejection - take : 0.111111104
+	rejection - judgment : 0.111111104
+	rejection - unfavorable : 0.0
+	rejection - consideration : 0.38461536
+	rejection - position : 0.44444442
+	rejection - panel : 0.111111104
+	rejection - account : 0.111111104
+	Somatorio: 3.768376
+
+Synset 3: SYNSET{SID-07293678-N : Words[W-07293678-N-1-decision]}
+Somatorio total: 5.241667
+
+	acceptance - knockout : 0.0
+	acceptance - take : 0.3
+	acceptance - decision : 0.19999999
+	acceptance - occur : 0.19999999
+	acceptance - victory : 0.19999999
+	acceptance - unanimous : 0.0
+	acceptance - opponent : 0.100000024
+	acceptance - boxing : 0.100000024
+	acceptance - trouble : 0.100000024
+	acceptance - win : 0.100000024
+	acceptance - point : 0.19999999
+	acceptance - little : 0.19999999
+	Somatorio: 1.7
+
+	decision - knockout : 0.0
+	decision - take : 0.0
+	decision - decision : 1.0
+	decision - occur : 0.125
+	decision - victory : 0.125
+	decision - unanimous : 0.111111104
+	decision - opponent : 0.0
+	decision - boxing : 0.125
+	decision - trouble : 0.0
+	decision - win : 0.25
+	decision - point : 0.125
+	decision - little : 0.125
+	Somatorio: 1.9861112
+
+	rejection - knockout : 0.111111104
+	rejection - take : 0.111111104
+	rejection - decision : 0.44444442
+	rejection - occur : 0.111111104
+	rejection - victory : 0.22222221
+	rejection - unanimous : 0.0
+	rejection - opponent : 0.0
+	rejection - boxing : 0.111111104
+	rejection - trouble : 0.0
+	rejection - win : 0.22222221
+	rejection - point : 0.111111104
+	rejection - little : 0.111111104
+	Somatorio: 1.5555556
+
+Synset 4: SYNSET{SID-07293546-N : Words[W-07293546-N-1-decision]}
+Somatorio total: 3.822222
+
+	acceptance - drop : 0.100000024
+	acceptance - game : 0.19999999
+	acceptance - contest : 0.19999999
+	acceptance - decision : 0.19999999
+	acceptance - team : 0.19999999
+	acceptance - row : 0.0
+	acceptance - outcome : 0.19999999
+	Somatorio: 1.0999999
+
+	decision - drop : 0.25
+	decision - game : 0.0
+	decision - contest : 0.0
+	decision - decision : 1.0
+	decision - team : 0.125
+	decision - row : 0.125
+	decision - outcome : 0.0
+	Somatorio: 1.5
+
+	rejection - drop : 0.111111104
+	rejection - game : 0.111111104
+	rejection - contest : 0.111111104
+	rejection - decision : 0.44444442
+	rejection - team : 0.111111104
+	rejection - row : 0.22222221
+	rejection - outcome : 0.111111104
+	Somatorio: 1.2222221
+
+Synset 5: SYNSET{SID-04863969-N : Words[W-04863969-N-1-decisiveness, W-04863969-N-2-decision]}
+Somatorio total: 5.1888885
+
+	acceptance - character : 0.19999999
+	acceptance - decision : 0.19999999
+	acceptance - evidence : 0.3
+	acceptance - purpose : 0.19999999
+	acceptance - firmness : 0.0
+	acceptance - decisiveness : 0.16666669
+	acceptance - trait : 0.100000024
+	acceptance - man : 0.19999999
+	acceptance - resoluteness : 0.16666669
+	acceptance - unusual : 0.100000024
+	Somatorio: 1.6333333
+
+	decision - character : 0.0
+	decision - decision : 1.0
+	decision - evidence : 0.125
+	decision - purpose : 0.0
+	decision - firmness : 0.0
+	decision - decisiveness : 0.5833334
+	decision - trait : 0.125
+	decision - man : 0.125
+	decision - resoluteness : 0.16666669
+	decision - unusual : 0.125
+	Somatorio: 2.25
+
+	rejection - character : 0.111111104
+	rejection - decision : 0.44444442
+	rejection - evidence : 0.111111104
+	rejection - purpose : 0.0
+	rejection - firmness : 0.0
+	rejection - decisiveness : 0.16666669
+	rejection - trait : 0.111111104
+	rejection - man : 0.111111104
+	rejection - resoluteness : 0.25
+	rejection - unusual : 0.0
+	Somatorio: 1.3055556
+
+
+----------

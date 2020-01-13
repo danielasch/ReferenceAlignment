@@ -1,0 +1,219 @@
+NOME: Award
+Desc: "a prize or an amount of money that is given to someone following an official decision:"
+Supers: []
+Subs: [<http://sigkdd#Best_Applications_Paper_Award>, <http://sigkdd#Best_Research_Paper_Award>, <http://sigkdd#Best_Student_Paper_Award>]
+Contexto: [award, decision, paper, money, application, student, official, best, follow, prize, research]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#UnilateralGiving>
+Synset selecionado: SYNSET{SID-13268146-N : Words[W-13268146-N-1-prize, W-13268146-N-2-award]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00087663-N : Words[W-00087663-N-1-award, W-00087663-N-2-awarding]} | a grant made by a law court; "he criticized the awarding of compensation by the court"
+BOW: [award, law, criticize, compensation, grant, court]
+
+SYNSET{SID-06696483-N : Words[W-06696483-N-1-award, W-06696483-N-2-accolade, W-06696483-N-3-honor, W-06696483-N-4-honour, W-06696483-N-5-laurels]} | a tangible symbol signifying approval or distinction; "an award for bravery"
+BOW: [laurel, symbol, honour, award, distinction, approval, honor, signify, accolade, tangible, bravery]
+
+SYNSET{SID-13268146-N : Words[W-13268146-N-1-prize, W-13268146-N-2-award]} | something given for victory or superiority in a contest or competition or for winning a lottery; "the prize was a free trip to Europe"
+BOW: [give, award, contest, trip, superiority, victory, competition, lottery, free, prize, win, europe]
+
+Intersecção de palavras: award, prize,
+----------
+NOME: ACM_SIGKDD
+Desc: null
+Supers: [owl:Thing]
+Subs: []
+Contexto: [acm, thing, sigkdd]
+Conceito Topo alinhado: null
+Synset selecionado: null
+Número de Synsets recuperados: 0
+
+Conjunto de synsets recuperados:
+Intersecção de palavras:
+----------
+NOME: Person
+Desc: "man or woman"
+Supers: [owl:Thing]
+Subs: [<http://sigkdd#Listener>, <http://sigkdd#Organizator>, <http://sigkdd#General_Chair>, <http://sigkdd#Organizing_Committee_member>, <http://sigkdd#Program_Chair>, <http://sigkdd#Program_Committee_member>, <http://sigkdd#Webmaster>, <http://sigkdd#Speaker>, <http://sigkdd#Author>, <http://sigkdd#Author_of_paper>, <http://sigkdd#Author_of_paper_student>, <http://sigkdd#Invited_Speaker>]
+Contexto: [webmaster, committee, woman, student, author, chair, listener, program, organizator, general, paper, organize, person, speaker, member, invite, man, thing]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Word>
+Synset selecionado: SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+
+Intersecção de palavras: person, speaker,
+----------
+NOME: Place
+Desc: "a suitable area, building, situation, or occasion"
+Supers: []
+Subs: [<http://sigkdd#Conference_hall>, <http://sigkdd#Hotel>, <http://sigkdd#Main_office>]
+Contexto: [area, occasion, conference, hall, hotel, main, suitable, office, place, building, situation]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-00586262-N : Words[W-00586262-N-1-position, W-00586262-N-2-post, W-00586262-N-3-berth, W-00586262-N-4-office, W-00586262-N-5-spot, W-00586262-N-6-billet, W-00586262-N-7-place, W-00586262-N-8-situation]}
+Número de Synsets recuperados: 16
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08664443-N : Words[W-08664443-N-1-topographic_point, W-08664443-N-2-place, W-08664443-N-3-spot]} | a point located with respect to surface features of some region; "this is a nice place for a picnic"; "a bright spot on a planet"
+BOW: [surface, planet, bright, picnic, point, respect, nice, topographic, feature, spot, located, place, region]
+
+SYNSET{SID-08513718-N : Words[W-08513718-N-1-place, W-08513718-N-2-property]} | any area set aside for a particular purpose; "who owns this place?"; "the president was concerned about the property across from the White House"
+BOW: [area, set, aside, concerned, white, purpose, own, property, particular, place, house, president]
+
+SYNSET{SID-05611822-N : Words[W-05611822-N-1-place]} | an abstract mental location; "he has a special place in my thoughts"; "a place in my heart"; "a political system with no place for the less prominent groups"
+BOW: [special, system, prominent, thought, political, mental, location, place, abstract, heart, group]
+
+SYNSET{SID-08642037-N : Words[W-08642037-N-1-place]} | a general vicinity; "He comes from a place near Chicago"
+BOW: [general, vicinity, come, place, near, chicago]
+
+SYNSET{SID-00721431-N : Words[W-00721431-N-1-stead, W-00721431-N-2-position, W-00721431-N-3-place, W-00721431-N-4-lieu]} | the post or function properly or customarily occupied or served by another; "can you go in my stead?"; "took his place"; "in lieu of"
+BOW: [properly, take, post, occupy, function, position, place, serve, customarily, stead, lieu]
+
+SYNSET{SID-13926786-N : Words[W-13926786-N-1-place, W-13926786-N-2-shoes]} | a particular situation; "If you were in my place what would you do?"
+BOW: [particular, place, shoe, situation]
+
+SYNSET{SID-08559508-N : Words[W-08559508-N-1-home, W-08559508-N-2-place]} | where you live at a particular time; "deliver the package to my home"; "he doesn't have a home to go to"; "your place or mine?"
+BOW: [package, deliver, particular, place, time, live, home, doesnt]
+
+SYNSET{SID-00586262-N : Words[W-00586262-N-1-position, W-00586262-N-2-post, W-00586262-N-3-berth, W-00586262-N-4-office, W-00586262-N-5-spot, W-00586262-N-6-billet, W-00586262-N-7-place, W-00586262-N-8-situation]} | a job in an organization; "he occupied a post in the treasury"
+BOW: [billet, post, occupy, treasury, berth, spot, organization, position, office, place, job, situation]
+
+SYNSET{SID-08621598-N : Words[W-08621598-N-1-position, W-08621598-N-2-place]} | the particular portion of space occupied by something; "he put the lamp back in its place"
+BOW: [occupy, portion, particular, lamp, position, place, space]
+
+SYNSET{SID-13947645-N : Words[W-13947645-N-1-place, W-13947645-N-2-station]} | proper or designated social situation; "he overstepped his place"; "the responsibilities of a man in his station"; "married above her station"
+BOW: [social, responsibility, overstep, station, marry, proper, place, man, designate, situation]
+
+SYNSET{SID-08647616-N : Words[W-08647616-N-1-seat, W-08647616-N-2-place]} | a space reserved for sitting (as in a theater or on a train or airplane); "he booked their seats in advance"; "he sat in someone else's place"
+BOW: [seat, theater, airplane, book, reserve, place, els, space, sit, train, advance]
+
+SYNSET{SID-06401107-N : Words[W-06401107-N-1-place]} | the passage that is being read; "he lost his place on the page"
+BOW: [read, passage, lose, place, page]
+
+SYNSET{SID-13947867-N : Words[W-13947867-N-1-place]} | proper or appropriate position or location; "a woman's place is no longer in the kitchen"
+BOW: [appropriate, longer, woman, proper, location, place, position, kitchen]
+
+SYNSET{SID-08619795-N : Words[W-08619795-N-1-plaza, W-08619795-N-2-place, W-08619795-N-3-piazza]} | a public square with room for pedestrians; "they met at Elm Plaza"; "Grosvenor Place"
+BOW: [plaza, square, public, meet, elm, pedestrian, place, piazza, grosvenor, room]
+
+SYNSET{SID-06483454-N : Words[W-06483454-N-1-place, W-06483454-N-2-position]} | an item on a list or in a sequence; "in the second place"; "moved from third to fifth position"
+BOW: [sequence, item, move, fifth, place, position, list, second]
+
+SYNSET{SID-06389553-N : Words[W-06389553-N-1-space, W-06389553-N-2-blank_space, W-06389553-N-3-place]} | a blank area; "write your name in the space provided"
+BOW: [area, blank, provide, place, write, space]
+
+Intersecção de palavras: office, place, situation,
+----------
+NOME: Sponzor
+Desc: "to support a person, organization, or activity by giving money, encouragement, or other help:"
+Supers: []
+Subs: [<http://sigkdd#Best_Student_Paper_Supporter>, <http://sigkdd#Bronze_Supporter>, <http://sigkdd#Exhibitor>, <http://sigkdd#Gold_Supporter>, <http://sigkdd#Platinum_Supporter>, <http://sigkdd#Silver_Supporter>]
+Contexto: [activity, exhibitor, student, best, supporter, bronze, gold, help, platinum, money, paper, encouragement, person, organization, sponzor, silver, support]
+Conceito Topo alinhado: null
+Synset selecionado: null
+Número de Synsets recuperados: 0
+
+Conjunto de synsets recuperados:
+Intersecção de palavras: organization,
+----------
+NOME: Deadline
+Desc: "a time or day by which something must be done:"
+Supers: []
+Subs: [<http://sigkdd#Deadline_Abstract_Submission>, <http://sigkdd#Deadline_Author_notification>, <http://sigkdd#Deadline_Paper_Submission>]
+Contexto: [notification, paper, author, submission, abstract, time, deadline, day]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#TimePosition>
+Synset selecionado: SYNSET{SID-15180082-N : Words[W-15180082-N-1-deadline]}
+Número de Synsets recuperados: 1
+
+Conjunto de synsets recuperados:
+Intersecção de palavras:
+----------
+NOME: Fee
+Desc: "an amount of money paid for a particular piece of work or for a particular right or service:"
+Supers: []
+Subs: [<http://sigkdd#Registration_fee>, <http://sigkdd#Registration_Non-Member>, <http://sigkdd#Registration_SIGKDD_Member>, <http://sigkdd#Registration_SIGMOD_Member>, <http://sigkdd#Registration_Student>, <http://sigkdd#Sponzor_fee>]
+Contexto: [sigmod, student, work, fee, pay, particular, right, non-member, sigkdd, money, piece, service, member, sponzor, registration]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#ChargingAFee>
+Synset selecionado: SYNSET{SID-13320168-N : Words[W-13320168-N-1-fee]}
+Número de Synsets recuperados: 2
+
+Conjunto de synsets recuperados:
+SYNSET{SID-13320168-N : Words[W-13320168-N-1-fee]} | a fixed charge for a privilege or for professional services
+BOW: [charge, fix, service, fee, privilege, professional]
+
+SYNSET{SID-13288529-N : Words[W-13288529-N-1-fee]} | an interest in land capable of being inherited
+BOW: [fee, inherit, land, capable]
+
+Intersecção de palavras: service, fee,
+----------
+NOME: Document
+Desc: "a paper or set of papers with written or printed information, especially of an official type:"
+Supers: []
+Subs: [<http://sigkdd#Abstract>, <http://sigkdd#Paper>, <http://sigkdd#Review>]
+Contexto: [print, set, paper, especially, review, document, official, information, abstract, type, write, papers]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FactualText>
+Synset selecionado: SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]} | writing that provides information (especially information of an official nature)
+BOW: [provide, especially, nature, document, official, information, write, papers]
+
+SYNSET{SID-03217458-N : Words[W-03217458-N-1-document]} | anything serving as a representation of a person's thinking by means of symbolic marks
+BOW: [symbolic, think, means, person, document, serve, representation, mark]
+
+SYNSET{SID-13403331-N : Words[W-13403331-N-1-document]} | a written account of ownership or obligation
+BOW: [ownership, obligation, document, write, account]
+
+SYNSET{SID-06510977-N : Words[W-06510977-N-1-text_file, W-06510977-N-2-document]} | (computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+BOW: [contain, use, document, format, seven, bit, character, file, instruction, science, text, possibly, ascius]
+
+Intersecção de palavras: especially, document, official, information, write, papers,
+----------
+NOME: Committee
+Desc: "a small group of people chosen to represent a larger organization and either make decisions or collect information for it"
+Supers: []
+Subs: [<http://sigkdd#Best_Paper_Awards_Committee>, <http://sigkdd#Organizing_Committee>, <http://sigkdd#Program_Committee>]
+Contexto: [small, larger, committee, decision, best, choose, program, people, award, paper, organize, organization, information, make, collect, group, represent]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Commission>
+Synset selecionado: SYNSET{SID-08324514-N : Words[W-08324514-N-1-committee, W-08324514-N-2-commission]}
+Número de Synsets recuperados: 2
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08324514-N : Words[W-08324514-N-1-committee, W-08324514-N-2-commission]} | a special group delegated to consider some matter; "a committee is a group that keeps minutes and loses hours" - Milton Berle
+BOW: [committee, lose, matter, minute, special, delegate, hour, keep, milton, commission, consider, berle, group]
+
+SYNSET{SID-08325686-N : Words[W-08325686-N-1-committee, W-08325686-N-2-citizens_committee]} | a self-constituted organization to promote something
+BOW: [citizen, promote, committee, organization, self, constitute]
+
+Intersecção de palavras: committee, group,
+----------
+NOME: Conference
+Desc: "an event, sometimes lasting a few days, at which there is a group of talks on a particular subject, or a meeting in which especially business matters are discussed formally:"
+Supers: []
+Subs: []
+Contexto: [conference, business, subject, particular, matter, especially, talk, event, day, meeting, lasting, formally, discuss, group]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+
+Intersecção de palavras: conference, especially, meeting,
+----------

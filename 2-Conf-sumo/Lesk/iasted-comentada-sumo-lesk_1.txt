@@ -1,0 +1,303 @@
+NOME: City
+Desc: "a place where many people live, with many houses, stores, businesses, etc., and which is bigger than a town"
+Supers: [owl:Thing]
+Subs: [<http://iasted#Conference_city>, <http://iasted#Presenter_city>, <http://iasted#Sponsor_city>, <http://iasted#Trip_city>]
+Contexto: [sponsor, conference, town, presenter, business, city, bigger, store, people, house, trip, place, thing, live]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#City>
+Synset selecionado: SYNSET{SID-08226335-N : Words[W-08226335-N-1-city, W-08226335-N-2-metropolis]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08524735-N : Words[W-08524735-N-1-city, W-08524735-N-2-metropolis, W-08524735-N-3-urban_center]} | a large and densely populated urban area; may include several independent administrative districts; "Ancient Troy was a great city"
+BOW: [densely, area, include, large, independent, city, metropolis, center, populated, ancient, great, urban, administrative, district, troy]
+
+SYNSET{SID-08540903-N : Words[W-08540903-N-1-city]} | an incorporated administrative district established by state charter; "the city raised the tax rate"
+BOW: [established, city, rate, incorporated, administrative, charter, district, raise, tax, state]
+
+SYNSET{SID-08226335-N : Words[W-08226335-N-1-city, W-08226335-N-2-metropolis]} | people living in a large densely populated municipality; "the city voted for Republicans in 1994"
+BOW: [densely, large, 1994, city, metropolis, republican, municipality, populated, people, vote, live]
+
+Intersecção de palavras: city, people, live,
+----------
+NOME: Place
+Desc: "a suitable area, building, situation, or occasion"
+Supers: [owl:Thing]
+Subs: [<http://iasted#Building>, <http://iasted#Conference_airport>, <http://iasted#Conference_building>, <http://iasted#Conference_hotel>, <http://iasted#Conference_restaurant>, <http://iasted#Presenter_house>, <http://iasted#Presenter_university>, <http://iasted#Sponsor_company_house>, <http://iasted#Conference_hall>, <http://iasted#Hotel_room>, <http://iasted#Double_hotel_room>, <http://iasted#Single_hotel_room>, <http://iasted#Main_office>, <http://iasted#Session_room>]
+Contexto: [occasion, area, sponsor, conference, presenter, session, university, double, restaurant, hall, main, office, house, building, room, airport, single, hotel, company, suitable, place, thing, situation]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#GeographicArea>
+Synset selecionado: SYNSET{SID-08513718-N : Words[W-08513718-N-1-place, W-08513718-N-2-property]}
+Número de Synsets recuperados: 16
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08664443-N : Words[W-08664443-N-1-topographic_point, W-08664443-N-2-place, W-08664443-N-3-spot]} | a point located with respect to surface features of some region; "this is a nice place for a picnic"; "a bright spot on a planet"
+BOW: [surface, planet, bright, picnic, point, respect, nice, topographic, feature, spot, located, place, region]
+
+SYNSET{SID-08513718-N : Words[W-08513718-N-1-place, W-08513718-N-2-property]} | any area set aside for a particular purpose; "who owns this place?"; "the president was concerned about the property across from the White House"
+BOW: [area, set, aside, concerned, white, purpose, own, property, particular, place, house, president]
+
+SYNSET{SID-05611822-N : Words[W-05611822-N-1-place]} | an abstract mental location; "he has a special place in my thoughts"; "a place in my heart"; "a political system with no place for the less prominent groups"
+BOW: [special, system, prominent, thought, political, mental, location, place, abstract, heart, group]
+
+SYNSET{SID-08642037-N : Words[W-08642037-N-1-place]} | a general vicinity; "He comes from a place near Chicago"
+BOW: [general, vicinity, come, place, near, chicago]
+
+SYNSET{SID-00721431-N : Words[W-00721431-N-1-stead, W-00721431-N-2-position, W-00721431-N-3-place, W-00721431-N-4-lieu]} | the post or function properly or customarily occupied or served by another; "can you go in my stead?"; "took his place"; "in lieu of"
+BOW: [properly, take, post, occupy, function, position, place, serve, customarily, stead, lieu]
+
+SYNSET{SID-13926786-N : Words[W-13926786-N-1-place, W-13926786-N-2-shoes]} | a particular situation; "If you were in my place what would you do?"
+BOW: [particular, place, shoe, situation]
+
+SYNSET{SID-08559508-N : Words[W-08559508-N-1-home, W-08559508-N-2-place]} | where you live at a particular time; "deliver the package to my home"; "he doesn't have a home to go to"; "your place or mine?"
+BOW: [package, deliver, particular, place, time, live, home, doesnt]
+
+SYNSET{SID-00586262-N : Words[W-00586262-N-1-position, W-00586262-N-2-post, W-00586262-N-3-berth, W-00586262-N-4-office, W-00586262-N-5-spot, W-00586262-N-6-billet, W-00586262-N-7-place, W-00586262-N-8-situation]} | a job in an organization; "he occupied a post in the treasury"
+BOW: [billet, post, occupy, treasury, berth, spot, organization, position, office, place, job, situation]
+
+SYNSET{SID-08621598-N : Words[W-08621598-N-1-position, W-08621598-N-2-place]} | the particular portion of space occupied by something; "he put the lamp back in its place"
+BOW: [occupy, portion, particular, lamp, position, place, space]
+
+SYNSET{SID-13947645-N : Words[W-13947645-N-1-place, W-13947645-N-2-station]} | proper or designated social situation; "he overstepped his place"; "the responsibilities of a man in his station"; "married above her station"
+BOW: [social, responsibility, overstep, station, marry, proper, place, man, designate, situation]
+
+SYNSET{SID-08647616-N : Words[W-08647616-N-1-seat, W-08647616-N-2-place]} | a space reserved for sitting (as in a theater or on a train or airplane); "he booked their seats in advance"; "he sat in someone else's place"
+BOW: [seat, theater, airplane, book, reserve, place, els, space, sit, train, advance]
+
+SYNSET{SID-06401107-N : Words[W-06401107-N-1-place]} | the passage that is being read; "he lost his place on the page"
+BOW: [read, passage, lose, place, page]
+
+SYNSET{SID-13947867-N : Words[W-13947867-N-1-place]} | proper or appropriate position or location; "a woman's place is no longer in the kitchen"
+BOW: [appropriate, longer, woman, proper, location, place, position, kitchen]
+
+SYNSET{SID-08619795-N : Words[W-08619795-N-1-plaza, W-08619795-N-2-place, W-08619795-N-3-piazza]} | a public square with room for pedestrians; "they met at Elm Plaza"; "Grosvenor Place"
+BOW: [plaza, square, public, meet, elm, pedestrian, place, piazza, grosvenor, room]
+
+SYNSET{SID-06483454-N : Words[W-06483454-N-1-place, W-06483454-N-2-position]} | an item on a list or in a sequence; "in the second place"; "moved from third to fifth position"
+BOW: [sequence, item, move, fifth, place, position, list, second]
+
+SYNSET{SID-06389553-N : Words[W-06389553-N-1-space, W-06389553-N-2-blank_space, W-06389553-N-3-place]} | a blank area; "write your name in the space provided"
+BOW: [area, blank, provide, place, write, space]
+
+Intersecção de palavras: area, place, house,
+----------
+NOME: Person
+Desc: "man or woman"
+Supers: []
+Subs: [<http://iasted#Delegate>, <http://iasted#Conference_Hiker>, <http://iasted#Hotel_presenter>, <http://iasted#IASTED_member>, <http://iasted#IASTED_non_member>, <http://iasted#Listener>, <http://iasted#Non_speaker>, <http://iasted#Student_non_speaker>, <http://iasted#Worker_non_speaker>, <http://iasted#One_day_presenter>, <http://iasted#Session_chair>, <http://iasted#Speaker>, <http://iasted#Author>, <http://iasted#Author_book_proceedings_included>, <http://iasted#Author_cd_proceedings_included>, <http://iasted#Lecturer>, <http://iasted#Student_lecturer>, <http://iasted#Worker_lecturer>, <http://iasted#Plenary_lecture_speaker>, <http://iasted#Tutorial_speaker>, <http://iasted#Reviewer>, <http://iasted#Technical_commitee>, <http://iasted#Sponsor>]
+Contexto: [sponsor, conference, woman, technical, student, session, book, listener, non, commitee, delegate, member, hotel, lecture, tutorial, man, proceedings, worker, day, hiker, include, iasted, cd, presenter, chair, author, lecturer, plenary, reviewer, person, speaker]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+
+Intersecção de palavras: include, person,
+----------
+NOME: Time
+Desc: "the part of existence that is measured in minutes, days, years, etc., or this process considered as a whole"
+Supers: []
+Subs: [<http://iasted#Conference_days>, <http://iasted#One_conference_day>, <http://iasted#Deadline>, <http://iasted#Camera_ready_manuscript_deadline>, <http://iasted#Deadline_for_notification_of_acceptance>, <http://iasted#Deadline_hotel_reservation>, <http://iasted#Registation_deadline>, <http://iasted#Submissions_deadline>, <http://iasted#Trip_day>]
+Contexto: [process, conference, year, part, existence, minute, notification, measure, trip, acceptance, manuscript, ready, hotel, reservation, submission, consider, time, camera, deadline, day, registation]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#TimeInterval>
+Synset selecionado: SYNSET{SID-15270431-N : Words[W-15270431-N-1-time]}
+Número de Synsets recuperados: 10
+
+Conjunto de synsets recuperados:
+SYNSET{SID-07309599-N : Words[W-07309599-N-1-time, W-07309599-N-2-clip]} | an instance or single occasion for some event; "this time he succeeded"; "he called four times"; "he could do ten at a clip"
+BOW: [single, occasion, call, instance, succeed, time, event, clip]
+
+SYNSET{SID-15270431-N : Words[W-15270431-N-1-time]} | a period of time considered as a resource under your control and sufficient to accomplish something; "take time to smell the roses"; "I didn't have time to finish"; "it took more than half my time"
+BOW: [period, half, resource, control, smell, take, accomplish, sufficient, didnt, rose, finish, time, consider]
+
+SYNSET{SID-15122231-N : Words[W-15122231-N-1-time]} | an indefinite period (usually marked by specific attributes or activities); "he waited a long time"; "the time of year for planting"; "he was a great actor in his time"
+BOW: [marked, period, wait, activity, year, specific, great, indefinite, long, actor, plant, time, usually, attribute]
+
+SYNSET{SID-15245515-N : Words[W-15245515-N-1-time]} | a suitable moment; "it is time to go"
+BOW: [suitable, time, moment]
+
+SYNSET{SID-00028270-N : Words[W-00028270-N-1-time]} | the continuum of experience in which events pass from the future through the present to the past
+BOW: [continuum, pass, future, past, time, experience, event, present]
+
+SYNSET{SID-07288215-N : Words[W-07288215-N-1-time]} | a person's experience on a particular occasion; "he had a time holding back the tears"; "they had a good time together"
+BOW: [occasion, tear, person, particular, time, experience, good, hold]
+
+SYNSET{SID-15129927-N : Words[W-15129927-N-1-clock_time, W-15129927-N-2-time]} | a reading of a point in time as given by a clock; "do you know what time it is?"; "the time is 10 o'clock"
+BOW: [oclock, give, read, know, clock, time, point, 10]
+
+SYNSET{SID-15135822-N : Words[W-15135822-N-1-fourth_dimension, W-15135822-N-2-time]} | the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event
+BOW: [coordinate, specify, require, fourth, time, spatial, physical, event, dimension]
+
+SYNSET{SID-04991738-N : Words[W-04991738-N-1-meter, W-04991738-N-2-metre, W-04991738-N-3-time]} | rhythm as given by division into parts of equal duration
+BOW: [metre, division, equal, duration, give, meter, part, time, rhythm]
+
+SYNSET{SID-15224692-N : Words[W-15224692-N-1-prison_term, W-15224692-N-2-sentence, W-15224692-N-3-time]} | the period of time a prisoner is imprisoned; "he served a prison term of 15 months"; "his sentence was 5 to 10 years"; "he is doing time in the county jail"
+BOW: [sentence, period, 15, year, prisoner, county, serve, do, jail, month, 5, imprison, term, time, prison, 10]
+
+Intersecção de palavras: time, consider,
+----------
+NOME: State
+Desc: "one of the political units that some countries, such as the US, are divided into"
+Supers: []
+Subs: [<http://iasted#Conference_state>, <http://iasted#Presenter_state>, <http://iasted#Sponsor_state>]
+Contexto: [sponsor, country, unit, conference, presenter, political, divide, state]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Nation>
+Synset selecionado: SYNSET{SID-08168978-N : Words[W-08168978-N-1-state, W-08168978-N-2-nation, W-08168978-N-3-country, W-08168978-N-4-land, W-08168978-N-5-commonwealth, W-08168978-N-6-res_publica, W-08168978-N-7-body_politic]}
+Número de Synsets recuperados: 8
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08654360-N : Words[W-08654360-N-1-state, W-08654360-N-2-province]} | the territory occupied by one of the constituent administrative districts of a nation; "his state is in the deep south"
+BOW: [deep, province, occupy, constituent, nation, south, administrative, district, state, territory]
+
+SYNSET{SID-00024720-N : Words[W-00024720-N-1-state]} | the way something is with respect to its main attributes; "the current state of knowledge"; "his state of health"; "in a weak financial state"
+BOW: [current, financial, health, main, state, attribute, way, respect, knowledge, weak]
+
+SYNSET{SID-08178547-N : Words[W-08178547-N-1-state]} | the group of people comprising the government of a sovereign state; "the state has lowered its income tax"
+BOW: [income, government, lowered, tax, state, people, sovereign, group, comprise]
+
+SYNSET{SID-08168978-N : Words[W-08168978-N-1-state, W-08168978-N-2-nation, W-08168978-N-3-country, W-08168978-N-4-land, W-08168978-N-5-commonwealth, W-08168978-N-6-res_publica, W-08168978-N-7-body_politic]} | a politically organized body of people under a single government; "the state has elected a new president"; "African nations"; "students who had come to the nation's capitol"; "the country's largest manufacturer"; "an industrialized land"
+BOW: [publica, country, new, largest, nation, student, industrialize, come, politically, body, people, elect, manufacturer, single, capitol, re, government, politic, organize, african, land, commonwealth, state, president]
+
+SYNSET{SID-14479615-N : Words[W-14479615-N-1-state_of_matter, W-14479615-N-2-state]} | (chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container); "the solid state of water is called ice"
+BOW: [chemistry, container, solid, shape, ice, matter, fill, water, volume, call, traditional, fix, liquid, of, gas, state]
+
+SYNSET{SID-13988498-N : Words[W-13988498-N-1-state]} | a state of depression or agitation; "he was in such a state you just couldn't reason with him"
+BOW: [agitation, reason, state, depression, just]
+
+SYNSET{SID-08544813-N : Words[W-08544813-N-1-country, W-08544813-N-2-state, W-08544813-N-3-land]} | the territory occupied by a nation; "he returned to the land of his birth"; "he visited several European countries"
+BOW: [country, nation, european, land, birth, state, visit, occupied, return, territory]
+
+SYNSET{SID-08137738-N : Words[W-08137738-N-1-Department_of_State, W-08137738-N-2-United_States_Department_of_State, W-08137738-N-3-State_Department, W-08137738-N-4-State, W-08137738-N-5-DoS]} | the federal department in the United States that sets and maintains foreign policies; "the Department of State was created in 1789"
+BOW: [1789, set, unite, maintain, of, federal, create, state, do, department, foreign, policy]
+
+Intersecção de palavras: country, state,
+----------
+NOME: Money
+Desc: "coins or notes (= special pieces of paper) that are used to buy things, or an amount of these that a person has"
+Supers: []
+Subs: [<http://iasted#Fee>, <http://iasted#Fee_for_extra_trip>, <http://iasted#Hotel_fee>, <http://iasted#Registration_fee>, <http://iasted#Author_attendee_book_registration_fee>, <http://iasted#Author_attendee_cd_registration_fee>, <http://iasted#Memeber_registration_fee>, <http://iasted#Nonauthor_registration_fee>, <http://iasted#Nonmember_registration_fee>, <http://iasted#Student_registration_fee>, <http://iasted#Sponzorship>, <http://iasted#Tax>, <http://iasted#Departure_tax>, <http://iasted#Value_added_tax>, <http://iasted#Tip>]
+Contexto: [note, student, use, buy, fee, book, memeber, trip, paper, extra, hotel, tip, value, nonmember, add, cd, attendee, author, tax, special, money, sponzorship, piece, person, registration, departure, nonauthor, thing, =, coin]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Currency>
+Synset selecionado: SYNSET{SID-13384557-N : Words[W-13384557-N-1-money]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-13384557-N : Words[W-13384557-N-1-money]} | the most common medium of exchange; functions as legal tender; "we tried to collect the money he owed us"
+BOW: [tender, money, common, function, legal, exchange, try, medium, owe, collect]
+
+SYNSET{SID-13250542-N : Words[W-13250542-N-1-money]} | wealth reckoned in terms of money; "all his money is in real estate"
+BOW: [wealth, money, estate, term, real, reckon]
+
+SYNSET{SID-13384877-N : Words[W-13384877-N-1-money]} | the official currency issued by a government or national bank; "he changed his money into francs"
+BOW: [bank, government, money, issue, change, franc, official, national, currency]
+
+Intersecção de palavras: money,
+----------
+NOME: Time_zone
+Desc: "one of many equal parts into which the world is divided. In any place within each part, the particular point in the day is the same, and is an hour in front of or behind that in the parts on either side"
+Supers: []
+Subs: []
+Contexto: [equal, world, hour, zone, part, divide, particular, place, time, day, point]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#GeographicArea>
+Synset selecionado: SYNSET{SID-08688247-N : Words[W-08688247-N-1-zone]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08688247-N : Words[W-08688247-N-1-zone]} | a locally circumscribed place characterized by some distinctive features
+BOW: [characterize, locally, distinctive, feature, zone, circumscribe, place]
+
+SYNSET{SID-08541841-N : Words[W-08541841-N-1-zone, W-08541841-N-2-geographical_zone]} | any of the regions of the surface of the Earth loosely divided according to latitude or longitude
+BOW: [geographical, surface, zone, earth, loosely, accord, latitude, divide, region, longitude]
+
+SYNSET{SID-08509442-N : Words[W-08509442-N-1-zone]} | an area or region distinguished from adjacent parts by a distinctive feature or characteristic
+BOW: [area, distinctive, feature, zone, part, adjacent, region, distinguished, characteristic]
+
+SYNSET{SID-05611062-N : Words[W-05611062-N-1-zone, W-05611062-N-2-zona]} | (anatomy) any encircling or beltlike structure
+BOW: [zona, zone, anatomy, encircle, beltlike, structure]
+
+Intersecção de palavras: zone, place,
+----------
+NOME: Currency
+Desc: "the system of money that is used in a particular country at a particular time"
+Supers: []
+Subs: []
+Contexto: [country, system, money, use, particular, currency, time]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Currency>
+Synset selecionado: SYNSET{SID-13385913-N : Words[W-13385913-N-1-currency]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-13385913-N : Words[W-13385913-N-1-currency]} | the metal or paper medium of exchange that is presently used
+BOW: [paper, presently, use, metal, currency, exchange, medium]
+
+SYNSET{SID-04765586-N : Words[W-04765586-N-1-currency]} | general acceptance or use; "the currency of ideas"
+BOW: [general, acceptance, use, idea, currency]
+
+SYNSET{SID-05050379-N : Words[W-05050379-N-1-currentness, W-05050379-N-2-currency, W-05050379-N-3-up-to-dateness]} | the property of belonging to the present time; "the currency of a slang term"
+BOW: [currentness, belong, up-to-dateness, slang, property, currency, term, time, present]
+
+Intersecção de palavras: use, currency,
+----------
+NOME: Item
+Desc: "one thing that is a part of a list or a collection of things"
+Supers: []
+Subs: [<http://iasted#Audiovisual_equipment>, <http://iasted#Computer>, <http://iasted#LCD_projector>, <http://iasted#Overhead_projector>, <http://iasted#Video_cassette_player>, <http://iasted#Card>, <http://iasted#Credit_card>, <http://iasted#Document>, <http://iasted#Brief_introduction_for_Session_chair>, <http://iasted#Form>, <http://iasted#Author_information_form>, <http://iasted#Hotel_registration_form>, <http://iasted#Registration_form>, <http://iasted#Invitation_letter>, <http://iasted#Mailing_list>, <http://iasted#Payment_document>, <http://iasted#Bank_transfer>, <http://iasted#Cheque>, <http://iasted#Record_of_attendance>, <http://iasted#Review>, <http://iasted#Submission>, <http://iasted#Final_manuscript>, <http://iasted#Initial_manuscipt>, <http://iasted#Transparency>, <http://iasted#Viza>, <http://iasted#Publication>, <http://iasted#Book_proceeding>, <http://iasted#Cd_proceening>, <http://iasted#Transport_vehicle>, <http://iasted#Car>, <http://iasted#Shuttle_bus>, <http://iasted#Taxi>, <http://iasted#Van>]
+Contexto: [bus, cassette, bank, projector, review, record, publication, payment, credit, van, item, proceed, author, invitation, overhead, taxi, equipment, collection, list, viza, shuttle, transfer, proceen, letter, transparency, final, registration, card, session, document, part, book, video, lcd, mailing, vehicle, car, hotel, introduction, player, brief, cd, initial, chair, audiovisual, transport, manuscipt, form, manuscript, cheque, submission, information, thing, attendance]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Text>
+Synset selecionado: SYNSET{SID-06482401-N : Words[W-06482401-N-1-item, W-06482401-N-2-point]}
+Número de Synsets recuperados: 5
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06482401-N : Words[W-06482401-N-1-item, W-06482401-N-2-point]} | a distinct part that can be specified separately in a group of things that could be enumerated on a list; "he noticed an item in the New York Times"; "she had several items on her shopping list"; "the main point on the agenda was taken up first"
+BOW: [new, item, separately, shop, part, specify, distinct, main, list, agenda, point, take, york, enumerate, time, thing, group, notice]
+
+SYNSET{SID-13809920-N : Words[W-13809920-N-1-detail, W-13809920-N-2-particular, W-13809920-N-3-item]} | a small part that can be considered separately from the whole; "it was perfect in all details"
+BOW: [small, item, separately, perfect, part, particular, detail, consider]
+
+SYNSET{SID-03588414-N : Words[W-03588414-N-1-item]} | a whole individual unit; especially when included in a list or collection; "they reduced the price on many items"
+BOW: [reduce, include, item, unit, individual, especially, price, collection, list]
+
+SYNSET{SID-05817845-N : Words[W-05817845-N-1-detail, W-05817845-N-2-item, W-05817845-N-3-point]} | an isolated fact that is considered separately from the whole; "several of the details are similar"; "a point of information"
+BOW: [isolate, similar, item, fact, separately, information, detail, consider, point]
+
+SYNSET{SID-06795746-N : Words[W-06795746-N-1-token, W-06795746-N-2-item]} | an individual instance of a type of symbol; "the word`error' contains three tokens of `r'"
+BOW: [`, symbol, item, r, instance, contain, individual, type, error, word, token]
+
+Intersecção de palavras: item, part, list, thing,
+----------
+NOME: Activity
+Desc: "the work of a group or organization to achieve an aim"
+Supers: []
+Subs: [<http://iasted#Activity_after_conference>, <http://iasted#Departure>, <http://iasted#Full_day_tour>, <http://iasted#Activity_before_conference>, <http://iasted#Accepting_manuscript>, <http://iasted#Receiving_manuscript>, <http://iasted#Refusing_manuscript>, <http://iasted#Renting>, <http://iasted#Research>, <http://iasted#Modelling>, <http://iasted#Simulating>, <http://iasted#Conference_activity>, <http://iasted#Coctail_reception>, <http://iasted#Coffee_break>, <http://iasted#Introduction>, <http://iasted#Introduction_of_speaker>, <http://iasted#Lecture>, <http://iasted#Plenary_lecture>, <http://iasted#Session>, <http://iasted#Speaker_lecture>, <http://iasted#Tutorial>, <http://iasted#Presentation>, <http://iasted#PowerPoint_presentation>, <http://iasted#Video_presentation>, <http://iasted#Registration>, <http://iasted#Social_program>, <http://iasted#Dinner_banquet>, <http://iasted#Technic_activity>, <http://iasted#Welcome_address>]
+Contexto: [conference, activity, aim, achieve, session, banquet, program, video, rent, research, presentation, refuse, lecture, tutorial, coctail, reception, day, welcome, simulate, powerpoint, introduction, group, receive, technic, address, social, break, work, plenary, modelling, dinner, tour, accept, manuscript, speaker, organization, coffee, registration, departure]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#IntentionalProcess>
+Synset selecionado: SYNSET{SID-00407535-N : Words[W-00407535-N-1-activity]}
+Número de Synsets recuperados: 6
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00407535-N : Words[W-00407535-N-1-activity]} | any specific behavior; "they avoided all recreational activity"
+BOW: [activity, recreational, avoid, specific, behavior]
+
+SYNSET{SID-14006945-N : Words[W-14006945-N-1-action, W-14006945-N-2-activity, W-14006945-N-3-activeness]} | the state of being active; "his sphere of activity"; "he is out of action"
+BOW: [activity, sphere, action, active, state, activeness]
+
+SYNSET{SID-13440063-N : Words[W-13440063-N-1-bodily_process, W-13440063-N-2-body_process, W-13440063-N-3-bodily_function, W-13440063-N-4-activity]} | an organic process that takes place in the body; "respiratory activity"
+BOW: [take, process, activity, function, bodily, place, body, respiratory, organic]
+
+SYNSET{SID-14531203-N : Words[W-14531203-N-1-activity]} | (chemistry) the capacity of a substance to take part in a chemical reaction; "catalytic activity"
+BOW: [chemistry, reaction, activity, chemical, substance, part, catalytic, capacity]
+
+SYNSET{SID-13518963-N : Words[W-13518963-N-1-natural_process, W-13518963-N-2-natural_action, W-13518963-N-3-action, W-13518963-N-4-activity]} | a process existing in or produced by nature (rather than by the intent of human beings); "the action of natural forces"; "volcanic activity"
+BOW: [exist, process, natural, activity, nature, action, force, being, produce, intent, human, volcanic]
+
+SYNSET{SID-04635104-N : Words[W-04635104-N-1-activeness, W-04635104-N-2-activity]} | the trait of being active; moving or acting rapidly and energetically; "the level of activity declines with age"
+BOW: [move, act, activity, level, energetically, decline, trait, active, activeness, rapidly, age]
+
+Intersecção de palavras: activity,
+----------

@@ -1,0 +1,561 @@
+NOME: Person
+Desc: "man or woman"
+Supers: []
+Subs: [<http://edas#Attendee>, <http://edas#ConferenceChair>, <http://edas#SessionChair>, <http://edas#TPCMember>]
+Contexto: [conference, woman, attendee, chair, session, person, member, man]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+
+Intersecção de palavras: person,
+----------
+NOME: Sponsorship
+Desc: "the act of supporting a person, organization, or activity by giving money, encouragement, or other help:"
+Supers: []
+Subs: [<http://edas#TravelGrant>]
+Contexto: [help, act, activity, money, encouragement, person, organization, sponsorship, travel, grant, support]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Helping>
+Synset selecionado: SYNSET{SID-01215036-N : Words[W-01215036-N-1-sponsorship]}
+Número de Synsets recuperados: 1
+
+Conjunto de synsets recuperados:
+Intersecção de palavras: person,
+----------
+NOME: Country
+Desc: "an area of land that has its own government, army, etc.:"
+Supers: []
+Subs: []
+Contexto: [area, army, country, government, land]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Nation>
+Synset selecionado: SYNSET{SID-08168978-N : Words[W-08168978-N-1-state, W-08168978-N-2-nation, W-08168978-N-3-country, W-08168978-N-4-land, W-08168978-N-5-commonwealth, W-08168978-N-6-res_publica, W-08168978-N-7-body_politic]}
+Número de Synsets recuperados: 5
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08168978-N : Words[W-08168978-N-1-state, W-08168978-N-2-nation, W-08168978-N-3-country, W-08168978-N-4-land, W-08168978-N-5-commonwealth, W-08168978-N-6-res_publica, W-08168978-N-7-body_politic]} | a politically organized body of people under a single government; "the state has elected a new president"; "African nations"; "students who had come to the nation's capitol"; "the country's largest manufacturer"; "an industrialized land"
+BOW: [publica, country, new, largest, nation, student, industrialize, come, politically, body, people, elect, manufacturer, single, capitol, re, government, politic, organize, african, land, commonwealth, state, president]
+
+SYNSET{SID-08544813-N : Words[W-08544813-N-1-country, W-08544813-N-2-state, W-08544813-N-3-land]} | the territory occupied by a nation; "he returned to the land of his birth"; "he visited several European countries"
+BOW: [country, nation, european, land, birth, state, visit, occupied, return, territory]
+
+SYNSET{SID-08166552-N : Words[W-08166552-N-1-nation, W-08166552-N-2-land, W-08166552-N-3-country]} | the people who live in a nation or country; "a statement that sums up the nation's mood"; "the news was announced to the nation"; "the whole country worshipped him"
+BOW: [news, country, mood, nation, statement, land, sum, people, worship, live, announce]
+
+SYNSET{SID-08644722-N : Words[W-08644722-N-1-country, W-08644722-N-2-rural_area]} | an area outside of cities and towns; "his poetry celebrated the slower pace of life in the country"
+BOW: [area, country, town, city, celebrate, outside, rural, pace, slower, life, poetry]
+
+SYNSET{SID-08497294-N : Words[W-08497294-N-1-area, W-08497294-N-2-country]} | a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography); "it was a mountainous area"; "Bible country"
+BOW: [area, boundary, country, geographical, bible, distinguish, purpose, particular, serve, people, indefinite, special, mountainous, culture, geography, usually, region]
+
+Intersecção de palavras: country, government, land,
+----------
+NOME: TwoLevelConference
+Desc: null
+Supers: []
+Subs: []
+Contexto: [conference, level]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+
+Intersecção de palavras: conference,
+----------
+NOME: Place
+Desc: "a suitable area, building, situation, or occasion"
+Supers: []
+Subs: [<http://edas#AccommodationPlace>, <http://edas#ConferenceVenuePlace>, <http://edas#DiningPlace>, <http://edas#MeetingRoomPlace>]
+Contexto: [area, occasion, venue, conference, dining, accommodation, suitable, place, meeting, building, room, situation]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#GeographicArea>
+Synset selecionado: SYNSET{SID-08513718-N : Words[W-08513718-N-1-place, W-08513718-N-2-property]}
+Número de Synsets recuperados: 16
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08664443-N : Words[W-08664443-N-1-topographic_point, W-08664443-N-2-place, W-08664443-N-3-spot]} | a point located with respect to surface features of some region; "this is a nice place for a picnic"; "a bright spot on a planet"
+BOW: [surface, planet, bright, picnic, point, respect, nice, topographic, feature, spot, located, place, region]
+
+SYNSET{SID-08513718-N : Words[W-08513718-N-1-place, W-08513718-N-2-property]} | any area set aside for a particular purpose; "who owns this place?"; "the president was concerned about the property across from the White House"
+BOW: [area, set, aside, concerned, white, purpose, own, property, particular, place, house, president]
+
+SYNSET{SID-05611822-N : Words[W-05611822-N-1-place]} | an abstract mental location; "he has a special place in my thoughts"; "a place in my heart"; "a political system with no place for the less prominent groups"
+BOW: [special, system, prominent, thought, political, mental, location, place, abstract, heart, group]
+
+SYNSET{SID-08642037-N : Words[W-08642037-N-1-place]} | a general vicinity; "He comes from a place near Chicago"
+BOW: [general, vicinity, come, place, near, chicago]
+
+SYNSET{SID-00721431-N : Words[W-00721431-N-1-stead, W-00721431-N-2-position, W-00721431-N-3-place, W-00721431-N-4-lieu]} | the post or function properly or customarily occupied or served by another; "can you go in my stead?"; "took his place"; "in lieu of"
+BOW: [properly, take, post, occupy, function, position, place, serve, customarily, stead, lieu]
+
+SYNSET{SID-13926786-N : Words[W-13926786-N-1-place, W-13926786-N-2-shoes]} | a particular situation; "If you were in my place what would you do?"
+BOW: [particular, place, shoe, situation]
+
+SYNSET{SID-08559508-N : Words[W-08559508-N-1-home, W-08559508-N-2-place]} | where you live at a particular time; "deliver the package to my home"; "he doesn't have a home to go to"; "your place or mine?"
+BOW: [package, deliver, particular, place, time, live, home, doesnt]
+
+SYNSET{SID-00586262-N : Words[W-00586262-N-1-position, W-00586262-N-2-post, W-00586262-N-3-berth, W-00586262-N-4-office, W-00586262-N-5-spot, W-00586262-N-6-billet, W-00586262-N-7-place, W-00586262-N-8-situation]} | a job in an organization; "he occupied a post in the treasury"
+BOW: [billet, post, occupy, treasury, berth, spot, organization, position, office, place, job, situation]
+
+SYNSET{SID-08621598-N : Words[W-08621598-N-1-position, W-08621598-N-2-place]} | the particular portion of space occupied by something; "he put the lamp back in its place"
+BOW: [occupy, portion, particular, lamp, position, place, space]
+
+SYNSET{SID-13947645-N : Words[W-13947645-N-1-place, W-13947645-N-2-station]} | proper or designated social situation; "he overstepped his place"; "the responsibilities of a man in his station"; "married above her station"
+BOW: [social, responsibility, overstep, station, marry, proper, place, man, designate, situation]
+
+SYNSET{SID-08647616-N : Words[W-08647616-N-1-seat, W-08647616-N-2-place]} | a space reserved for sitting (as in a theater or on a train or airplane); "he booked their seats in advance"; "he sat in someone else's place"
+BOW: [seat, theater, airplane, book, reserve, place, els, space, sit, train, advance]
+
+SYNSET{SID-06401107-N : Words[W-06401107-N-1-place]} | the passage that is being read; "he lost his place on the page"
+BOW: [read, passage, lose, place, page]
+
+SYNSET{SID-13947867-N : Words[W-13947867-N-1-place]} | proper or appropriate position or location; "a woman's place is no longer in the kitchen"
+BOW: [appropriate, longer, woman, proper, location, place, position, kitchen]
+
+SYNSET{SID-08619795-N : Words[W-08619795-N-1-plaza, W-08619795-N-2-place, W-08619795-N-3-piazza]} | a public square with room for pedestrians; "they met at Elm Plaza"; "Grosvenor Place"
+BOW: [plaza, square, public, meet, elm, pedestrian, place, piazza, grosvenor, room]
+
+SYNSET{SID-06483454-N : Words[W-06483454-N-1-place, W-06483454-N-2-position]} | an item on a list or in a sequence; "in the second place"; "moved from third to fifth position"
+BOW: [sequence, item, move, fifth, place, position, list, second]
+
+SYNSET{SID-06389553-N : Words[W-06389553-N-1-space, W-06389553-N-2-blank_space, W-06389553-N-3-place]} | a blank area; "write your name in the space provided"
+BOW: [area, blank, provide, place, write, space]
+
+Intersecção de palavras: area, place,
+----------
+NOME: Organization
+Desc: "a group of people who work together in an organized way for a shared purpose:"
+Supers: []
+Subs: [<http://edas#AcademiaOrganization>, <http://edas#GovernmentOrganization>, <http://edas#IndustryOrganization>, <http://edas#NGO>]
+Contexto: [shared, government, academia, purpose, organize, work, organization, ngo, industry, people, way, group]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Organization>
+Synset selecionado: SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]}
+Número de Synsets recuperados: 7
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]} | a group of people who work together
+BOW: [work, organization, organisation, people, group]
+
+SYNSET{SID-05726596-N : Words[W-05726596-N-1-arrangement, W-05726596-N-2-organization, W-05726596-N-3-organisation, W-05726596-N-4-system]} | an organized structure for arranging or classifying; "he changed the arrangement of the topics"; "the facts were familiar but it was in the organization of them that he was original"; "he tried to understand their system of classification"
+BOW: [classify, fact, original, change, understand, organisation, familiar, classification, structure, arrangement, system, organize, arrange, organization, topic, try]
+
+SYNSET{SID-08164585-N : Words[W-08164585-N-1-administration, W-08164585-N-2-governance, W-08164585-N-3-governing_body, W-08164585-N-4-establishment, W-08164585-N-5-brass, W-08164585-N-6-organization, W-08164585-N-7-organisation]} | the persons (or committees or departments etc.) who make up a body for the purpose of administering something; "he claims that the present administration is corrupt"; "the governance of an association is responsible to its members"; "he quickly became recognized as a member of the establishment"
+BOW: [committee, corrupt, govern, purpose, administration, quickly, organisation, association, establishment, brass, body, recognize, person, organization, responsible, administer, member, claim, department, present, make, governance]
+
+SYNSET{SID-01136519-N : Words[W-01136519-N-1-organization, W-01136519-N-2-organisation]} | the act of organizing a business or an activity related to a business; "he was brought in to supervise the organization of a new department"
+BOW: [new, act, business, activity, related, organize, organization, bring, supervise, organisation, department]
+
+SYNSET{SID-04768657-N : Words[W-04768657-N-1-organization, W-04768657-N-2-organisation, W-04768657-N-3-system]} | an ordered manner; orderliness by virtue of being methodical and well organized; "his compulsive organization was not an endearing quality"; "we can't do it unless we establish some system around here"
+BOW: [organisation, manner, establish, quality, compulsive, endearing, system, organize, unless, organization, methodical, virtue, orderliness, order]
+
+SYNSET{SID-01008378-N : Words[W-01008378-N-1-organization, W-01008378-N-2-organisation]} | the activity or result of distributing or disposing persons or things properly or methodically; "his organization of the work force was very efficient"
+BOW: [methodically, activity, efficient, work, organisation, result, properly, person, organization, dispose, force, distribute, thing]
+
+SYNSET{SID-00237078-N : Words[W-00237078-N-1-constitution, W-00237078-N-2-establishment, W-00237078-N-3-formation, W-00237078-N-4-organization, W-00237078-N-5-organisation]} | the act of forming or establishing something; "the constitution of a PTA group last year"; "it was the establishment of his reputation"; "he still remembers the organization of the club"
+BOW: [constitution, year, organisation, reputation, establishment, formation, establish, remember, act, form, organization, club, pta, group]
+
+Intersecção de palavras: work, organization, people, group,
+----------
+NOME: Topic
+Desc: "a subject that is discussed, written about, or studied:"
+Supers: []
+Subs: [<http://edas#AntennasTopic>, <http://edas#CADTopic>, <http://edas#CommunicationTheoryTopic>, <http://edas#CommunicationsTopic>, <http://edas#ComputerArchitectureTopic>, <http://edas#ComputerNetworksTopic>, <http://edas#ComputerNetworksAapplicationsTopic>, <http://edas#ComputerNetworksEnterpriseTopic>, <http://edas#ComputerNetworksManagementTopic>, <http://edas#ComputerNetworksMeasurementsTopic>, <http://edas#ComputerNetworksOpticalTopic>, <http://edas#ComputerNetworksSecurityTopic>, <http://edas#ComputerNetworksSensorTopic>, <http://edas#ComputerNetworksSwitchingTopic>, <http://edas#CryptographyTopic>, <http://edas#MedicineTopic>, <http://edas#MicroelectronicsTopic>, <http://edas#MobileComputingTopic>, <http://edas#MultimediaTopic>, <http://edas#OperatingTopicsystems>, <http://edas#ParallelAndDistributedComputingTopic>, <http://edas#PerformanceTopic>, <http://edas#PowerlineTransmissionTopic>, <http://edas#RadioCommunicationsTopic>, <http://edas#SatelliteAndSpaceCommunicationsTopic>, <http://edas#SecurityTopic>, <http://edas#SignalProcessingTopic>, <http://edas#TestOnlyTopic>, <http://edas#WirelessCommunicationsTopic>]
+Contexto: [antenna, study, subject, enterprise, microelectronics, space, measurement, switch, network, radio, powerline, computing, security, transmission, parallel, satellite, distribute, communication, write, signal, architecture, test, mobile, cryptography, medicine, multimedia, operate, performance, topicsystem, management, topic, processing, sensor, wireless, aapplication, theory, optical, discuss]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Proposition>
+Synset selecionado: SYNSET{SID-06599788-N : Words[W-06599788-N-1-subject, W-06599788-N-2-topic, W-06599788-N-3-theme]}
+Número de Synsets recuperados: 2
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06599788-N : Words[W-06599788-N-1-subject, W-06599788-N-2-topic, W-06599788-N-3-theme]} | the subject matter of a conversation or discussion; "he didn't want to discuss that subject"; "it was a very sensitive topic"; "his letters were always on the theme of love"
+BOW: [love, subject, didnt, want, letter, topic, theme, discussion, sensitive, matter, conversation, discuss]
+
+SYNSET{SID-05814291-N : Words[W-05814291-N-1-topic, W-05814291-N-2-subject, W-05814291-N-3-issue, W-05814291-N-4-matter]} | some situation or event that is thought about; "he kept drifting off the topic"; "he had been thinking about the subject for several years"; "it is a matter for the police"
+BOW: [think, police, issue, year, subject, keep, topic, matter, event, situation, drift]
+
+Intersecção de palavras: subject, topic, discuss,
+----------
+NOME: Document
+Desc: "a paper or set of papers with written or printed information, especially of an official type:"
+Supers: []
+Subs: [<http://edas#MealMenu>, <http://edas#Paper>, <http://edas#AcceptedPaper>, <http://edas#ActivePaper>, <http://edas#RatedPapers>, <http://edas#PendingPaper>, <http://edas#PublishedPaper>, <http://edas#RejectedPaper>, <http://edas#WithdrawnPaper>, <http://edas#Programme>, <http://edas#Review>, <http://edas#SlideSet>]
+Contexto: [set, document, official, active, type, menu, papers, accept, meal, print, paper, especially, rate, reject, review, slide, publish, information, write, programme, pend, withdraw]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FactualText>
+Synset selecionado: SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]} | writing that provides information (especially information of an official nature)
+BOW: [provide, especially, nature, document, official, information, write, papers]
+
+SYNSET{SID-03217458-N : Words[W-03217458-N-1-document]} | anything serving as a representation of a person's thinking by means of symbolic marks
+BOW: [symbolic, think, means, person, document, serve, representation, mark]
+
+SYNSET{SID-13403331-N : Words[W-13403331-N-1-document]} | a written account of ownership or obligation
+BOW: [ownership, obligation, document, write, account]
+
+SYNSET{SID-06510977-N : Words[W-06510977-N-1-text_file, W-06510977-N-2-document]} | (computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+BOW: [contain, use, document, format, seven, bit, character, file, instruction, science, text, possibly, ascius]
+
+Intersecção de palavras: especially, document, official, information, write, papers,
+----------
+NOME: ContactInformation
+Desc: "facts about a situation, person, event, etc."
+Supers: []
+Subs: []
+Contexto: [fact, person, contact, information, event, situation]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FactualText>
+Synset selecionado: SYNSET{SID-08462320-N : Words[W-08462320-N-1-data, W-08462320-N-2-information]}
+Número de Synsets recuperados: 5
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06634376-N : Words[W-06634376-N-1-information, W-06634376-N-2-info]} | a message received and understood
+BOW: [receive, understand, information, message, info]
+
+SYNSET{SID-05816287-N : Words[W-05816287-N-1-information]} | knowledge acquired through study or experience or instruction
+BOW: [study, instruction, information, experience, acquire, knowledge]
+
+SYNSET{SID-07237561-N : Words[W-07237561-N-1-information]} | formal accusation of a crime
+BOW: [formal, accusation, information, crime]
+
+SYNSET{SID-08462320-N : Words[W-08462320-N-1-data, W-08462320-N-2-information]} | a collection of facts from which conclusions may be drawn; "statistical data"
+BOW: [datum, conclusion, statistical, fact, information, collection, draw]
+
+SYNSET{SID-05091527-N : Words[W-05091527-N-1-information, W-05091527-N-2-selective_information, W-05091527-N-3-entropy]} | (communication theory) a numerical measure of the uncertainty of an outcome; "the signal contained thousands of bits of information"
+BOW: [contain, selective, uncertainty, bit, numerical, entropy, measure, information, communication, signal, theory, outcome, thousand]
+
+Intersecção de palavras: fact, information,
+----------
+NOME: Conference
+Desc: "an event, sometimes lasting a few days, at which there is a group of talks on a particular subject, or a meeting in which especially business matters are discussed formally:"
+Supers: [owl:Thing]
+Subs: []
+Contexto: [conference, business, subject, particular, matter, especially, talk, event, day, meeting, thing, lasting, formally, discuss, group]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+
+Intersecção de palavras: conference, especially, meeting,
+----------
+NOME: ReviewQuestion
+Desc: "a sentence or phrase that asks for information"
+Supers: []
+Subs: [<http://edas#NumericalReviewQuestion>, <http://edas#TextualReviewQuestion>]
+Contexto: [sentence, numerical, question, phrase, review, ask, information, textual]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Questioning>
+Synset selecionado: SYNSET{SID-07196682-N : Words[W-07196682-N-1-question, W-07196682-N-2-interrogation, W-07196682-N-3-interrogative, W-07196682-N-4-interrogative_sentence]}
+Número de Synsets recuperados: 6
+
+Conjunto de synsets recuperados:
+SYNSET{SID-07193596-N : Words[W-07193596-N-1-question, W-07193596-N-2-inquiry, W-07193596-N-3-enquiry, W-07193596-N-4-query, W-07193596-N-5-interrogation]} | an instance of questioning; "there was a question about my training"; "we made inquiries of all those who were present"
+BOW: [instance, question, inquiry, query, interrogation, enquiry, training, present]
+
+SYNSET{SID-06783768-N : Words[W-06783768-N-1-question, W-06783768-N-2-head]} | the subject matter at issue; "the question of disease merits serious discussion"; "under the head of minor Roman poets"
+BOW: [head, disease, question, issue, minor, subject, roman, merit, poet, discussion, matter]
+
+SYNSET{SID-07196682-N : Words[W-07196682-N-1-question, W-07196682-N-2-interrogation, W-07196682-N-3-interrogative, W-07196682-N-4-interrogative_sentence]} | a sentence of inquiry that asks for a reply; "he asked a direct question"; "he had trouble phrasing his interrogations"
+BOW: [sentence, question, inquiry, phrasing, interrogation, interrogative, ask, direct, trouble, reply]
+
+SYNSET{SID-04757522-N : Words[W-04757522-N-1-doubt, W-04757522-N-2-dubiousness, W-04757522-N-3-doubtfulness, W-04757522-N-4-question]} | uncertainty about the truth or factuality or existence of something; "the dubiousness of his claim"; "there is no question about the validity of the enterprise"
+BOW: [factuality, truth, question, enterprise, existence, doubt, doubtfulness, claim, dubiousness, validity, uncertainty]
+
+SYNSET{SID-07163593-N : Words[W-07163593-N-1-motion, W-07163593-N-2-question]} | a formal proposal for action made to a deliberative assembly for discussion and vote; "he made a motion to adjourn"; "she called for the question"
+BOW: [formal, proposal, call, adjourn, motion, question, assembly, action, discussion, vote, deliberative]
+
+SYNSET{SID-07162059-N : Words[W-07162059-N-1-question]} | an informal reference to a marriage proposal; "he was ready to pop the question"
+BOW: [reference, proposal, pop, question, marriage, ready, informal]
+
+Intersecção de palavras: sentence, question, ask,
+----------
+NOME: SingleLevelConference
+Desc: null
+Supers: []
+Subs: []
+Contexto: [single, conference, level]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+
+Intersecção de palavras: conference,
+----------
+NOME: ReviewForm
+Desc: "something, usually paper, that has spaces markedwhere you fill in information"
+Supers: []
+Subs: []
+Contexto: [paper, form, review, markedwhere, information, usually, space]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#ShapeAttribute>
+Synset selecionado: SYNSET{SID-05930736-N : Words[W-05930736-N-1-form, W-05930736-N-2-shape, W-05930736-N-3-pattern]}
+Número de Synsets recuperados: 16
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06290637-N : Words[W-06290637-N-1-form, W-06290637-N-2-word_form, W-06290637-N-3-signifier, W-06290637-N-4-descriptor]} | the phonological or orthographic sound or appearance of a word that can be used to describe or identify something; "the inflected forms of a word can be represented by a stem and a list of inflections to be attached"
+BOW: [identify, use, sound, descriptor, list, appearance, form, orthographic, signifier, phonological, attach, word, inflected, represent, stem, inflection]
+
+SYNSET{SID-05839024-N : Words[W-05839024-N-1-kind, W-05839024-N-2-sort, W-05839024-N-3-form, W-05839024-N-4-variety]} | a category of things distinguished by some common characteristic or quality; "sculpture is a form of art"; "what kinds of desserts are there?"
+BOW: [art, distinguish, kind, sculpture, sort, characteristic, quality, form, common, dessert, variety, category, thing]
+
+SYNSET{SID-05930736-N : Words[W-05930736-N-1-form, W-05930736-N-2-shape, W-05930736-N-3-pattern]} | a perceptual structure; "the composition presents problems for students of musical form"; "a visual pattern must include not only objects but the spaces between them"
+BOW: [include, shape, musical, student, pattern, structure, space, problem, form, composition, perceptual, visual, present, object]
+
+SYNSET{SID-05064037-N : Words[W-05064037-N-1-shape, W-05064037-N-2-form, W-05064037-N-3-configuration, W-05064037-N-4-contour, W-05064037-N-5-conformation]} | any spatial attributes (especially as defined by outline); "he could barely make out their shapes"
+BOW: [outline, shape, form, especially, configuration, define, barely, conformation, attribute, spatial, contour, make]
+
+SYNSET{SID-05217168-N : Words[W-05217168-N-1-human_body, W-05217168-N-2-physical_body, W-05217168-N-3-material_body, W-05217168-N-4-soma, W-05217168-N-5-build, W-05217168-N-6-figure, W-05217168-N-7-physique, W-05217168-N-8-anatomy, W-05217168-N-9-shape, W-05217168-N-10-bod, W-05217168-N-11-chassis, W-05217168-N-12-frame, W-05217168-N-13-form, W-05217168-N-14-flesh]} | alternative names for the body of a human being; "Leonardo studied the human body"; "he has a strong physique"; "the spirit is willing but the flesh is weak"
+BOW: [figure, study, strong, shape, soma, anatomy, physique, willing, alternative, spirit, chassis, body, leonardo, weak, material, form, build, bod, name, flesh, physical, human, frame]
+
+SYNSET{SID-00027807-N : Words[W-00027807-N-1-shape, W-00027807-N-2-form]} | the spatial arrangement of something as distinct from its substance; "geometry is the mathematical science of shape"
+BOW: [arrangement, shape, form, substance, science, distinct, geometry, spatial, mathematical]
+
+SYNSET{SID-04677514-N : Words[W-04677514-N-1-form, W-04677514-N-2-shape, W-04677514-N-3-cast]} | the visual appearance of something or someone; "the delicate cast of his features"
+BOW: [cast, delicate, appearance, form, shape, feature, visual]
+
+SYNSET{SID-06473563-N : Words[W-06473563-N-1-form]} | a printed document with spaces in which to write; "he filled out his tax form"
+BOW: [print, form, document, tax, fill, write, space]
+
+SYNSET{SID-08111157-N : Words[W-08111157-N-1-form, W-08111157-N-2-variant, W-08111157-N-3-strain, W-08111157-N-4-var.]} | (biology) a group of organisms within a species that differ in trivial ways from similar groups; "a new strain of microorganisms"
+BOW: [strain, similar, new, biology, organism, var, ., differ, way, trivial, form, species, variant, microorganism, group]
+
+SYNSET{SID-07092356-N : Words[W-07092356-N-1-form]} | an arrangement of the elements in a composition or discourse; "the essay was in the form of a dialogue"; "he first sketches the plot in outline form"
+BOW: [arrangement, outline, form, composition, plot, dialogue, essay, sketch, element, discourse]
+
+SYNSET{SID-04930478-N : Words[W-04930478-N-1-form]} | a particular mode in which something is manifested; "his resentment took the form of extreme hostility"
+BOW: [mode, take, resentment, form, manifest, particular, hostility, extreme]
+
+SYNSET{SID-14480065-N : Words[W-14480065-N-1-phase, W-14480065-N-2-form]} | (physical chemistry) a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary; "the reaction occurs in the liquid phase of the system"
+BOW: [phase, chemistry, boundary, reaction, occur, distinct, separated, matter, identical, system, form, material, liquid, chemical, composition, state, physical]
+
+SYNSET{SID-08238463-N : Words[W-08238463-N-1-class, W-08238463-N-2-form, W-08238463-N-3-grade, W-08238463-N-4-course]} | a body of students who are taught together; "early morning classes are always sleepy"
+BOW: [form, student, grade, teach, course, body, sleepy, class, early, morning]
+
+SYNSET{SID-05200670-N : Words[W-05200670-N-1-form]} | an ability to perform well; "he was at the top of his form"; "the team was off form last night"
+BOW: [form, night, perform, ability, team]
+
+SYNSET{SID-03717921-N : Words[W-03717921-N-1-mannequin, W-03717921-N-2-manikin, W-03717921-N-3-mannikin, W-03717921-N-4-manakin, W-03717921-N-5-form]} | a life-size dummy used to display clothes
+BOW: [manakin, dummy, form, size, mannequin, use, display, mannikin, manikin, life, clothes]
+
+SYNSET{SID-03384535-N : Words[W-03384535-N-1-form]} | a mold for setting concrete; "they built elaborate forms for pouring the foundation"
+BOW: [concrete, elaborate, set, form, build, pour, mold, foundation]
+
+Intersecção de palavras: space, form,
+----------
+NOME: Author
+Desc: null
+Supers: []
+Subs: [<http://edas#Presenter>]
+Contexto: [presenter, author]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]}
+Número de Synsets recuperados: 2
+
+Conjunto de synsets recuperados:
+SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]} | writes (books or stories or articles or the like) professionally (for pay)
+BOW: [like, author, book, pay, writer, write, professionally, article, story]
+
+SYNSET{SID-10126177-N : Words[W-10126177-N-1-generator, W-10126177-N-2-source, W-10126177-N-3-author]} | someone who originates or causes or initiates something; "he was the generator of several complaints"
+BOW: [initiate, originate, complaint, author, generator, cause, source]
+
+Intersecção de palavras: author,
+----------
+NOME: PersonalHistory
+Desc: "a something that has been done by a particular person over a period"
+Supers: []
+Subs: [<http://edas#PersonalPublicationHistory>, <http://edas#PersonalReviewHistory>]
+Contexto: [period, person, review, publication, personal, particular, history]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-15121406-N : Words[W-15121406-N-1-history]}
+Número de Synsets recuperados: 5
+
+Conjunto de synsets recuperados:
+SYNSET{SID-15121406-N : Words[W-15121406-N-1-history]} | the aggregate of past events; "a critical time in the school's history"
+BOW: [critical, school, past, history, time, event, aggregate]
+
+SYNSET{SID-06514093-N : Words[W-06514093-N-1-history, W-06514093-N-2-account, W-06514093-N-3-chronicle, W-06514093-N-4-story]} | a record or narrative description of past events; "a history of France"; "he gave an inaccurate account of the plot to kill the president"; "the story of exposure to lead"
+BOW: [give, past, narrative, description, history, kill, inaccurate, lead, exposure, plot, record, france, event, account, chronicle, story, president]
+
+SYNSET{SID-06155567-N : Words[W-06155567-N-1-history]} | the discipline that records and interprets past events involving human beings; "he teaches Medieval history"; "history takes the long view"
+BOW: [past, teach, medieval, history, discipline, involve, being, long, take, view, record, interpret, event, human]
+
+SYNSET{SID-15123996-N : Words[W-15123996-N-1-history]} | the continuum of events occurring in succession leading from the past to the present and even into the future; "all of human history"
+BOW: [succession, continuum, occur, past, future, history, event, present, human, lead]
+
+SYNSET{SID-06156752-N : Words[W-06156752-N-1-history]} | all that is remembered of the past as preserved in writing; a body of knowledge; "the dawn of recorded history"; "from the beginning of history"
+BOW: [remember, past, preserved, writing, record, dawn, history, body, begin, knowledge]
+
+Intersecção de palavras: history,
+----------
+NOME: Reviewer
+Desc: null
+Supers: []
+Subs: []
+Contexto: [reviewer]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]}
+Número de Synsets recuperados: 2
+
+Conjunto de synsets recuperados:
+SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]} | someone who reads manuscripts and judges their suitability for publication
+BOW: [read, manuscript, suitability, reader, publication, reviewer, judge, referee]
+
+SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]} | a writer who reports and analyzes events of the day
+BOW: [commentator, analyze, report, reviewer, writer, event, day]
+
+Intersecção de palavras: reviewer,
+----------
+NOME: ConferenceSession
+Desc: "a period of time or meeting arranged for a particular activity"
+Supers: []
+Subs: []
+Contexto: [period, conference, activity, arrange, session, particular, time, meeting]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Meeting>
+Synset selecionado: SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+
+Intersecção de palavras: activity, session, particular, meeting,
+----------
+NOME: ConferenceEvent
+Desc: "an activity that is planned for a special purpose and usually involves a lot of people, for example, a meeting, party, trade show, or conference"
+Supers: []
+Subs: [<http://edas#AcademicEvent>, <http://edas#OrganizationalMeeting>, <http://edas#PaperPresentation>, <http://edas#TalkEvent>, <http://edas#ClosingTalk>, <http://edas#WelcomeTalk>, <http://edas#Workshop>, <http://edas#NonAcademicEvent>, <http://edas#BreakEvent>, <http://edas#CoffeeBreak>, <http://edas#FreeTimeBreak>, <http://edas#MealBreak>, <http://edas#MealEvent>, <http://edas#ConferenceDinner>, <http://edas#SocialEvent>, <http://edas#Excursion>, <http://edas#Reception>]
+Contexto: [conference, activity, purpose, non, example, presentation, lot, paper, academic, talk, usually, excursion, event, free, reception, plan, close, meeting, welcome, organizational, break, social, workshop, involve, dinner, people, meal, special, trade, coffee, time, party]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+
+Intersecção de palavras: time, event,
+----------
+NOME: Call
+Desc: "to ask for or demand something, or to decide officially to have a particular event:"
+Supers: []
+Subs: [<http://edas#CallForManuscripts>, <http://edas#CallForPapers>, <http://edas#CallForReviews>]
+Contexto: [manuscript, review, ask, decide, particular, event, demand, papers, officially]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#SubjectiveAssessmentAttribute>
+Synset selecionado: SYNSET{SID-06198505-N : Words[W-06198505-N-1-Call]}
+Número de Synsets recuperados: 13
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06272803-N : Words[W-06272803-N-1-call, W-06272803-N-2-phone_call, W-06272803-N-3-telephone_call]} | a telephone connection; "she reported several anonymous calls"; "he placed a phone call to London"; "he heard the phone ringing but didn't want to take the call"
+BOW: [call, london, phone, ring, didnt, want, report, anonymous, telephone, connection, place, hear]
+
+SYNSET{SID-06198505-N : Words[W-06198505-N-1-Call]} | a special disposition (as if from a divine source) to pursue a particular course; "he was disappointed that he had not heard the Call"
+BOW: [call, special, disposition, disappointed, pursue, course, particular, source, divine, hear]
+
+SYNSET{SID-07120524-N : Words[W-07120524-N-1-cry, W-07120524-N-2-outcry, W-07120524-N-3-call, W-07120524-N-4-yell, W-07120524-N-5-shout, W-07120524-N-6-vociferation]} | a loud utterance; often in protest or opposition; "the speaker was interrupted by loud cries from the rear of the audience"
+BOW: [loud, audience, vociferation, cry, protest, interrupted, outcry, call, opposition, rear, yell, speaker, shout, utterance]
+
+SYNSET{SID-07192129-N : Words[W-07192129-N-1-call, W-07192129-N-2-claim]} | a demand especially in the phrase "the call of duty"
+BOW: [call, especially, phrase, claim, duty, demand]
+
+SYNSET{SID-06796642-N : Words[W-06796642-N-1-birdcall, W-06796642-N-2-call, W-06796642-N-3-birdsong, W-06796642-N-4-song]} | the characteristic sound produced by a bird; "a bird will not learn its song unless it hears it at an early age"
+BOW: [song, learn, sound, produce, birdcall, characteristic, birdsong, call, unless, bird, hear, early, age]
+
+SYNSET{SID-01055954-N : Words[W-01055954-N-1-call]} | a brief social visit; "senior professors' wives no longer make afternoon calls on newcomers"; "the characters in Henry James' novels are forever paying calls on each other, usually in the parlor of some residence"
+BOW: [brief, newcomer, social, parlor, wife, pay, call, senior, afternoon, henry, professor, longer, character, visit, usually, forever, residence, make, jame, novel]
+
+SYNSET{SID-07192661-N : Words[W-07192661-N-1-margin_call, W-07192661-N-2-call]} | a demand by a broker that a customer deposit enough to bring his margin up to the minimum requirement
+BOW: [call, margin, bring, deposit, requirement, broker, demand, minimum, customer]
+
+SYNSET{SID-07192511-N : Words[W-07192511-N-1-call]} | a demand for a show of hands in a card game; "after two raises there was a call"
+BOW: [call, game, raise, demand, card, hand]
+
+SYNSET{SID-07190693-N : Words[W-07190693-N-1-call]} | a request; "many calls for Christmas stories"; "not many calls for buggywhips"
+BOW: [call, request, christmas, story, buggywhip]
+
+SYNSET{SID-06582761-N : Words[W-06582761-N-1-call]} | an instruction that interrupts the program being executed; "Pascal performs calls by simply giving the name of the routine to be executed"
+BOW: [call, give, routine, instruction, pascal, interrupt, perform, program, execute, simply]
+
+SYNSET{SID-01055493-N : Words[W-01055493-N-1-call]} | a visit in an official or professional capacity; "the pastor's calls on his parishioners"; "the salesman's call on a customer"
+BOW: [call, official, salesman, visit, pastor, professional, capacity, parishioner, customer]
+
+SYNSET{SID-00164801-N : Words[W-00164801-N-1-call]} | (sports) the decision made by an umpire or referee; "he was ejected for protesting the call"
+BOW: [call, eject, decision, protest, referee, sport, umpire]
+
+SYNSET{SID-00080743-N : Words[W-00080743-N-1-call_option, W-00080743-N-2-call]} | the option to buy a given stock (or stock index or commodity future) at a given price before a given date
+BOW: [call, date, give, commodity, future, price, buy, index, stock, option]
+
+Intersecção de palavras: particular,
+----------
+NOME: ReviewRating
+Desc: "a measurement of how good or popular someone or something is"
+Supers: []
+Subs: [<http://edas#AcceptRating>, <http://edas#AccpetIfRoomRating>, <http://edas#RejectRating>, <http://edas#WeekRejectRating>]
+Contexto: [week, review, reject, rating, accpet, good, popular, measurement, room, accept]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Comparing>
+Synset selecionado: SYNSET{SID-05736149-N : Words[W-05736149-N-1-evaluation, W-05736149-N-2-valuation, W-05736149-N-3-rating]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-05736149-N : Words[W-05736149-N-1-evaluation, W-05736149-N-2-valuation, W-05736149-N-3-rating]} | an appraisal of the value of something; "he set a high valuation on friendship"
+BOW: [evaluation, high, valuation, set, friendship, rating, appraisal, value]
+
+SYNSET{SID-00874806-N : Words[W-00874806-N-1-evaluation, W-00874806-N-2-rating]} | act of ascertaining or fixing the value or worth of
+BOW: [evaluation, act, ascertain, fix, rating, value, worth]
+
+SYNSET{SID-14429382-N : Words[W-14429382-N-1-rating]} | standing or position on a scale
+BOW: [standing, rating, scale, position]
+
+SYNSET{SID-14431471-N : Words[W-14431471-N-1-military_rank, W-14431471-N-2-military_rating, W-14431471-N-3-paygrade, W-14431471-N-4-rating]} | rank in a military organization
+BOW: [paygrade, organization, rating, rank, military]
+
+Intersecção de palavras: rating,
+----------

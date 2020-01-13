@@ -1,0 +1,171 @@
+NOME: Topic
+Desc: "confTool"
+Supers: []
+Subs: []
+Contexto: [topic, conf, tool]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Proposition>
+Synset selecionado: SYNSET{SID-06599788-N : Words[W-06599788-N-1-subject, W-06599788-N-2-topic, W-06599788-N-3-theme]}
+Número de Synsets recuperados: 2
+
+Conjunto de synsets recuperados:
+SYNSET{SID-06599788-N : Words[W-06599788-N-1-subject, W-06599788-N-2-topic, W-06599788-N-3-theme]} | the subject matter of a conversation or discussion; "he didn't want to discuss that subject"; "it was a very sensitive topic"; "his letters were always on the theme of love"
+BOW: [love, subject, didnt, want, letter, topic, theme, discussion, sensitive, matter, conversation, discuss]
+
+SYNSET{SID-05814291-N : Words[W-05814291-N-1-topic, W-05814291-N-2-subject, W-05814291-N-3-issue, W-05814291-N-4-matter]} | some situation or event that is thought about; "he kept drifting off the topic"; "he had been thinking about the subject for several years"; "it is a matter for the police"
+BOW: [think, police, issue, year, subject, keep, topic, matter, event, situation, drift]
+
+Intersecção de palavras: topic,
+----------
+NOME: Event
+Desc: "confTool"
+Supers: []
+Subs: [<http://confOf#Administrative_event>, <http://confOf#Camera_Ready_event>, <http://confOf#Registration_of_participants_event>, <http://confOf#Reviewing_event>, <http://confOf#Reviewing_results_event>, <http://confOf#Submission_event>, <http://confOf#Social_event>, <http://confOf#Banquet>, <http://confOf#Reception>, <http://confOf#Trip>, <http://confOf#Working_event>, <http://confOf#Conference>, <http://confOf#Tutorial>, <http://confOf#Workshop>]
+Contexto: [conference, social, workshop, work, banquet, conf, tool, participant, result, trip, review, ready, administrative, submission, registration, tutorial, reception, event, camera]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]}
+Número de Synsets recuperados: 4
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+
+Intersecção de palavras: result, event,
+----------
+NOME: Organization
+Desc: null
+Supers: []
+Subs: [<http://confOf#Company>, <http://confOf#University>]
+Contexto: [university, organization, company]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Organization>
+Synset selecionado: SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]}
+Número de Synsets recuperados: 7
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]} | a group of people who work together
+BOW: [work, organization, organisation, people, group]
+
+SYNSET{SID-05726596-N : Words[W-05726596-N-1-arrangement, W-05726596-N-2-organization, W-05726596-N-3-organisation, W-05726596-N-4-system]} | an organized structure for arranging or classifying; "he changed the arrangement of the topics"; "the facts were familiar but it was in the organization of them that he was original"; "he tried to understand their system of classification"
+BOW: [classify, fact, original, change, understand, organisation, familiar, classification, structure, arrangement, system, organize, arrange, organization, topic, try]
+
+SYNSET{SID-08164585-N : Words[W-08164585-N-1-administration, W-08164585-N-2-governance, W-08164585-N-3-governing_body, W-08164585-N-4-establishment, W-08164585-N-5-brass, W-08164585-N-6-organization, W-08164585-N-7-organisation]} | the persons (or committees or departments etc.) who make up a body for the purpose of administering something; "he claims that the present administration is corrupt"; "the governance of an association is responsible to its members"; "he quickly became recognized as a member of the establishment"
+BOW: [committee, corrupt, govern, purpose, administration, quickly, organisation, association, establishment, brass, body, recognize, person, organization, responsible, administer, member, claim, department, present, make, governance]
+
+SYNSET{SID-01136519-N : Words[W-01136519-N-1-organization, W-01136519-N-2-organisation]} | the act of organizing a business or an activity related to a business; "he was brought in to supervise the organization of a new department"
+BOW: [new, act, business, activity, related, organize, organization, bring, supervise, organisation, department]
+
+SYNSET{SID-04768657-N : Words[W-04768657-N-1-organization, W-04768657-N-2-organisation, W-04768657-N-3-system]} | an ordered manner; orderliness by virtue of being methodical and well organized; "his compulsive organization was not an endearing quality"; "we can't do it unless we establish some system around here"
+BOW: [organisation, manner, establish, quality, compulsive, endearing, system, organize, unless, organization, methodical, virtue, orderliness, order]
+
+SYNSET{SID-01008378-N : Words[W-01008378-N-1-organization, W-01008378-N-2-organisation]} | the activity or result of distributing or disposing persons or things properly or methodically; "his organization of the work force was very efficient"
+BOW: [methodically, activity, efficient, work, organisation, result, properly, person, organization, dispose, force, distribute, thing]
+
+SYNSET{SID-00237078-N : Words[W-00237078-N-1-constitution, W-00237078-N-2-establishment, W-00237078-N-3-formation, W-00237078-N-4-organization, W-00237078-N-5-organisation]} | the act of forming or establishing something; "the constitution of a PTA group last year"; "it was the establishment of his reputation"; "he still remembers the organization of the club"
+BOW: [constitution, year, organisation, reputation, establishment, formation, establish, remember, act, form, organization, club, pta, group]
+
+Intersecção de palavras: organization,
+----------
+NOME: Contribution
+Desc: "confTool"
+Supers: [owl:Thing]
+Subs: [<http://confOf#Paper>, <http://confOf#Poster>, <http://confOf#Short_paper>]
+Contexto: [contribution, paper, short, conf, poster, thing, tool]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Entity>
+Synset selecionado: SYNSET{SID-00787465-N : Words[W-00787465-N-1-contribution, W-00787465-N-2-part, W-00787465-N-3-share]}
+Número de Synsets recuperados: 5
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00787465-N : Words[W-00787465-N-1-contribution, W-00787465-N-2-part, W-00787465-N-3-share]} | the part played by a person in bringing about a result; "I am proud of my contribution in advancing the project"; "they all did their share of the work"
+BOW: [play, result, contribution, proud, person, work, part, bring, project, share, do, advance]
+
+SYNSET{SID-13270038-N : Words[W-13270038-N-1-contribution, W-13270038-N-2-donation]} | a voluntary gift (as of money or service or ideas) made to some worthwhile cause
+BOW: [gift, contribution, money, service, idea, donation, voluntary, cause, worthwhile]
+
+SYNSET{SID-01089778-N : Words[W-01089778-N-1-contribution, W-01089778-N-2-donation]} | act of giving in common with others for a common purpose especially to a charity
+BOW: [give, contribution, act, common, especially, purpose, charity, donation]
+
+SYNSET{SID-13269890-N : Words[W-13269890-N-1-contribution]} | an amount of money contributed; "he expected his contribution to be repaid with interest"
+BOW: [expect, contribution, repay, money, contribute]
+
+SYNSET{SID-01102712-N : Words[W-01102712-N-1-contribution]} | a writing for publication especially one of a collection of writings as an article or story
+BOW: [contribution, especially, writings, publication, collection, write, article, story]
+
+Intersecção de palavras: contribution,
+----------
+NOME: Country
+Desc: null
+Supers: []
+Subs: []
+Contexto: [country]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Nation>
+Synset selecionado: SYNSET{SID-08168978-N : Words[W-08168978-N-1-state, W-08168978-N-2-nation, W-08168978-N-3-country, W-08168978-N-4-land, W-08168978-N-5-commonwealth, W-08168978-N-6-res_publica, W-08168978-N-7-body_politic]}
+Número de Synsets recuperados: 5
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08168978-N : Words[W-08168978-N-1-state, W-08168978-N-2-nation, W-08168978-N-3-country, W-08168978-N-4-land, W-08168978-N-5-commonwealth, W-08168978-N-6-res_publica, W-08168978-N-7-body_politic]} | a politically organized body of people under a single government; "the state has elected a new president"; "African nations"; "students who had come to the nation's capitol"; "the country's largest manufacturer"; "an industrialized land"
+BOW: [publica, country, new, largest, nation, student, industrialize, come, politically, body, people, elect, manufacturer, single, capitol, re, government, politic, organize, african, land, commonwealth, state, president]
+
+SYNSET{SID-08544813-N : Words[W-08544813-N-1-country, W-08544813-N-2-state, W-08544813-N-3-land]} | the territory occupied by a nation; "he returned to the land of his birth"; "he visited several European countries"
+BOW: [country, nation, european, land, birth, state, visit, occupied, return, territory]
+
+SYNSET{SID-08166552-N : Words[W-08166552-N-1-nation, W-08166552-N-2-land, W-08166552-N-3-country]} | the people who live in a nation or country; "a statement that sums up the nation's mood"; "the news was announced to the nation"; "the whole country worshipped him"
+BOW: [news, country, mood, nation, statement, land, sum, people, worship, live, announce]
+
+SYNSET{SID-08644722-N : Words[W-08644722-N-1-country, W-08644722-N-2-rural_area]} | an area outside of cities and towns; "his poetry celebrated the slower pace of life in the country"
+BOW: [area, country, town, city, celebrate, outside, rural, pace, slower, life, poetry]
+
+SYNSET{SID-08497294-N : Words[W-08497294-N-1-area, W-08497294-N-2-country]} | a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography); "it was a mountainous area"; "Bible country"
+BOW: [area, boundary, country, geographical, bible, distinguish, purpose, particular, serve, people, indefinite, special, mountainous, culture, geography, usually, region]
+
+Intersecção de palavras: country,
+----------
+NOME: City
+Desc: null
+Supers: []
+Subs: []
+Contexto: [city]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#City>
+Synset selecionado: SYNSET{SID-08524735-N : Words[W-08524735-N-1-city, W-08524735-N-2-metropolis, W-08524735-N-3-urban_center]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-08524735-N : Words[W-08524735-N-1-city, W-08524735-N-2-metropolis, W-08524735-N-3-urban_center]} | a large and densely populated urban area; may include several independent administrative districts; "Ancient Troy was a great city"
+BOW: [densely, area, include, large, independent, city, metropolis, center, populated, ancient, great, urban, administrative, district, troy]
+
+SYNSET{SID-08540903-N : Words[W-08540903-N-1-city]} | an incorporated administrative district established by state charter; "the city raised the tax rate"
+BOW: [established, city, rate, incorporated, administrative, charter, district, raise, tax, state]
+
+SYNSET{SID-08226335-N : Words[W-08226335-N-1-city, W-08226335-N-2-metropolis]} | people living in a large densely populated municipality; "the city voted for Republicans in 1994"
+BOW: [densely, large, 1994, city, metropolis, republican, municipality, populated, people, vote, live]
+
+Intersecção de palavras: city,
+----------
+NOME: Person
+Desc: "confTool"
+Supers: [owl:Thing]
+Subs: [<http://confOf#Administrator>, <http://confOf#Assistant>, <http://confOf#Author>, <http://confOf#Chair_PC>, <http://confOf#Member_PC>, <http://confOf#Participant>, <http://confOf#Member>, <http://confOf#Regular>, <http://confOf#Student>, <http://confOf#Scholar>, <http://confOf#Science_Worker>, <http://confOf#Volunteer>]
+Contexto: [student, chair, author, assistant, conf, scholar, tool, participant, administrator, volunteer, pc, person, science, member, worker, thing, regular]
+Conceito Topo alinhado: <file:/C:/Users/danie/Desktop/Experimentos_finais_tese/Matcher_WN/Ontology-Matcher-master/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]}
+Número de Synsets recuperados: 3
+
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+
+Intersecção de palavras: person,
+----------

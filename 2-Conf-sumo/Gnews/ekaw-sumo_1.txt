@@ -1,0 +1,2157 @@
+NOME: Web_Site
+Desc: null
+Supers: [<http://ekaw#Document>]
+Subs: []
+Contexto: [site, web, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#WebSite>
+Synset selecionado: SYNSET{SID-06359193-N : Words[W-06359193-N-1-web_site, W-06359193-N-2-website, W-06359193-N-3-internet_site, W-06359193-N-4-site]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08651247-N : Words[W-08651247-N-1-site, W-08651247-N-2-land_site]} | the piece of land on which something is located (or is to be located); "a good site for the school"
+BOW: [site, piece, school, land, located, good]
+MEDIA: 1.7548733851354985
+
+SYNSET{SID-08622950-N : Words[W-08622950-N-1-site, W-08622950-N-2-situation]} | physical position in relation to the surroundings; "the sites are determined by highly specific sequences of nucleotides"
+BOW: [sequence, site, determine, nucleotide, position, physical, surroundings, specific, situation, relation, highly]
+MEDIA: 1.1788291394160215
+
+SYNSET{SID-06359193-N : Words[W-06359193-N-1-web_site, W-06359193-N-2-website, W-06359193-N-3-internet_site, W-06359193-N-4-site]} | a computer connected to the internet that maintains a series of web pages on the World Wide Web; "the Israeli web site was damaged by hostile hackers"
+BOW: [damage, website, wide, maintain, hostile, site, world, hacker, web, series, israeli, page, internet, connect]
+MEDIA: 2.266667289991996
+
+
+----------
+NOME: Thing
+Desc: null
+Supers: []
+Subs: []
+Contexto: [thing]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#IntentionalProcess>
+Synset selecionado: SYNSET{SID-00034479-N : Words[W-00034479-N-1-thing]}
+Conjunto de synsets recuperados:
+SYNSET{SID-13943968-N : Words[W-13943968-N-1-thing]} | a special situation; "this thing has got to end"; "it is a remarkable thing"
+BOW: [special, remarkable, get, end, thing, situation]
+MEDIA: 3.2376345433294773
+
+SYNSET{SID-00034479-N : Words[W-00034479-N-1-thing]} | an action; "how could you do such a thing?"
+BOW: [action, thing]
+MEDIA: 5.463011749088764
+
+SYNSET{SID-05855004-N : Words[W-05855004-N-1-thing]} | a special abstraction; "a thing of the spirit"; "things of the heart"
+BOW: [special, abstraction, spirit, thing, heart]
+MEDIA: 2.895614854991436
+
+SYNSET{SID-04424218-N : Words[W-04424218-N-1-thing]} | an artifact; "how does this thing work?"
+BOW: [artifact, work, do, thing]
+MEDIA: 4.819144867360592
+
+SYNSET{SID-07289831-N : Words[W-07289831-N-1-thing]} | an event; "a funny thing happened on the way to the..."
+BOW: [happen, event, thing, funny, way]
+MEDIA: 5.191837698221207
+
+SYNSET{SID-05671325-N : Words[W-05671325-N-1-matter, W-05671325-N-2-affair, W-05671325-N-3-thing]} | a vaguely specified concern; "several matters to attend to"; "it is none of your affair"; "things are going well"
+BOW: [attend, specify, go, affair, matter, thing, vaguely, concern]
+MEDIA: 3.064628792926669
+
+SYNSET{SID-06723908-N : Words[W-06723908-N-1-thing]} | a statement regarded as an object; "to say the same thing in other terms"; "how can you say such a thing?"
+BOW: [regard, statement, say, term, thing, object]
+MEDIA: 3.109088589747747
+
+SYNSET{SID-04424418-N : Words[W-04424418-N-1-thing]} | an entity that is not named specifically; "I couldn't tell what the thing was"
+BOW: [tell, name, specifically, thing, entity]
+MEDIA: 3.6846880316734314
+
+SYNSET{SID-04617289-N : Words[W-04617289-N-1-thing]} | any attribute or quality considered as having its own existence; "the thing I like about her is ..."
+BOW: [like, have, existence, attribute, consider, thing, quality]
+MEDIA: 3.1667394510337283
+
+SYNSET{SID-05984182-N : Words[W-05984182-N-1-thing]} | a special objective; "the thing is to stay in bounds"
+BOW: [special, bound, thing, objective, stay]
+MEDIA: 3.1257531866431236
+
+SYNSET{SID-07480356-N : Words[W-07480356-N-1-thing]} | a persistent illogical feeling of desire or aversion; "he has a thing about seafood"; "she has a thing about him"
+BOW: [aversion, seafood, desire, feeling, persistent, thing, illogical]
+MEDIA: 2.9849705525806973
+
+SYNSET{SID-00002452-N : Words[W-00002452-N-1-thing]} | a separate and self-contained entity
+BOW: [contain, separate, self, thing, entity]
+MEDIA: 2.7695006653666496
+
+
+----------
+NOME: Tutorial_Chair
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>, <http://ekaw#PC_Member>, <http://ekaw#Possible_Reviewer>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, pc, chair, person, member, tutorial, possible, reviewer, participant]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 1.525651918512907
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.1495328889346665
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 1.5317797941635503
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 0.8462288085069131
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.1035381485621825
+
+
+----------
+NOME: Tutorial
+Desc: null
+Supers: [<http://ekaw#Individual_Presentation>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [presentation, individual, scientific, tutorial, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Meeting>
+Synset selecionado: SYNSET{SID-07148022-N : Words[W-07148022-N-1-tutorial]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07148022-N : Words[W-07148022-N-1-tutorial]} | a session of intensive tuition given by a tutor to an individual or to a small number of students
+BOW: [small, give, number, individual, student, session, tutorial, tuition, intensive, tutor]
+MEDIA: 1.551009865105152
+
+
+----------
+NOME: Workshop_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [paper, workshop, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Newspaper>
+Synset selecionado: SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.604275472772618
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.8764479534217606
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.974927759117399
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.5634842092792194
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.8461754617535255
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.8117647773518304
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.3681106409252
+
+
+----------
+NOME: Proceedings_Publisher
+Desc: null
+Supers: [<http://ekaw#Organisation>]
+Subs: []
+Contexto: [organisation, publisher, proceedings]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Position>
+Synset selecionado: SYNSET{SID-10491575-N : Words[W-10491575-N-1-publisher, W-10491575-N-2-newspaper_publisher]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08062623-N : Words[W-08062623-N-1-publisher, W-08062623-N-2-publishing_house, W-08062623-N-3-publishing_firm, W-08062623-N-4-publishing_company]} | a firm in the publishing business
+BOW: [firm, business, publisher, company, publishing, house]
+MEDIA: 1.7431440566562946
+
+SYNSET{SID-10491309-N : Words[W-10491309-N-1-publisher]} | a person engaged in publishing periodicals or books or music
+BOW: [music, person, engage, periodical, book, publisher, publishing]
+MEDIA: 1.5607261577887195
+
+SYNSET{SID-10491575-N : Words[W-10491575-N-1-publisher, W-10491575-N-2-newspaper_publisher]} | the proprietor of a newspaper
+BOW: [newspaper, publisher, proprietor]
+MEDIA: 2.233997577180465
+
+
+----------
+NOME: PC_Member
+Desc: null
+Supers: [<http://ekaw#Possible_Reviewer>, <http://ekaw#Person>]
+Subs: [<http://ekaw#PC_Chair>, <http://ekaw#SC_Member>, <http://ekaw#Session_Chair>, <http://ekaw#Tutorial_Chair>, <http://ekaw#Workshop_Chair>]
+Contexto: [sc, pc, chair, session, workshop, person, member, tutorial, possible, reviewer]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#GroupOfPeople>
+Synset selecionado: SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]} | one of the persons who compose a social group (especially individuals who have joined and participate in a group organization); "only members will be admitted"; "a member of the faculty"; "she was introduced to all the members of his family"
+BOW: [participate, individual, social, introduce, faculty, admit, especially, compose, person, fellow, organization, member, join, family, group]
+MEDIA: 1.0215229976767055
+
+SYNSET{SID-13810615-N : Words[W-13810615-N-1-member]} | anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+BOW: [belong, set, sex, member, snake, opposite, reptilia, class]
+MEDIA: 0.6981285362999188
+
+SYNSET{SID-05559908-N : Words[W-05559908-N-1-extremity, W-05559908-N-2-appendage, W-05559908-N-3-member]} | an external body part that projects from the body; "it is important to keep the extremities warm"
+BOW: [important, external, warm, appendage, part, member, project, body, extremity]
+MEDIA: 0.9668490318710813
+
+SYNSET{SID-08170686-N : Words[W-08170686-N-1-member]} | an organization that is a member of another organization (especially a state that belongs to a group of nations); "the library was a member of the interlibrary loan association"; "Canada is a member of the United Nations"
+BOW: [loan, belong, nation, unite, interlibrary, association, library, especially, canada, organization, member, state, group]
+MEDIA: 0.8700350964298614
+
+SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]} | the male organ of copulation (`member' is a euphemism)
+BOW: [organ, `, copulation, member, penis, phallus, male, euphemism]
+MEDIA: 0.9923478881901246
+
+
+----------
+NOME: University
+Desc: null
+Supers: [<http://ekaw#Academic_Institution>, <http://ekaw#Organisation>]
+Subs: []
+Contexto: [institution, university, academic, organisation]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#University>
+Synset selecionado: SYNSET{SID-08286163-N : Words[W-08286163-N-1-university]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08286163-N : Words[W-08286163-N-1-university]} | the body of faculty and students at a university
+BOW: [student, university, body, faculty]
+MEDIA: 3.5042495653033257
+
+SYNSET{SID-04511002-N : Words[W-04511002-N-1-university]} | establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching
+BOW: [include, living, learn, university, establishment, teaching, house, research, seat, administrative, facility, higher, quarter]
+MEDIA: 1.4571600565865923
+
+SYNSET{SID-08286569-N : Words[W-08286569-N-1-university]} | a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees
+BOW: [profession, institution, large, learn, university, degree, create, diverse, educate, grant, life, higher]
+MEDIA: 1.7948199034435675
+
+
+----------
+NOME: Regular_Session
+Desc: null
+Supers: [<http://ekaw#Session>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [session, scientific, event, regular]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+MEDIA: 1.8055216622139727
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+MEDIA: 1.5147481529862716
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+MEDIA: 1.6914800651388109
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+MEDIA: 1.5414885422796942
+
+
+----------
+NOME: Abstract
+Desc: null
+Supers: [<http://ekaw#Document>]
+Subs: [<http://ekaw#Invited_Talk_Abstract>, <http://ekaw#Tutorial_Abstract>]
+Contexto: [document, talk, invite, abstract, tutorial]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Summary>
+Synset selecionado: SYNSET{SID-06468951-N : Words[W-06468951-N-1-outline, W-06468951-N-2-synopsis, W-06468951-N-3-abstract, W-06468951-N-4-precis]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05854150-N : Words[W-05854150-N-1-abstraction, W-05854150-N-2-abstract]} | a concept or idea not associated with any specific instance; "he loved her only in the abstract--not in person"
+BOW: [love, instance, idea, person, abstraction, concept, abstract, specific, associate]
+MEDIA: 1.627989993353064
+
+SYNSET{SID-06468951-N : Words[W-06468951-N-1-outline, W-06468951-N-2-synopsis, W-06468951-N-3-abstract, W-06468951-N-4-precis]} | a sketchy summary of the main points of an argument or theory
+BOW: [summary, outline, argument, sketchy, main, synopsis, abstract, precis, point, theory]
+MEDIA: 1.697979813022539
+
+
+----------
+NOME: Person
+Desc: null
+Supers: []
+Subs: [<http://ekaw#Agency_Staff_Member>, <http://ekaw#Conference_Participant>, <http://ekaw#Demo_Chair>, <http://ekaw#Early-Registered_Participant>, <http://ekaw#Late-Registered_Participant>, <http://ekaw#OC_Member>, <http://ekaw#OC_Chair>, <http://ekaw#PC_Chair>, <http://ekaw#Presenter>, <http://ekaw#Invited_Speaker>, <http://ekaw#Session_Chair>, <http://ekaw#Tutorial_Chair>, <http://ekaw#Workshop_Chair>, <http://ekaw#Paper_Author>, <http://ekaw#Possible_Reviewer>, <http://ekaw#PC_Member>, <http://ekaw#PC_Chair>, <http://ekaw#SC_Member>, <http://ekaw#Session_Chair>, <http://ekaw#Tutorial_Chair>, <http://ekaw#Workshop_Chair>, <http://ekaw#Student>]
+Contexto: [conference, agency, late-registered, presenter, student, chair, author, workshop, session, staff, possible, reviewer, demo, participant, sc, pc, oc, paper, person, speaker, member, invite, tutorial, early-registered]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00007846-N : Words[W-00007846-N-1-person, W-00007846-N-2-individual, W-00007846-N-3-someone, W-00007846-N-4-somebody, W-00007846-N-5-mortal, W-00007846-N-6-soul]} | a human being; "there was too much for one person to do"
+BOW: [individual, someone, person, soul, human, somebody, mortal]
+MEDIA: 0.8754376872370598
+
+SYNSET{SID-05217688-N : Words[W-05217688-N-1-person]} | a human body (usually including the clothing); "a weapon was hidden on his person"
+BOW: [include, weapon, hide, person, clothing, usually, body, human]
+MEDIA: 0.6736990060744574
+
+SYNSET{SID-06326797-N : Words[W-06326797-N-1-person]} | a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party; "stop talking about yourself in the third person"
+BOW: [use, accord, verb, grammatical, classification, form, addressee, stop, pronoun, person, possessive, speaker, determiner, indicate, talk, category, party]
+MEDIA: 0.7782372563929575
+
+
+----------
+NOME: Poster_Session
+Desc: null
+Supers: [<http://ekaw#Session>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [session, scientific, event, poster]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+MEDIA: 1.5832954844725984
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+MEDIA: 1.2759649078367374
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+MEDIA: 1.5640011746602664
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+MEDIA: 1.3488921700627543
+
+
+----------
+NOME: Conference
+Desc: "One edition of a conference"
+Supers: [<http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [conference, scientific, edition, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Communication>
+Synset selecionado: SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08308497-N : Words[W-08308497-N-1-conference]} | a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
+BOW: [formal, conference, especially, prearranged, exchange, information, consultation, discussion, meeting, agenda]
+MEDIA: 1.4697000444866717
+
+SYNSET{SID-08231184-N : Words[W-08231184-N-1-league, W-08231184-N-2-conference]} | an association of sports teams that organizes matches for its members
+BOW: [conference, organize, league, match, member, association, team, sport]
+MEDIA: 1.5842370985774323
+
+SYNSET{SID-07142566-N : Words[W-07142566-N-1-conference, W-07142566-N-2-group_discussion]} | a discussion among participants who have an agreed (serious) topic
+BOW: [conference, topic, discussion, agree, participant, group]
+MEDIA: 1.7386368564136014
+
+
+----------
+NOME: Workshop_Session
+Desc: null
+Supers: [<http://ekaw#Session>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [workshop, session, scientific, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+MEDIA: 2.0173478958063895
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+MEDIA: 1.4254440288647174
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+MEDIA: 1.7893208707183865
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+MEDIA: 1.751229346555192
+
+
+----------
+NOME: Possible_Reviewer
+Desc: null
+Supers: [<http://ekaw#Person>]
+Subs: [<http://ekaw#PC_Member>, <http://ekaw#PC_Chair>, <http://ekaw#SC_Member>, <http://ekaw#Session_Chair>, <http://ekaw#Tutorial_Chair>, <http://ekaw#Workshop_Chair>]
+Contexto: [sc, pc, chair, session, workshop, person, member, tutorial, possible, reviewer]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Writing>
+Synset selecionado: SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10526927-N : Words[W-10526927-N-1-reviewer, W-10526927-N-2-referee, W-10526927-N-3-reader]} | someone who reads manuscripts and judges their suitability for publication
+BOW: [read, manuscript, suitability, reader, publication, reviewer, judge, referee]
+MEDIA: 0.9685133262828458
+
+SYNSET{SID-09942431-N : Words[W-09942431-N-1-commentator, W-09942431-N-2-reviewer]} | a writer who reports and analyzes events of the day
+BOW: [commentator, analyze, report, reviewer, writer, event, day]
+MEDIA: 1.204313000098669
+
+
+----------
+NOME: Industrial_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [industrial, paper, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Corporation>
+Synset selecionado: SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.964399470637242
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.6794494544673295
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.9074290009358752
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.652160797578593
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.994318985521342
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 2.072521112859249
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.4786055243263643
+
+
+----------
+NOME: Evaluated_Paper
+Desc: null
+Supers: [<http://ekaw#Assigned_Paper>, <http://ekaw#Submitted_Paper>, <http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: [<http://ekaw#Accepted_Paper>, <http://ekaw#Rejected_Paper>]
+Contexto: [submit, paper, reject, document, evaluate, accept, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article>
+Synset selecionado: SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.0940361891740136
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.6376386586547136
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.3412077335773833
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.332454443727329
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.5162069947978893
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.4656350452319853
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.1660046090504952
+
+
+----------
+NOME: Proceedings
+Desc: null
+Supers: [<http://ekaw#Multi-author_Volume>, <http://ekaw#Document>]
+Subs: [<http://ekaw#Conference_Proceedings>]
+Contexto: [volume, conference, multi-author, document, proceedings]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Text>
+Synset selecionado: SYNSET{SID-06508112-N : Words[W-06508112-N-1-minutes, W-06508112-N-2-proceedings, W-06508112-N-3-transactions]}
+Conjunto de synsets recuperados:
+SYNSET{SID-01184814-N : Words[W-01184814-N-1-proceeding, W-01184814-N-2-legal_proceeding, W-01184814-N-3-proceedings]} | (law) the institution of a sequence of steps by which legal judgments are invoked
+BOW: [institution, sequence, proceed, law, judgment, legal, step, invoke, proceedings]
+MEDIA: 1.165318629083534
+
+SYNSET{SID-06508112-N : Words[W-06508112-N-1-minutes, W-06508112-N-2-proceedings, W-06508112-N-3-transactions]} | a written account of what transpired at a meeting
+BOW: [transpire, proceedings, write, meeting, transaction, account, minute]
+MEDIA: 1.3227914534509182
+
+
+----------
+NOME: Rejected_Paper
+Desc: null
+Supers: [<http://ekaw#Evaluated_Paper>, <http://ekaw#Assigned_Paper>, <http://ekaw#Submitted_Paper>, <http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [submit, paper, reject, document, evaluate, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article>
+Synset selecionado: SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.1497406309160094
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.7168971928077994
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.412539681724201
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.3523388527634477
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.5933802325955846
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.4940938310852896
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.1802210379391909
+
+
+----------
+NOME: Location
+Desc: null
+Supers: []
+Subs: []
+Contexto: [location]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Region>
+Synset selecionado: SYNSET{SID-00027167-N : Words[W-00027167-N-1-location]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00027167-N : Words[W-00027167-N-1-location]} | a point or extent in space
+BOW: [extent, location, point, space]
+MEDIA: 3.6560107208788395
+
+SYNSET{SID-01051331-N : Words[W-01051331-N-1-placement, W-01051331-N-2-location, W-01051331-N-3-locating, W-01051331-N-4-position, W-01051331-N-5-positioning, W-01051331-N-6-emplacement]} | the act of putting something in a certain place
+BOW: [emplacement, act, locate, location, placement, position, place, certain, put]
+MEDIA: 2.9108131614824138
+
+SYNSET{SID-00155487-N : Words[W-00155487-N-1-localization, W-00155487-N-2-localisation, W-00155487-N-3-location, W-00155487-N-4-locating, W-00155487-N-5-fix]} | a determination of the place where something is; "he got a good fix on the target"
+BOW: [localization, locate, fix, localisation, get, location, determination, place, good, target]
+MEDIA: 2.374433498829603
+
+SYNSET{SID-03682189-N : Words[W-03682189-N-1-location]} | a workplace away from a studio at which some or all of a movie may be made; "they shot the film on location in Nevada"
+BOW: [studio, away, movie, nevada, location, film, workplace, shot]
+MEDIA: 2.4370624497532845
+
+
+----------
+NOME: Document
+Desc: null
+Supers: []
+Subs: [<http://ekaw#Abstract>, <http://ekaw#Invited_Talk_Abstract>, <http://ekaw#Tutorial_Abstract>, <http://ekaw#Flyer>, <http://ekaw#Multi-author_Volume>, <http://ekaw#Proceedings>, <http://ekaw#Conference_Proceedings>, <http://ekaw#Paper>, <http://ekaw#Camera_Ready_Paper>, <http://ekaw#Conference_Paper>, <http://ekaw#Demo_Paper>, <http://ekaw#Industrial_Paper>, <http://ekaw#Poster_Paper>, <http://ekaw#Regular_Paper>, <http://ekaw#Submitted_Paper>, <http://ekaw#Assigned_Paper>, <http://ekaw#Evaluated_Paper>, <http://ekaw#Accepted_Paper>, <http://ekaw#Rejected_Paper>, <http://ekaw#Workshop_Paper>, <http://ekaw#Programme_Brochure>, <http://ekaw#Review>, <http://ekaw#Negative_Review>, <http://ekaw#Neutral_Review>, <http://ekaw#Positive_Review>, <http://ekaw#Web_Site>]
+Contexto: [conference, submit, document, demo, negative, paper, web, reject, review, ready, talk, proceedings, tutorial, camera, programme, regular, brochure, workshop, neutral, abstract, positive, accept, flyer, volume, site, industrial, multi-author, invite, evaluate, poster, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FactualText>
+Synset selecionado: SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06470073-N : Words[W-06470073-N-1-document, W-06470073-N-2-written_document, W-06470073-N-3-papers]} | writing that provides information (especially information of an official nature)
+BOW: [provide, especially, nature, document, official, information, write, papers]
+MEDIA: 1.1286561780578326
+
+SYNSET{SID-03217458-N : Words[W-03217458-N-1-document]} | anything serving as a representation of a person's thinking by means of symbolic marks
+BOW: [symbolic, think, means, person, document, serve, representation, mark]
+MEDIA: 0.8692329465256696
+
+SYNSET{SID-13403331-N : Words[W-13403331-N-1-document]} | a written account of ownership or obligation
+BOW: [ownership, obligation, document, write, account]
+MEDIA: 1.0456634029716012
+
+SYNSET{SID-06510977-N : Words[W-06510977-N-1-text_file, W-06510977-N-2-document]} | (computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+BOW: [contain, use, document, format, seven, bit, character, file, instruction, science, text, possibly, ascius]
+MEDIA: 0.858050401676556
+
+
+----------
+NOME: Late-Registered_Participant
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, late-registered, person, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10401829-N : Words[W-10401829-N-1-participant]} | someone who takes part in an activity
+BOW: [take, activity, part, participant]
+MEDIA: 1.6749721625819802
+
+SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]} | a person who participates in or is skilled at some game
+BOW: [game, participate, person, skilled, participant, player]
+MEDIA: 2.0715476308638854
+
+
+----------
+NOME: PC_Chair
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>, <http://ekaw#PC_Member>, <http://ekaw#Possible_Reviewer>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, pc, chair, person, member, possible, reviewer, participant]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 1.6505257447473316
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.2465146863749916
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 1.7079554544761775
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 0.9211796871828223
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.1729750056110788
+
+
+----------
+NOME: Negative_Review
+Desc: null
+Supers: [<http://ekaw#Review>, <http://ekaw#Document>]
+Subs: []
+Contexto: [negative, review, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing>
+Synset selecionado: SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]} | a new appraisal or evaluation
+BOW: [evaluation, new, review, appraisal, reassessment, revaluation, reappraisal]
+MEDIA: 2.6808216316359386
+
+SYNSET{SID-06410391-N : Words[W-06410391-N-1-review, W-06410391-N-2-critique, W-06410391-N-3-critical_review, W-06410391-N-4-review_article]} | an essay or article that gives a critical evaluation (as of a book or play)
+BOW: [evaluation, play, give, critical, review, book, essay, critique, article]
+MEDIA: 2.1348103163418948
+
+SYNSET{SID-00143251-N : Words[W-00143251-N-1-follow-up, W-00143251-N-2-followup, W-00143251-N-3-reexamination, W-00143251-N-4-review]} | a subsequent examination of a patient for the purpose of monitoring earlier treatment
+BOW: [follow-up, followup, treatment, earlier, purpose, review, patient, examination, subsequent, reexamination, monitoring]
+MEDIA: 1.7018246391054355
+
+SYNSET{SID-13411533-N : Words[W-13411533-N-1-review, W-13411533-N-2-limited_review]} | (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+BOW: [datum, limited, financial, reliability, accounting, assurance, provide, review, service, audit, exhaustive, interested, party]
+MEDIA: 1.5447452820808394
+
+SYNSET{SID-07019866-N : Words[W-07019866-N-1-revue, W-07019866-N-2-review]} | a variety show with topical sketches and songs and dancing and comedians
+BOW: [song, comedian, topical, revue, variety, review, sketch, dance]
+MEDIA: 1.1811075652076397
+
+SYNSET{SID-06597758-N : Words[W-06597758-N-1-review]} | a periodical that publishes critical essays on current affairs or literature or art
+BOW: [literature, current, art, critical, review, periodical, publish, essay, affair]
+MEDIA: 1.7877186990032594
+
+SYNSET{SID-06469377-N : Words[W-06469377-N-1-recapitulation, W-06469377-N-2-recap, W-06469377-N-3-review]} | a summary at the end that repeats the substance of a longer discussion
+BOW: [summary, longer, review, repeat, substance, recapitulation, recap, end, discussion]
+MEDIA: 2.0109464262646655
+
+SYNSET{SID-01197258-N : Words[W-01197258-N-1-review]} | (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)
+BOW: [judicial, law, especially, review, appellate, reexamination, proceedings, court]
+MEDIA: 1.8068549064143251
+
+SYNSET{SID-00897811-N : Words[W-00897811-N-1-review, W-00897811-N-2-brushup]} | practice intended to polish performance or refresh the memory
+BOW: [practice, performance, memory, brushup, review, refresh, polish, intend]
+MEDIA: 1.2595957308076322
+
+SYNSET{SID-00879271-N : Words[W-00879271-N-1-inspection, W-00879271-N-2-review]} | a formal or official examination; "the platoon stood ready for review"; "we had to wait for the inspection before we could use the elevator"
+BOW: [formal, wait, elevator, review, ready, use, examination, official, stand, platoon, inspection]
+MEDIA: 1.5118999488186091
+
+
+----------
+NOME: Conference_Participant
+Desc: null
+Supers: [<http://ekaw#Person>]
+Subs: [<http://ekaw#Demo_Chair>, <http://ekaw#Early-Registered_Participant>, <http://ekaw#Late-Registered_Participant>, <http://ekaw#OC_Member>, <http://ekaw#OC_Chair>, <http://ekaw#PC_Chair>, <http://ekaw#Presenter>, <http://ekaw#Invited_Speaker>, <http://ekaw#Session_Chair>, <http://ekaw#Tutorial_Chair>, <http://ekaw#Workshop_Chair>]
+Contexto: [conference, late-registered, presenter, chair, workshop, session, demo, participant, pc, oc, person, speaker, member, invite, tutorial, early-registered]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10401829-N : Words[W-10401829-N-1-participant]} | someone who takes part in an activity
+BOW: [take, activity, part, participant]
+MEDIA: 1.1197233267012052
+
+SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]} | a person who participates in or is skilled at some game
+BOW: [game, participate, person, skilled, participant, player]
+MEDIA: 1.2367733608698472
+
+
+----------
+NOME: Industrial_Session
+Desc: null
+Supers: [<http://ekaw#Conference_Session>, <http://ekaw#Session>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [industrial, conference, session, scientific, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+MEDIA: 1.7894394285976887
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+MEDIA: 1.3122982799545753
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+MEDIA: 1.593900970382882
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+MEDIA: 1.416752924444154
+
+
+----------
+NOME: Neutral_Review
+Desc: null
+Supers: [<http://ekaw#Review>, <http://ekaw#Document>]
+Subs: []
+Contexto: [review, document, neutral]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing>
+Synset selecionado: SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]} | a new appraisal or evaluation
+BOW: [evaluation, new, review, appraisal, reassessment, revaluation, reappraisal]
+MEDIA: 2.509345062786625
+
+SYNSET{SID-06410391-N : Words[W-06410391-N-1-review, W-06410391-N-2-critique, W-06410391-N-3-critical_review, W-06410391-N-4-review_article]} | an essay or article that gives a critical evaluation (as of a book or play)
+BOW: [evaluation, play, give, critical, review, book, essay, critique, article]
+MEDIA: 2.014962451325523
+
+SYNSET{SID-00143251-N : Words[W-00143251-N-1-follow-up, W-00143251-N-2-followup, W-00143251-N-3-reexamination, W-00143251-N-4-review]} | a subsequent examination of a patient for the purpose of monitoring earlier treatment
+BOW: [follow-up, followup, treatment, earlier, purpose, review, patient, examination, subsequent, reexamination, monitoring]
+MEDIA: 1.5662849858882977
+
+SYNSET{SID-13411533-N : Words[W-13411533-N-1-review, W-13411533-N-2-limited_review]} | (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+BOW: [datum, limited, financial, reliability, accounting, assurance, provide, review, service, audit, exhaustive, interested, party]
+MEDIA: 1.5388242815597317
+
+SYNSET{SID-07019866-N : Words[W-07019866-N-1-revue, W-07019866-N-2-review]} | a variety show with topical sketches and songs and dancing and comedians
+BOW: [song, comedian, topical, revue, variety, review, sketch, dance]
+MEDIA: 1.1119673398692005
+
+SYNSET{SID-06597758-N : Words[W-06597758-N-1-review]} | a periodical that publishes critical essays on current affairs or literature or art
+BOW: [literature, current, art, critical, review, periodical, publish, essay, affair]
+MEDIA: 1.7120192517284991
+
+SYNSET{SID-06469377-N : Words[W-06469377-N-1-recapitulation, W-06469377-N-2-recap, W-06469377-N-3-review]} | a summary at the end that repeats the substance of a longer discussion
+BOW: [summary, longer, review, repeat, substance, recapitulation, recap, end, discussion]
+MEDIA: 1.9837543168277654
+
+SYNSET{SID-01197258-N : Words[W-01197258-N-1-review]} | (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)
+BOW: [judicial, law, especially, review, appellate, reexamination, proceedings, court]
+MEDIA: 1.8485778589577724
+
+SYNSET{SID-00897811-N : Words[W-00897811-N-1-review, W-00897811-N-2-brushup]} | practice intended to polish performance or refresh the memory
+BOW: [practice, performance, memory, brushup, review, refresh, polish, intend]
+MEDIA: 1.2947116970220425
+
+SYNSET{SID-00879271-N : Words[W-00879271-N-1-inspection, W-00879271-N-2-review]} | a formal or official examination; "the platoon stood ready for review"; "we had to wait for the inspection before we could use the elevator"
+BOW: [formal, wait, elevator, review, ready, use, examination, official, stand, platoon, inspection]
+MEDIA: 1.5609539422615797
+
+
+----------
+NOME: Invited_Talk
+Desc: null
+Supers: [<http://ekaw#Individual_Presentation>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [presentation, individual, scientific, talk, invite, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#EducationalProcess>
+Synset selecionado: SYNSET{SID-00893243-N : Words[W-00893243-N-1-talk]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07135734-N : Words[W-07135734-N-1-talk, W-07135734-N-2-talking]} | an exchange of ideas via conversation; "let's have more work and less talk around here"
+BOW: [idea, work, talk, exchange, let, conversation]
+MEDIA: 1.7586910910904408
+
+SYNSET{SID-07139316-N : Words[W-07139316-N-1-talk]} | discussion; (`talk about' is a less formal alternative for `discussion of'); "his poetry contains much talk about love and anger"
+BOW: [`, formal, love, contain, alternative, talk, discussion, anger, poetry]
+MEDIA: 1.3495072508575738
+
+SYNSET{SID-00893243-N : Words[W-00893243-N-1-talk]} | the act of giving a talk to an audience; "I attended an interesting talk on local history"
+BOW: [give, audience, act, attend, interesting, talk, history, local]
+MEDIA: 1.8151146864208083
+
+SYNSET{SID-07240549-N : Words[W-07240549-N-1-lecture, W-07240549-N-2-public_lecture, W-07240549-N-3-talk]} | a speech that is open to the public; "he attended a lecture on telecommunications"
+BOW: [public, attend, speech, lecture, talk, open, telecommunications]
+MEDIA: 1.8014390947341565
+
+SYNSET{SID-07223985-N : Words[W-07223985-N-1-talk, W-07223985-N-2-talk_of_the_town]} | idle gossip or rumor; "there has been talk about you lately"
+BOW: [the, rumor, town, idle, of, talk, gossip, lately]
+MEDIA: 0.9616204172683259
+
+
+----------
+NOME: Flyer
+Desc: null
+Supers: [<http://ekaw#Document>]
+Subs: []
+Contexto: [flyer, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-10096217-N : Words[W-10096217-N-1-flier, W-10096217-N-2-flyer]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07250339-N : Words[W-07250339-N-1-circular, W-07250339-N-2-handbill, W-07250339-N-3-bill, W-07250339-N-4-broadside, W-07250339-N-5-broadsheet, W-07250339-N-6-flier, W-07250339-N-7-flyer, W-07250339-N-8-throwaway]} | an advertisement (usually printed on a page or in a leaflet) intended for wide distribution; "he mailed the circular to all subscribers"
+BOW: [flier, broadsheet, subscriber, wide, mail, bill, circular, distribution, handbill, broadside, flyer, print, throwaway, advertisement, usually, page, leaflet, intend]
+MEDIA: 2.529331513473557
+
+SYNSET{SID-10096217-N : Words[W-10096217-N-1-flier, W-10096217-N-2-flyer]} | someone who travels by air
+BOW: [flier, flyer, air, travel]
+MEDIA: 3.4180976264178753
+
+SYNSET{SID-09826204-N : Words[W-09826204-N-1-aviator, W-09826204-N-2-aeronaut, W-09826204-N-3-airman, W-09826204-N-4-flier, W-09826204-N-5-flyer]} | someone who operates an aircraft
+BOW: [flier, flyer, airman, operate, aviator, aircraft, aeronaut]
+MEDIA: 2.4083999544382095
+
+
+----------
+NOME: Tutorial_Abstract
+Desc: null
+Supers: [<http://ekaw#Abstract>, <http://ekaw#Document>]
+Subs: []
+Contexto: [document, abstract, tutorial]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Summary>
+Synset selecionado: SYNSET{SID-06468951-N : Words[W-06468951-N-1-outline, W-06468951-N-2-synopsis, W-06468951-N-3-abstract, W-06468951-N-4-precis]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05854150-N : Words[W-05854150-N-1-abstraction, W-05854150-N-2-abstract]} | a concept or idea not associated with any specific instance; "he loved her only in the abstract--not in person"
+BOW: [love, instance, idea, person, abstraction, concept, abstract, specific, associate]
+MEDIA: 1.9392013191504196
+
+SYNSET{SID-06468951-N : Words[W-06468951-N-1-outline, W-06468951-N-2-synopsis, W-06468951-N-3-abstract, W-06468951-N-4-precis]} | a sketchy summary of the main points of an argument or theory
+BOW: [summary, outline, argument, sketchy, main, synopsis, abstract, precis, point, theory]
+MEDIA: 2.2709816166510186
+
+
+----------
+NOME: Camera_Ready_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [paper, ready, document, camera]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Newspaper>
+Synset selecionado: SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.2607205666718073
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.4140918848311734
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.540982846278124
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.3039245168329217
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.4019407627611973
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.519940506259445
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.3286762872012332
+
+
+----------
+NOME: Individual_Presentation
+Desc: null
+Supers: [<http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: [<http://ekaw#Contributed_Talk>, <http://ekaw#Invited_Talk>, <http://ekaw#Tutorial>]
+Contexto: [presentation, individual, scientific, contribute, talk, invite, tutorial, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Requesting>
+Synset selecionado: SYNSET{SID-07167415-N : Words[W-07167415-N-1-presentation]}
+Conjunto de synsets recuperados:
+SYNSET{SID-01048697-N : Words[W-01048697-N-1-presentation]} | the activity of formally presenting something (as a prize or reward); "she gave the trophy but he made the presentation"
+BOW: [presentation, reward, give, activity, present, trophy, formally, prize]
+MEDIA: 1.4588370413912344
+
+SYNSET{SID-00521562-N : Words[W-00521562-N-1-presentation, W-00521562-N-2-presentment, W-00521562-N-3-demonstration]} | a show or display; the act of presenting something to sight or view; "the presentation of new data"; "he gave the customer a demonstration"
+BOW: [presentation, presentment, datum, new, give, view, act, display, sight, demonstration, present, customer]
+MEDIA: 1.2677848961902785
+
+SYNSET{SID-06891022-N : Words[W-06891022-N-1-presentation]} | the act of making something publicly available; presenting news or other information by broadcasting or printing it; "he prepared his presentation carefully in advance"
+BOW: [news, carefully, prepared, available, publicly, printing, broadcasting, advance, presentation, act, information, present, make]
+MEDIA: 1.3494226204672417
+
+SYNSET{SID-07167415-N : Words[W-07167415-N-1-presentation]} | the act of presenting a proposal
+BOW: [presentation, proposal, act, present]
+MEDIA: 1.8508795264642686
+
+SYNSET{SID-03210940-N : Words[W-03210940-N-1-display, W-03210940-N-2-presentation]} | a visual representation of something
+BOW: [presentation, display, visual, representation]
+MEDIA: 1.6207868710625917
+
+SYNSET{SID-07217349-N : Words[W-07217349-N-1-presentation, W-07217349-N-2-introduction, W-07217349-N-3-intro]} | formally making a person known to another or to the public
+BOW: [presentation, known, public, person, intro, formally, make, introduction]
+MEDIA: 1.3047856882258202
+
+SYNSET{SID-05081434-N : Words[W-05081434-N-1-presentation]} | (obstetrics) position of the fetus in the uterus relative to the birth canal; "Cesarean sections are sometimes the result of abnormal presentations"
+BOW: [presentation, result, uterus, cesarean, abnormal, birth, section, position, canal, obstetrics, fetus, relative]
+MEDIA: 0.6207442430604715
+
+
+----------
+NOME: Conference_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [conference, paper, document]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Newspaper>
+Synset selecionado: SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.5152438761045535
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.681137534927715
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 2.089214720882666
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.5214641004179914
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.810623064467853
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.8375848039674263
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.390031195866565
+
+
+----------
+NOME: Submitted_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: [<http://ekaw#Assigned_Paper>, <http://ekaw#Evaluated_Paper>, <http://ekaw#Accepted_Paper>, <http://ekaw#Rejected_Paper>]
+Contexto: [submit, paper, reject, document, evaluate, accept, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article>
+Synset selecionado: SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.0940361891740136
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.6376386586547136
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.3412077335773833
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.332454443727329
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.5162069947978893
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.4656350452319853
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.1660046090504952
+
+
+----------
+NOME: Student
+Desc: null
+Supers: [<http://ekaw#Person>]
+Subs: []
+Contexto: [student, person]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SocialRole>
+Synset selecionado: SYNSET{SID-10665698-N : Words[W-10665698-N-1-student, W-10665698-N-2-pupil, W-10665698-N-3-educatee]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10665698-N : Words[W-10665698-N-1-student, W-10665698-N-2-pupil, W-10665698-N-3-educatee]} | a learner who is enrolled in an educational institution
+BOW: [institution, educational, student, enrol, learner, educatee, pupil]
+MEDIA: 2.670279163867235
+
+SYNSET{SID-10557854-N : Words[W-10557854-N-1-scholar, W-10557854-N-2-scholarly_person, W-10557854-N-3-bookman, W-10557854-N-4-student]} | a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines
+BOW: [study, student, learn, bookman, discipline, scholar, long, gain, mastery, scholarly, humanities, especially, person]
+MEDIA: 2.1356392143150935
+
+
+----------
+NOME: Conference_Proceedings
+Desc: null
+Supers: [<http://ekaw#Proceedings>, <http://ekaw#Multi-author_Volume>, <http://ekaw#Document>]
+Subs: []
+Contexto: [volume, conference, multi-author, document, proceedings]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Text>
+Synset selecionado: SYNSET{SID-06508112-N : Words[W-06508112-N-1-minutes, W-06508112-N-2-proceedings, W-06508112-N-3-transactions]}
+Conjunto de synsets recuperados:
+SYNSET{SID-01184814-N : Words[W-01184814-N-1-proceeding, W-01184814-N-2-legal_proceeding, W-01184814-N-3-proceedings]} | (law) the institution of a sequence of steps by which legal judgments are invoked
+BOW: [institution, sequence, proceed, law, judgment, legal, step, invoke, proceedings]
+MEDIA: 1.165318629083534
+
+SYNSET{SID-06508112-N : Words[W-06508112-N-1-minutes, W-06508112-N-2-proceedings, W-06508112-N-3-transactions]} | a written account of what transpired at a meeting
+BOW: [transpire, proceedings, write, meeting, transaction, account, minute]
+MEDIA: 1.3227914534509182
+
+
+----------
+NOME: Poster_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [paper, document, poster]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Newspaper>
+Synset selecionado: SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.5719772707670927
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.9724320711705972
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 2.21476156431704
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.6362197790294886
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 2.0764492406989588
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.8905039945578512
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.473371169840296
+
+
+----------
+NOME: Programme_Brochure
+Desc: null
+Supers: [<http://ekaw#Document>]
+Subs: []
+Contexto: [brochure, document, programme]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Book>
+Synset selecionado: SYNSET{SID-06413889-N : Words[W-06413889-N-1-booklet, W-06413889-N-2-brochure, W-06413889-N-3-folder, W-06413889-N-4-leaflet, W-06413889-N-5-pamphlet]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06413889-N : Words[W-06413889-N-1-booklet, W-06413889-N-2-brochure, W-06413889-N-3-folder, W-06413889-N-4-leaflet, W-06413889-N-5-pamphlet]} | a small book usually having a paper cover
+BOW: [small, cover, brochure, folder, paper, book, have, booklet, usually, leaflet, pamphlet]
+MEDIA: 2.268938080435901
+
+
+----------
+NOME: Organisation
+Desc: null
+Supers: []
+Subs: [<http://ekaw#Academic_Institution>, <http://ekaw#Research_Institute>, <http://ekaw#University>, <http://ekaw#Organising_Agency>, <http://ekaw#Proceedings_Publisher>]
+Contexto: [institution, agency, university, academic, organisation, publisher, institute, proceedings, organise, research]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization>
+Synset selecionado: SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08164585-N : Words[W-08164585-N-1-administration, W-08164585-N-2-governance, W-08164585-N-3-governing_body, W-08164585-N-4-establishment, W-08164585-N-5-brass, W-08164585-N-6-organization, W-08164585-N-7-organisation]} | the persons (or committees or departments etc.) who make up a body for the purpose of administering something; "he claims that the present administration is corrupt"; "the governance of an association is responsible to its members"; "he quickly became recognized as a member of the establishment"
+BOW: [committee, corrupt, govern, purpose, administration, quickly, organisation, association, establishment, brass, body, recognize, person, organization, responsible, administer, member, claim, department, present, make, governance]
+MEDIA: 0.9195684535741087
+
+SYNSET{SID-08008335-N : Words[W-08008335-N-1-organization, W-08008335-N-2-organisation]} | a group of people who work together
+BOW: [work, organization, organisation, people, group]
+MEDIA: 1.0255685955053195
+
+SYNSET{SID-05726596-N : Words[W-05726596-N-1-arrangement, W-05726596-N-2-organization, W-05726596-N-3-organisation, W-05726596-N-4-system]} | an organized structure for arranging or classifying; "he changed the arrangement of the topics"; "the facts were familiar but it was in the organization of them that he was original"; "he tried to understand their system of classification"
+BOW: [classify, fact, original, change, understand, organisation, familiar, classification, structure, arrangement, system, organize, arrange, organization, topic, try]
+MEDIA: 0.6375029674964026
+
+SYNSET{SID-04768657-N : Words[W-04768657-N-1-organization, W-04768657-N-2-organisation, W-04768657-N-3-system]} | an ordered manner; orderliness by virtue of being methodical and well organized; "his compulsive organization was not an endearing quality"; "we can't do it unless we establish some system around here"
+BOW: [organisation, manner, establish, quality, compulsive, endearing, system, organize, unless, organization, methodical, virtue, orderliness, order]
+MEDIA: 0.6799318018851668
+
+SYNSET{SID-01136519-N : Words[W-01136519-N-1-organization, W-01136519-N-2-organisation]} | the act of organizing a business or an activity related to a business; "he was brought in to supervise the organization of a new department"
+BOW: [new, act, business, activity, related, organize, organization, bring, supervise, organisation, department]
+MEDIA: 0.9341457615902817
+
+SYNSET{SID-01008378-N : Words[W-01008378-N-1-organization, W-01008378-N-2-organisation]} | the activity or result of distributing or disposing persons or things properly or methodically; "his organization of the work force was very efficient"
+BOW: [methodically, activity, efficient, work, organisation, result, properly, person, organization, dispose, force, distribute, thing]
+MEDIA: 0.6435258371997267
+
+SYNSET{SID-00237078-N : Words[W-00237078-N-1-constitution, W-00237078-N-2-establishment, W-00237078-N-3-formation, W-00237078-N-4-organization, W-00237078-N-5-organisation]} | the act of forming or establishing something; "the constitution of a PTA group last year"; "it was the establishment of his reputation"; "he still remembers the organization of the club"
+BOW: [constitution, year, organisation, reputation, establishment, formation, establish, remember, act, form, organization, club, pta, group]
+MEDIA: 0.7596855354037999
+
+
+----------
+NOME: Invited_Talk_Abstract
+Desc: null
+Supers: [<http://ekaw#Abstract>, <http://ekaw#Document>]
+Subs: []
+Contexto: [document, talk, invite, abstract]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Abstract>
+Synset selecionado: SYNSET{SID-05854150-N : Words[W-05854150-N-1-abstraction, W-05854150-N-2-abstract]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05854150-N : Words[W-05854150-N-1-abstraction, W-05854150-N-2-abstract]} | a concept or idea not associated with any specific instance; "he loved her only in the abstract--not in person"
+BOW: [love, instance, idea, person, abstraction, concept, abstract, specific, associate]
+MEDIA: 1.7368580887624476
+
+SYNSET{SID-06468951-N : Words[W-06468951-N-1-outline, W-06468951-N-2-synopsis, W-06468951-N-3-abstract, W-06468951-N-4-precis]} | a sketchy summary of the main points of an argument or theory
+BOW: [summary, outline, argument, sketchy, main, synopsis, abstract, precis, point, theory]
+MEDIA: 1.6342809320776723
+
+
+----------
+NOME: Regular_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [paper, document, regular]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Newspaper>
+Synset selecionado: SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.7236755013776321
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.771489701371778
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 2.220330653855434
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.6038219987725217
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.8720343330818594
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.8456744491898764
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.5228070886805654
+
+
+----------
+NOME: Scientific_Event
+Desc: null
+Supers: [<http://ekaw#Event>]
+Subs: [<http://ekaw#Conference>, <http://ekaw#Individual_Presentation>, <http://ekaw#Contributed_Talk>, <http://ekaw#Invited_Talk>, <http://ekaw#Tutorial>, <http://ekaw#Session>, <http://ekaw#Conference_Session>, <http://ekaw#Industrial_Session>, <http://ekaw#Demo_Session>, <http://ekaw#Poster_Session>, <http://ekaw#Regular_Session>, <http://ekaw#Workshop_Session>, <http://ekaw#Track>, <http://ekaw#Workshop>]
+Contexto: [conference, individual, session, workshop, scientific, contribute, demo, presentation, industrial, talk, invite, tutorial, event, track, poster, regular]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.3735043697524816
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 1.0128851861773
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.9122450352875452
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.8161788233878724
+
+
+----------
+NOME: Paper
+Desc: null
+Supers: [<http://ekaw#Document>]
+Subs: [<http://ekaw#Camera_Ready_Paper>, <http://ekaw#Conference_Paper>, <http://ekaw#Demo_Paper>, <http://ekaw#Industrial_Paper>, <http://ekaw#Poster_Paper>, <http://ekaw#Regular_Paper>, <http://ekaw#Submitted_Paper>, <http://ekaw#Assigned_Paper>, <http://ekaw#Evaluated_Paper>, <http://ekaw#Accepted_Paper>, <http://ekaw#Rejected_Paper>, <http://ekaw#Workshop_Paper>]
+Contexto: [conference, submit, workshop, document, demo, accept, industrial, paper, reject, ready, camera, evaluate, poster, regular, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article>
+Synset selecionado: SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 0.8378047604424258
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.2124885263059426
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.102820338236574
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.0123323978938668
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 0.9930147609468831
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.0594781533824669
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 0.9229689216280046
+
+
+----------
+NOME: Track
+Desc: null
+Supers: [<http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [scientific, event, track]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#StationaryArtifact>
+Synset selecionado: SYNSET{SID-04037625-N : Words[W-04037625-N-1-racetrack, W-04037625-N-2-racecourse, W-04037625-N-3-raceway, W-04037625-N-4-track]}
+Conjunto de synsets recuperados:
+SYNSET{SID-09387222-N : Words[W-09387222-N-1-path, W-09387222-N-2-track, W-09387222-N-3-course]} | a line or route along which something travels or moves; "the hurricane demolished houses in its path"; "the track of an animal"; "the course of the river"
+BOW: [path, move, route, line, course, animal, hurricane, river, track, travel, house, demolish]
+MEDIA: 1.278735061383082
+
+SYNSET{SID-05826914-N : Words[W-05826914-N-1-lead, W-05826914-N-2-track, W-05826914-N-3-trail]} | evidence pointing to a possible solution; "the police are following a promising lead"; "the trail led straight to the perpetrator"
+BOW: [straight, trail, police, evidence, solution, perpetrator, possible, track, follow, lead, point, promising]
+MEDIA: 1.159874363608348
+
+SYNSET{SID-04463983-N : Words[W-04463983-N-1-track]} | a pair of parallel rails providing a runway for wheels
+BOW: [provide, parallel, wheel, rail, runway, track, pair]
+MEDIA: 1.436704694781275
+
+SYNSET{SID-04037625-N : Words[W-04037625-N-1-racetrack, W-04037625-N-2-racecourse, W-04037625-N-3-raceway, W-04037625-N-4-track]} | a course over which races are run
+BOW: [raceway, racecourse, race, course, run, track, racetrack]
+MEDIA: 2.4441109278372353
+
+SYNSET{SID-06612865-N : Words[W-06612865-N-1-cut, W-06612865-N-2-track]} | a distinct selection of music from a recording or a compact disc; "he played the first cut on the cd"; "the title track of the album"
+BOW: [play, cd, cut, music, selection, compact, album, record, distinct, disc, track, title]
+MEDIA: 1.1173476898370105
+
+SYNSET{SID-04464418-N : Words[W-04464418-N-1-track, W-04464418-N-2-caterpillar_track, W-04464418-N-3-caterpillar_tread]} | an endless metal belt on which tracked vehicles move over the ground
+BOW: [caterpillar, tread, belt, metal, endless, ground, track, vehicle]
+MEDIA: 1.0384816499815013
+
+SYNSET{SID-04464211-N : Words[W-04464211-N-1-track, W-04464211-N-2-data_track]} | (computer science) one of the circular magnetic paths on a magnetic disk that serve as a guide for writing and reading data
+BOW: [datum, path, disk, science, magnetic, reading, circular, serve, track, write, guide]
+MEDIA: 1.2858895233578302
+
+SYNSET{SID-04464125-N : Words[W-04464125-N-1-track]} | a groove on a phonograph recording
+BOW: [groove, recording, track, phonograph]
+MEDIA: 1.5815519908210263
+
+SYNSET{SID-04463679-N : Words[W-04463679-N-1-track, W-04463679-N-2-rail, W-04463679-N-3-rails, W-04463679-N-4-runway]} | a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll
+BOW: [steel, railroad, rail, roll, runway, pair, vehicle, bar, parallel, car, railway, track, make]
+MEDIA: 1.1280386477040174
+
+SYNSET{SID-04463510-N : Words[W-04463510-N-1-track, W-04463510-N-2-cart_track, W-04463510-N-3-cartroad]} | any road or path affording passage especially a rough one
+BOW: [cartroad, path, afford, rough, passage, especially, road, track, cart]
+MEDIA: 1.0539810737181041
+
+SYNSET{SID-00440039-N : Words[W-00440039-N-1-track, W-00440039-N-2-running]} | the act of participating in an athletic competition involving running on a track
+BOW: [act, participate, run, competition, involve, track, athletic]
+MEDIA: 1.6276527071992557
+
+
+----------
+NOME: Early-Registered_Participant
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, person, early-registered, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10401829-N : Words[W-10401829-N-1-participant]} | someone who takes part in an activity
+BOW: [take, activity, part, participant]
+MEDIA: 1.6749721625819802
+
+SYNSET{SID-10439851-N : Words[W-10439851-N-1-player, W-10439851-N-2-participant]} | a person who participates in or is skilled at some game
+BOW: [game, participate, person, skilled, participant, player]
+MEDIA: 2.0715476308638854
+
+
+----------
+NOME: Multi-author_Volume
+Desc: null
+Supers: [<http://ekaw#Document>]
+Subs: [<http://ekaw#Proceedings>, <http://ekaw#Conference_Proceedings>]
+Contexto: [volume, conference, multi-author, document, proceedings]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Book>
+Synset selecionado: SYNSET{SID-02870092-N : Words[W-02870092-N-1-book, W-02870092-N-2-volume]}
+Conjunto de synsets recuperados:
+SYNSET{SID-13779032-N : Words[W-13779032-N-1-volume]} | the amount of 3-dimensional space occupied by an object; "the gas expanded to twice its original volume"
+BOW: [volume, expand, twice, 3, original, dimensional, occupy, gas, space, object]
+MEDIA: 0.5568544482346625
+
+SYNSET{SID-05099389-N : Words[W-05099389-N-1-bulk, W-05099389-N-2-mass, W-05099389-N-3-volume]} | the property of something that is great in magnitude; "it is cheaper to buy it in bulk"; "he received a mass of correspondence"; "the volume of exports"
+BOW: [volume, cheaper, receive, correspondence, mass, buy, property, magnitude, bulk, great, export]
+MEDIA: 0.8001310940916564
+
+SYNSET{SID-02870092-N : Words[W-02870092-N-1-book, W-02870092-N-2-volume]} | physical objects consisting of a number of pages bound together; "he used a large book as a doorstop"
+BOW: [volume, number, bind, large, use, book, page, physical, object, consist, doorstop]
+MEDIA: 0.8831274571235884
+
+SYNSET{SID-06413666-N : Words[W-06413666-N-1-volume]} | a publication that is one of a set of several similar publications; "the third volume was missing"; "he asked for the 1989 volume of the Annual Review"
+BOW: [volume, similar, set, review, publication, ask, annual, 1989, miss]
+MEDIA: 0.8462731438792414
+
+SYNSET{SID-13779244-N : Words[W-13779244-N-1-volume]} | a relative amount; "mix one volume of the solution with ten volumes of water"
+BOW: [volume, solution, mix, water, relative]
+MEDIA: 0.8455963721964508
+
+SYNSET{SID-04990220-N : Words[W-04990220-N-1-volume, W-04990220-N-2-loudness, W-04990220-N-3-intensity]} | the magnitude of sound (usually in a specified direction); "the kids played their music at full volume"
+BOW: [volume, intensity, play, music, loudness, sound, kid, specify, magnitude, usually, direction]
+MEDIA: 0.6964686868542974
+
+
+----------
+NOME: Organising_Agency
+Desc: null
+Supers: [<http://ekaw#Organisation>]
+Subs: []
+Contexto: [agency, organisation, organise]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Agency>
+Synset selecionado: SYNSET{SID-08057206-N : Words[W-08057206-N-1-agency]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08337324-N : Words[W-08337324-N-1-agency, W-08337324-N-2-federal_agency, W-08337324-N-3-government_agency, W-08337324-N-4-bureau, W-08337324-N-5-office, W-08337324-N-6-authority]} | an administrative unit of government; "the Central Intelligence Agency"; "the Census Bureau"; "Office of Management and Budget"; "Tennessee Valley Authority"
+BOW: [agency, office, intelligence, unit, government, central, tennessee, management, administrative, authority, census, federal, valley, bureau, budget]
+MEDIA: 0.9904513919932975
+
+SYNSET{SID-08057206-N : Words[W-08057206-N-1-agency]} | a business that serves other businesses
+BOW: [agency, business, serve]
+MEDIA: 1.3056154031720426
+
+SYNSET{SID-14007546-N : Words[W-14007546-N-1-agency]} | the state of being in action or exerting power; "the agency of providence"; "she has free agency"
+BOW: [exert, agency, providence, action, state, power, free]
+MEDIA: 0.8182988315820694
+
+SYNSET{SID-14000403-N : Words[W-14000403-N-1-representation, W-14000403-N-2-delegacy, W-14000403-N-3-agency]} | the state of serving as an official and authorized delegate or agent
+BOW: [delegate, agent, agency, official, state, serve, representation, authorize, delegacy]
+MEDIA: 0.9298100067233598
+
+SYNSET{SID-00172710-N : Words[W-00172710-N-1-means, W-00172710-N-2-agency, W-00172710-N-3-way]} | how a result is obtained or an end is achieved; "a means of control"; "an example is the best agency of instruction"; "the true way to success"
+BOW: [obtain, means, agency, achieve, control, best, way, example, result, instruction, success, true, end]
+MEDIA: 0.4315711750995177
+
+
+----------
+NOME: OC_Member
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>]
+Subs: [<http://ekaw#OC_Chair>]
+Contexto: [conference, oc, chair, person, member, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#GroupOfPeople>
+Synset selecionado: SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]} | one of the persons who compose a social group (especially individuals who have joined and participate in a group organization); "only members will be admitted"; "a member of the faculty"; "she was introduced to all the members of his family"
+BOW: [participate, individual, social, introduce, faculty, admit, especially, compose, person, fellow, organization, member, join, family, group]
+MEDIA: 1.3734748487024462
+
+SYNSET{SID-13810615-N : Words[W-13810615-N-1-member]} | anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+BOW: [belong, set, sex, member, snake, opposite, reptilia, class]
+MEDIA: 0.8908744702542511
+
+SYNSET{SID-05559908-N : Words[W-05559908-N-1-extremity, W-05559908-N-2-appendage, W-05559908-N-3-member]} | an external body part that projects from the body; "it is important to keep the extremities warm"
+BOW: [important, external, warm, appendage, part, member, project, body, extremity]
+MEDIA: 1.157904443917451
+
+SYNSET{SID-08170686-N : Words[W-08170686-N-1-member]} | an organization that is a member of another organization (especially a state that belongs to a group of nations); "the library was a member of the interlibrary loan association"; "Canada is a member of the United Nations"
+BOW: [loan, belong, nation, unite, interlibrary, association, library, especially, canada, organization, member, state, group]
+MEDIA: 1.0674582654461027
+
+SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]} | the male organ of copulation (`member' is a euphemism)
+BOW: [organ, `, copulation, member, penis, phallus, male, euphemism]
+MEDIA: 1.1561001255783292
+
+
+----------
+NOME: Agency_Staff_Member
+Desc: null
+Supers: [<http://ekaw#Person>]
+Subs: []
+Contexto: [agency, person, member, staff]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#GroupOfPeople>
+Synset selecionado: SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]} | one of the persons who compose a social group (especially individuals who have joined and participate in a group organization); "only members will be admitted"; "a member of the faculty"; "she was introduced to all the members of his family"
+BOW: [participate, individual, social, introduce, faculty, admit, especially, compose, person, fellow, organization, member, join, family, group]
+MEDIA: 1.6883140056136956
+
+SYNSET{SID-13810615-N : Words[W-13810615-N-1-member]} | anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+BOW: [belong, set, sex, member, snake, opposite, reptilia, class]
+MEDIA: 0.9223655605819658
+
+SYNSET{SID-05559908-N : Words[W-05559908-N-1-extremity, W-05559908-N-2-appendage, W-05559908-N-3-member]} | an external body part that projects from the body; "it is important to keep the extremities warm"
+BOW: [important, external, warm, appendage, part, member, project, body, extremity]
+MEDIA: 1.2259780566415026
+
+SYNSET{SID-08170686-N : Words[W-08170686-N-1-member]} | an organization that is a member of another organization (especially a state that belongs to a group of nations); "the library was a member of the interlibrary loan association"; "Canada is a member of the United Nations"
+BOW: [loan, belong, nation, unite, interlibrary, association, library, especially, canada, organization, member, state, group]
+MEDIA: 1.4548878371715546
+
+SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]} | the male organ of copulation (`member' is a euphemism)
+BOW: [organ, `, copulation, member, penis, phallus, male, euphemism]
+MEDIA: 0.937947604816145
+
+
+----------
+NOME: Research_Topic
+Desc: null
+Supers: []
+Subs: []
+Contexto: [topic, research]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Proposition>
+Synset selecionado: SYNSET{SID-06599788-N : Words[W-06599788-N-1-subject, W-06599788-N-2-topic, W-06599788-N-3-theme]}
+Conjunto de synsets recuperados:
+SYNSET{SID-06599788-N : Words[W-06599788-N-1-subject, W-06599788-N-2-topic, W-06599788-N-3-theme]} | the subject matter of a conversation or discussion; "he didn't want to discuss that subject"; "it was a very sensitive topic"; "his letters were always on the theme of love"
+BOW: [love, subject, didnt, want, letter, topic, theme, discussion, sensitive, matter, conversation, discuss]
+MEDIA: 2.078726685916384
+
+SYNSET{SID-05814291-N : Words[W-05814291-N-1-topic, W-05814291-N-2-subject, W-05814291-N-3-issue, W-05814291-N-4-matter]} | some situation or event that is thought about; "he kept drifting off the topic"; "he had been thinking about the subject for several years"; "it is a matter for the police"
+BOW: [think, police, issue, year, subject, keep, topic, matter, event, situation, drift]
+MEDIA: 1.8855949796058913
+
+
+----------
+NOME: Paper_Author
+Desc: null
+Supers: [<http://ekaw#Person>]
+Subs: []
+Contexto: [paper, author, person]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10794014-N : Words[W-10794014-N-1-writer, W-10794014-N-2-author]} | writes (books or stories or articles or the like) professionally (for pay)
+BOW: [like, author, book, pay, writer, write, professionally, article, story]
+MEDIA: 2.157091483025363
+
+SYNSET{SID-10126177-N : Words[W-10126177-N-1-generator, W-10126177-N-2-source, W-10126177-N-3-author]} | someone who originates or causes or initiates something; "he was the generator of several complaints"
+BOW: [initiate, originate, complaint, author, generator, cause, source]
+MEDIA: 1.4903732167468184
+
+
+----------
+NOME: Contributed_Talk
+Desc: null
+Supers: [<http://ekaw#Individual_Presentation>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [presentation, individual, scientific, contribute, talk, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#EducationalProcess>
+Synset selecionado: SYNSET{SID-00893243-N : Words[W-00893243-N-1-talk]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07135734-N : Words[W-07135734-N-1-talk, W-07135734-N-2-talking]} | an exchange of ideas via conversation; "let's have more work and less talk around here"
+BOW: [idea, work, talk, exchange, let, conversation]
+MEDIA: 1.6623886033064792
+
+SYNSET{SID-07139316-N : Words[W-07139316-N-1-talk]} | discussion; (`talk about' is a less formal alternative for `discussion of'); "his poetry contains much talk about love and anger"
+BOW: [`, formal, love, contain, alternative, talk, discussion, anger, poetry]
+MEDIA: 1.220964658488002
+
+SYNSET{SID-00893243-N : Words[W-00893243-N-1-talk]} | the act of giving a talk to an audience; "I attended an interesting talk on local history"
+BOW: [give, audience, act, attend, interesting, talk, history, local]
+MEDIA: 1.6917598818448216
+
+SYNSET{SID-07240549-N : Words[W-07240549-N-1-lecture, W-07240549-N-2-public_lecture, W-07240549-N-3-talk]} | a speech that is open to the public; "he attended a lecture on telecommunications"
+BOW: [public, attend, speech, lecture, talk, open, telecommunications]
+MEDIA: 1.6410646909138278
+
+SYNSET{SID-07223985-N : Words[W-07223985-N-1-talk, W-07223985-N-2-talk_of_the_town]} | idle gossip or rumor; "there has been talk about you lately"
+BOW: [the, rumor, town, idle, of, talk, gossip, lately]
+MEDIA: 0.8528000519921383
+
+
+----------
+NOME: Demo_Session
+Desc: null
+Supers: [<http://ekaw#Session>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [session, scientific, event, demo]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+MEDIA: 1.7395928129553795
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+MEDIA: 1.2161987752193681
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+MEDIA: 1.5741559373314624
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+MEDIA: 1.419756819086615
+
+
+----------
+NOME: Session
+Desc: null
+Supers: [<http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: [<http://ekaw#Conference_Session>, <http://ekaw#Industrial_Session>, <http://ekaw#Demo_Session>, <http://ekaw#Poster_Session>, <http://ekaw#Regular_Session>, <http://ekaw#Workshop_Session>]
+Contexto: [industrial, conference, session, workshop, scientific, event, poster, demo, regular]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+MEDIA: 1.5693310807858194
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+MEDIA: 1.1676625957870277
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+MEDIA: 1.462582854853411
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+MEDIA: 1.4249105059490021
+
+
+----------
+NOME: SC_Member
+Desc: null
+Supers: [<http://ekaw#PC_Member>, <http://ekaw#Possible_Reviewer>, <http://ekaw#Person>]
+Subs: []
+Contexto: [sc, pc, person, member, possible, reviewer]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organ>
+Synset selecionado: SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10307234-N : Words[W-10307234-N-1-member, W-10307234-N-2-fellow_member]} | one of the persons who compose a social group (especially individuals who have joined and participate in a group organization); "only members will be admitted"; "a member of the faculty"; "she was introduced to all the members of his family"
+BOW: [participate, individual, social, introduce, faculty, admit, especially, compose, person, fellow, organization, member, join, family, group]
+MEDIA: 1.1118037675947157
+
+SYNSET{SID-13810615-N : Words[W-13810615-N-1-member]} | anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+BOW: [belong, set, sex, member, snake, opposite, reptilia, class]
+MEDIA: 0.6962276491200706
+
+SYNSET{SID-05559908-N : Words[W-05559908-N-1-extremity, W-05559908-N-2-appendage, W-05559908-N-3-member]} | an external body part that projects from the body; "it is important to keep the extremities warm"
+BOW: [important, external, warm, appendage, part, member, project, body, extremity]
+MEDIA: 1.0249396368292056
+
+SYNSET{SID-08170686-N : Words[W-08170686-N-1-member]} | an organization that is a member of another organization (especially a state that belongs to a group of nations); "the library was a member of the interlibrary loan association"; "Canada is a member of the United Nations"
+BOW: [loan, belong, nation, unite, interlibrary, association, library, especially, canada, organization, member, state, group]
+MEDIA: 0.9735978693396854
+
+SYNSET{SID-05526384-N : Words[W-05526384-N-1-penis, W-05526384-N-2-phallus, W-05526384-N-3-member]} | the male organ of copulation (`member' is a euphemism)
+BOW: [organ, `, copulation, member, penis, phallus, male, euphemism]
+MEDIA: 1.1692607172759988
+
+
+----------
+NOME: Accepted_Paper
+Desc: "Accepted paper to become part of proceedings. 
+Note that camera-ready paper is not considered as 'accepted paper', as it was accepted in a different form!"
+Supers: [<http://ekaw#Evaluated_Paper>, <http://ekaw#Assigned_Paper>, <http://ekaw#Submitted_Paper>, <http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [note, submit, part, document, accept, paper, form, camera-ready, consider, proceedings, different, evaluate, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article>
+Synset selecionado: SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 0.934574941952283
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.421867530936232
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.0759209635799762
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.128541140354243
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.250348572547619
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.0994655504999593
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 0.9413290168472136
+
+
+----------
+NOME: Academic_Institution
+Desc: null
+Supers: [<http://ekaw#Organisation>]
+Subs: [<http://ekaw#Research_Institute>, <http://ekaw#University>]
+Contexto: [institution, university, academic, organisation, institute, research]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization>
+Synset selecionado: SYNSET{SID-08053576-N : Words[W-08053576-N-1-institution, W-08053576-N-2-establishment]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08053576-N : Words[W-08053576-N-1-institution, W-08053576-N-2-establishment]} | an organization founded and united for a specific purpose
+BOW: [institution, found, unite, purpose, organization, establishment, specific]
+MEDIA: 1.6400541555846022
+
+SYNSET{SID-03574555-N : Words[W-03574555-N-1-institution]} | an establishment consisting of a building or complex of buildings where an organization for the promotion of some cause is situated
+BOW: [institution, complex, organization, cause, situate, establishment, building, consist, promotion]
+MEDIA: 1.4574281174551558
+
+SYNSET{SID-05669350-N : Words[W-05669350-N-1-institution]} | a custom that for a long time has been an important feature of some group or society; "the institution of marriage"; "the institution of slavery"; "he had become an institution in the theater"
+BOW: [important, institution, society, feature, marriage, theater, custom, slavery, time, long, group]
+MEDIA: 1.1893121745776045
+
+SYNSET{SID-00240184-N : Words[W-00240184-N-1-initiation, W-00240184-N-2-founding, W-00240184-N-3-foundation, W-00240184-N-4-institution, W-00240184-N-5-origination, W-00240184-N-6-creation, W-00240184-N-7-innovation, W-00240184-N-8-introduction, W-00240184-N-9-instauration]} | the act of starting something for the first time; introducing something new; "she looked forward to her initiation as an adult"; "the foundation of a new scientific society"
+BOW: [innovation, new, introduce, forward, scientific, start, foundation, look, founding, institution, society, initiation, act, origination, time, adult, creation, introduction, instauration]
+MEDIA: 1.1612124113864346
+
+SYNSET{SID-03746574-N : Words[W-03746574-N-1-mental_hospital, W-03746574-N-2-psychiatric_hospital, W-03746574-N-3-mental_institution, W-03746574-N-4-institution, W-03746574-N-5-mental_home, W-03746574-N-6-insane_asylum, W-03746574-N-7-asylum]} | a hospital for mentally incompetent or unbalanced person
+BOW: [psychiatric, institution, person, incompetent, mental, insane, hospital, mentally, unbalanced, asylum, home]
+MEDIA: 1.2173050248318098
+
+
+----------
+NOME: OC_Chair
+Desc: null
+Supers: [<http://ekaw#OC_Member>, <http://ekaw#Conference_Participant>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, oc, chair, person, member, participant]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 1.8057110733287927
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.3033485146505492
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 2.008534153133179
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 0.9917808284773768
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.2034869286516268
+
+
+----------
+NOME: Social_Event
+Desc: null
+Supers: [<http://ekaw#Event>]
+Subs: [<http://ekaw#Conference_Banquet>, <http://ekaw#Conference_Trip>]
+Contexto: [conference, trip, social, banquet, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.8090641751885415
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 1.3877518272027374
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.9735304227773062
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.7850775822880678
+
+
+----------
+NOME: Event
+Desc: null
+Supers: []
+Subs: [<http://ekaw#Scientific_Event>, <http://ekaw#Conference>, <http://ekaw#Individual_Presentation>, <http://ekaw#Contributed_Talk>, <http://ekaw#Invited_Talk>, <http://ekaw#Tutorial>, <http://ekaw#Session>, <http://ekaw#Conference_Session>, <http://ekaw#Industrial_Session>, <http://ekaw#Demo_Session>, <http://ekaw#Poster_Session>, <http://ekaw#Regular_Session>, <http://ekaw#Workshop_Session>, <http://ekaw#Track>, <http://ekaw#Workshop>, <http://ekaw#Social_Event>, <http://ekaw#Conference_Banquet>, <http://ekaw#Conference_Trip>]
+Contexto: [conference, individual, social, session, workshop, scientific, contribute, banquet, demo, presentation, industrial, trip, talk, invite, tutorial, event, track, poster, regular]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00029378-N : Words[W-00029378-N-1-event]} | something that happens at a given place and time
+BOW: [happen, give, place, time, event]
+MEDIA: 1.366723947423069
+
+SYNSET{SID-13943400-N : Words[W-13943400-N-1-event, W-13943400-N-2-case]} | a special set of circumstances; "in that event, the first possibility is excluded"; "it may rain in which case the picnic will be canceled"
+BOW: [special, cancel, rain, set, circumstance, exclude, picnic, event, possibility, case]
+MEDIA: 1.0353951146060258
+
+SYNSET{SID-11453860-N : Words[W-11453860-N-1-event]} | a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory
+BOW: [single, observational, relativity, located, fundamental, phenomenon, time, event, point, space, entity, theory]
+MEDIA: 0.8973827522771769
+
+SYNSET{SID-11410625-N : Words[W-11410625-N-1-consequence, W-11410625-N-2-effect, W-11410625-N-3-outcome, W-11410625-N-4-result, W-11410625-N-5-event, W-11410625-N-6-issue, W-11410625-N-7-upshot]} | a phenomenon that follows and is caused by some previous phenomenon; "the magnetic effect was greater when the rod was lengthwise"; "his decision had depressing consequences for business"; "he acted very wise after the event"
+BOW: [consequence, issue, previous, decision, business, rod, lengthwise, cause, phenomenon, follow, result, upshot, act, wise, effect, magnetic, event, greater, depressing, outcome]
+MEDIA: 0.7903323921181207
+
+
+----------
+NOME: Conference_Banquet
+Desc: null
+Supers: [<http://ekaw#Social_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [conference, social, banquet, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Meeting>
+Synset selecionado: SYNSET{SID-08253640-N : Words[W-08253640-N-1-banquet, W-08253640-N-2-feast]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08253640-N : Words[W-08253640-N-1-banquet, W-08253640-N-2-feast]} | a ceremonial dinner party for many people
+BOW: [banquet, ceremonial, dinner, people, party, feast]
+MEDIA: 2.5052176974713802
+
+SYNSET{SID-07578093-N : Words[W-07578093-N-1-banquet, W-07578093-N-2-feast, W-07578093-N-3-spread]} | a meal that is well prepared and greatly enjoyed; "a banquet for the graduating seniors"; "the Thanksgiving feast"; "they put out quite a spread"
+BOW: [meal, senior, thanksgive, prepared, graduate, banquet, enjoy, quite, greatly, feast, spread]
+MEDIA: 1.3266832171873169
+
+
+----------
+NOME: Review
+Desc: null
+Supers: [<http://ekaw#Document>]
+Subs: [<http://ekaw#Negative_Review>, <http://ekaw#Neutral_Review>, <http://ekaw#Positive_Review>]
+Contexto: [negative, review, document, neutral, positive]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing>
+Synset selecionado: SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]} | a new appraisal or evaluation
+BOW: [evaluation, new, review, appraisal, reassessment, revaluation, reappraisal]
+MEDIA: 2.130423417048795
+
+SYNSET{SID-06410391-N : Words[W-06410391-N-1-review, W-06410391-N-2-critique, W-06410391-N-3-critical_review, W-06410391-N-4-review_article]} | an essay or article that gives a critical evaluation (as of a book or play)
+BOW: [evaluation, play, give, critical, review, book, essay, critique, article]
+MEDIA: 1.665488824248314
+
+SYNSET{SID-00143251-N : Words[W-00143251-N-1-follow-up, W-00143251-N-2-followup, W-00143251-N-3-reexamination, W-00143251-N-4-review]} | a subsequent examination of a patient for the purpose of monitoring earlier treatment
+BOW: [follow-up, followup, treatment, earlier, purpose, review, patient, examination, subsequent, reexamination, monitoring]
+MEDIA: 1.3113034222359683
+
+SYNSET{SID-13411533-N : Words[W-13411533-N-1-review, W-13411533-N-2-limited_review]} | (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+BOW: [datum, limited, financial, reliability, accounting, assurance, provide, review, service, audit, exhaustive, interested, party]
+MEDIA: 1.2231011144971349
+
+SYNSET{SID-07019866-N : Words[W-07019866-N-1-revue, W-07019866-N-2-review]} | a variety show with topical sketches and songs and dancing and comedians
+BOW: [song, comedian, topical, revue, variety, review, sketch, dance]
+MEDIA: 0.8848848751222249
+
+SYNSET{SID-06597758-N : Words[W-06597758-N-1-review]} | a periodical that publishes critical essays on current affairs or literature or art
+BOW: [literature, current, art, critical, review, periodical, publish, essay, affair]
+MEDIA: 1.40615746151242
+
+SYNSET{SID-06469377-N : Words[W-06469377-N-1-recapitulation, W-06469377-N-2-recap, W-06469377-N-3-review]} | a summary at the end that repeats the substance of a longer discussion
+BOW: [summary, longer, review, repeat, substance, recapitulation, recap, end, discussion]
+MEDIA: 1.6506643721626866
+
+SYNSET{SID-01197258-N : Words[W-01197258-N-1-review]} | (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)
+BOW: [judicial, law, especially, review, appellate, reexamination, proceedings, court]
+MEDIA: 1.3555685535538942
+
+SYNSET{SID-00897811-N : Words[W-00897811-N-1-review, W-00897811-N-2-brushup]} | practice intended to polish performance or refresh the memory
+BOW: [practice, performance, memory, brushup, review, refresh, polish, intend]
+MEDIA: 1.0250292266428005
+
+SYNSET{SID-00879271-N : Words[W-00879271-N-1-inspection, W-00879271-N-2-review]} | a formal or official examination; "the platoon stood ready for review"; "we had to wait for the inspection before we could use the elevator"
+BOW: [formal, wait, elevator, review, ready, use, examination, official, stand, platoon, inspection]
+MEDIA: 1.198494169247252
+
+
+----------
+NOME: Invited_Speaker
+Desc: null
+Supers: [<http://ekaw#Presenter>, <http://ekaw#Conference_Participant>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, presenter, person, speaker, invite, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#SocialRole>
+Synset selecionado: SYNSET{SID-10631309-N : Words[W-10631309-N-1-Speaker]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10630188-N : Words[W-10630188-N-1-speaker, W-10630188-N-2-talker, W-10630188-N-3-utterer, W-10630188-N-4-verbalizer, W-10630188-N-5-verbaliser]} | someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone especially garrulous); "the speaker at commencement"; "an utterer of useful maxims"
+BOW: [talker, verbalizer, maxim, deliver, express, language, verbaliser, commencement, garrulous, utterer, especially, public, speech, speaker, talk, useful]
+MEDIA: 1.1372141378895624
+
+SYNSET{SID-03691459-N : Words[W-03691459-N-1-loudspeaker, W-03691459-N-2-speaker, W-03691459-N-3-speaker_unit, W-03691459-N-4-loudspeaker_system, W-03691459-N-5-speaker_system]} | electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance
+BOW: [loud, transducer, distance, sound, acoustic, electrical, convert, unit, electro, system, loudspeaker, speaker, signal, hear]
+MEDIA: 0.8723608771660588
+
+SYNSET{SID-10631309-N : Words[W-10631309-N-1-Speaker]} | the presiding officer of a deliberative assembly; "the leader of the majority party is the Speaker of the House of Representatives"
+BOW: [leader, officer, speaker, assembly, majority, preside, house, representative, deliberative, party]
+MEDIA: 1.671329956036061
+
+
+----------
+NOME: Conference_Trip
+Desc: null
+Supers: [<http://ekaw#Social_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [conference, trip, social, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Process>
+Synset selecionado: SYNSET{SID-07288385-N : Words[W-07288385-N-1-trip, W-07288385-N-2-head_trip]}
+Conjunto de synsets recuperados:
+SYNSET{SID-00308370-N : Words[W-00308370-N-1-trip]} | a journey for some purpose (usually including the return); "he took a trip to the shopping center"
+BOW: [include, take, trip, journey, purpose, center, usually, return, shopping]
+MEDIA: 1.471684351692804
+
+SYNSET{SID-14378311-N : Words[W-14378311-N-1-trip]} | a hallucinatory experience induced by drugs; "an acid trip"
+BOW: [acid, induce, trip, hallucinatory, experience, drug]
+MEDIA: 0.9731015231227502
+
+SYNSET{SID-07317519-N : Words[W-07317519-N-1-slip, W-07317519-N-2-trip]} | an accidental misstep threatening (or causing) a fall; "he blamed his slip on the ice"; "the jolt caused many slips and a few spills"
+BOW: [trip, fall, slip, spill, threaten, blame, cause, ice, jolt, misstep, accidental]
+MEDIA: 0.9759870753358966
+
+SYNSET{SID-07288385-N : Words[W-07288385-N-1-trip, W-07288385-N-2-head_trip]} | an exciting or stimulating experience
+BOW: [head, trip, stimulating, exciting, experience]
+MEDIA: 1.6536246266914532
+
+SYNSET{SID-04485226-N : Words[W-04485226-N-1-tripper, W-04485226-N-2-trip]} | a catch mechanism that acts as a switch; "the pressure activates the tripper and releases the water"
+BOW: [trip, act, release, activate, catch, pressure, mechanism, water, tripper, switch]
+MEDIA: 0.9967044357035775
+
+SYNSET{SID-00286240-N : Words[W-00286240-N-1-trip]} | a light or nimble tread; "he heard the trip of women's feet overhead"
+BOW: [tread, trip, light, nimble, overhead, hear, foot, women]
+MEDIA: 0.8030421463809034
+
+SYNSET{SID-00076563-N : Words[W-00076563-N-1-trip, W-00076563-N-2-trip-up, W-00076563-N-3-stumble, W-00076563-N-4-misstep]} | an unintentional but embarrassing blunder; "he recited the whole poem without a single trip"; "he arranged his robes to avoid a trip-up later"; "confusion caused his unfortunate misstep"
+BOW: [stumble, unfortunate, cause, recite, single, trip, poem, later, trip-up, arrange, robe, embarrassing, unintentional, avoid, blunder, misstep, confusion]
+MEDIA: 0.8498577889301541
+
+
+----------
+NOME: Research_Institute
+Desc: null
+Supers: [<http://ekaw#Academic_Institution>, <http://ekaw#Organisation>]
+Subs: []
+Contexto: [institution, academic, organisation, institute, research]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Organization>
+Synset selecionado: SYNSET{SID-08407330-N : Words[W-08407330-N-1-institute]}
+Conjunto de synsets recuperados:
+SYNSET{SID-08407330-N : Words[W-08407330-N-1-institute]} | an association organized to promote art or science or education
+BOW: [promote, art, education, organize, science, association, institute]
+MEDIA: 2.193058741411993
+
+
+----------
+NOME: Session_Chair
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>, <http://ekaw#PC_Member>, <http://ekaw#Possible_Reviewer>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, pc, session, chair, person, member, possible, reviewer, participant]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 1.6152974469716557
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.1574224549316106
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 1.660063624419648
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 0.8768478065885286
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.1526474449352397
+
+
+----------
+NOME: Presenter
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>]
+Subs: [<http://ekaw#Invited_Speaker>]
+Contexto: [conference, presenter, person, speaker, invite, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Human>
+Synset selecionado: SYNSET{SID-10466198-N : Words[W-10466198-N-1-presenter, W-10466198-N-2-sponsor]}
+Conjunto de synsets recuperados:
+SYNSET{SID-10466387-N : Words[W-10466387-N-1-presenter]} | someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.)
+BOW: [address, presenter, petition, sort, check, memorial, present, message]
+MEDIA: 1.317071478312452
+
+SYNSET{SID-10466198-N : Words[W-10466198-N-1-presenter, W-10466198-N-2-sponsor]} | an advocate who presents a person (as for an award or a degree or an introduction etc.)
+BOW: [sponsor, award, presenter, person, degree, advocate, present, introduction]
+MEDIA: 1.8246413765397544
+
+SYNSET{SID-10025730-N : Words[W-10025730-N-1-donor, W-10025730-N-2-giver, W-10025730-N-3-presenter, W-10025730-N-4-bestower, W-10025730-N-5-conferrer]} | person who makes a gift of property
+BOW: [gift, donor, presenter, bestower, person, conferrer, property, giver, make]
+MEDIA: 1.4741179293573456
+
+
+----------
+NOME: Workshop
+Desc: null
+Supers: [<http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: []
+Contexto: [workshop, scientific, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Workshop>
+Synset selecionado: SYNSET{SID-04603081-N : Words[W-04603081-N-1-workshop, W-04603081-N-2-shop]}
+Conjunto de synsets recuperados:
+SYNSET{SID-04603081-N : Words[W-04603081-N-1-workshop, W-04603081-N-2-shop]} | small workplace where handcrafts or manufacturing are done
+BOW: [small, manufacture, shop, workshop, handcraft, workplace]
+MEDIA: 1.624313965569147
+
+SYNSET{SID-00892413-N : Words[W-00892413-N-1-workshop]} | a brief intensive course for a small group; emphasizes problem solving
+BOW: [brief, small, problem, workshop, solve, course, emphasize, intensive, group]
+MEDIA: 1.5550630512060941
+
+
+----------
+NOME: Assigned_Paper
+Desc: null
+Supers: [<http://ekaw#Submitted_Paper>, <http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: [<http://ekaw#Evaluated_Paper>, <http://ekaw#Accepted_Paper>, <http://ekaw#Rejected_Paper>]
+Contexto: [submit, paper, reject, document, evaluate, accept, assign]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Article>
+Synset selecionado: SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.0940361891740136
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.6376386586547136
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.3412077335773833
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.332454443727329
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.5162069947978893
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.4656350452319853
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.1660046090504952
+
+
+----------
+NOME: Positive_Review
+Desc: null
+Supers: [<http://ekaw#Review>, <http://ekaw#Document>]
+Subs: []
+Contexto: [review, document, positive]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Comparing>
+Synset selecionado: SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]}
+Conjunto de synsets recuperados:
+SYNSET{SID-05747582-N : Words[W-05747582-N-1-reappraisal, W-05747582-N-2-revaluation, W-05747582-N-3-review, W-05747582-N-4-reassessment]} | a new appraisal or evaluation
+BOW: [evaluation, new, review, appraisal, reassessment, revaluation, reappraisal]
+MEDIA: 2.6796334272339233
+
+SYNSET{SID-06410391-N : Words[W-06410391-N-1-review, W-06410391-N-2-critique, W-06410391-N-3-critical_review, W-06410391-N-4-review_article]} | an essay or article that gives a critical evaluation (as of a book or play)
+BOW: [evaluation, play, give, critical, review, book, essay, critique, article]
+MEDIA: 2.1467586717119924
+
+SYNSET{SID-00143251-N : Words[W-00143251-N-1-follow-up, W-00143251-N-2-followup, W-00143251-N-3-reexamination, W-00143251-N-4-review]} | a subsequent examination of a patient for the purpose of monitoring earlier treatment
+BOW: [follow-up, followup, treatment, earlier, purpose, review, patient, examination, subsequent, reexamination, monitoring]
+MEDIA: 1.6973429478027604
+
+SYNSET{SID-13411533-N : Words[W-13411533-N-1-review, W-13411533-N-2-limited_review]} | (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+BOW: [datum, limited, financial, reliability, accounting, assurance, provide, review, service, audit, exhaustive, interested, party]
+MEDIA: 1.5512074180281694
+
+SYNSET{SID-07019866-N : Words[W-07019866-N-1-revue, W-07019866-N-2-review]} | a variety show with topical sketches and songs and dancing and comedians
+BOW: [song, comedian, topical, revue, variety, review, sketch, dance]
+MEDIA: 1.1918035659376376
+
+SYNSET{SID-06597758-N : Words[W-06597758-N-1-review]} | a periodical that publishes critical essays on current affairs or literature or art
+BOW: [literature, current, art, critical, review, periodical, publish, essay, affair]
+MEDIA: 1.739313530701178
+
+SYNSET{SID-06469377-N : Words[W-06469377-N-1-recapitulation, W-06469377-N-2-recap, W-06469377-N-3-review]} | a summary at the end that repeats the substance of a longer discussion
+BOW: [summary, longer, review, repeat, substance, recapitulation, recap, end, discussion]
+MEDIA: 2.0599470598002276
+
+SYNSET{SID-01197258-N : Words[W-01197258-N-1-review]} | (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)
+BOW: [judicial, law, especially, review, appellate, reexamination, proceedings, court]
+MEDIA: 1.7334682956182708
+
+SYNSET{SID-00897811-N : Words[W-00897811-N-1-review, W-00897811-N-2-brushup]} | practice intended to polish performance or refresh the memory
+BOW: [practice, performance, memory, brushup, review, refresh, polish, intend]
+MEDIA: 1.3352670838745933
+
+SYNSET{SID-00879271-N : Words[W-00879271-N-1-inspection, W-00879271-N-2-review]} | a formal or official examination; "the platoon stood ready for review"; "we had to wait for the inspection before we could use the elevator"
+BOW: [formal, wait, elevator, review, ready, use, examination, official, stand, platoon, inspection]
+MEDIA: 1.5662859137184126
+
+
+----------
+NOME: Demo_Chair
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, chair, person, demo, participant]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Chair>
+Synset selecionado: SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 1.7981923652502396
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.1872506434363976
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 1.7569432350044898
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 0.9906419024711276
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.2108688696753234
+
+
+----------
+NOME: Workshop_Chair
+Desc: null
+Supers: [<http://ekaw#Conference_Participant>, <http://ekaw#Person>, <http://ekaw#PC_Member>, <http://ekaw#Possible_Reviewer>, <http://ekaw#Person>]
+Subs: []
+Contexto: [conference, pc, workshop, chair, person, member, possible, reviewer, participant]
+Conceito Topo alinhado: null
+Synset selecionado: SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]}
+Conjunto de synsets recuperados:
+SYNSET{SID-03001627-N : Words[W-03001627-N-1-chair]} | a seat for one person, with a support for the back; "he put his coat over the back of the chair and sat down"
+BOW: [seat, coat, chair, person, support, sit]
+MEDIA: 1.5440074016158987
+
+SYNSET{SID-00598056-N : Words[W-00598056-N-1-professorship, W-00598056-N-2-chair]} | the position of professor; "he was awarded an endowed chair in economics"
+BOW: [professor, economics, award, chair, position, endowed, professorship]
+MEDIA: 1.2116664708481126
+
+SYNSET{SID-10468962-N : Words[W-10468962-N-1-president, W-10468962-N-2-chairman, W-10468962-N-3-chairwoman, W-10468962-N-4-chair, W-10468962-N-5-chairperson]} | the officer who presides at the meetings of an organization; "address your remarks to the chairperson"
+BOW: [chairwoman, chairperson, address, chair, officer, organization, chairman, remark, preside, meeting, president]
+MEDIA: 1.6474150992327867
+
+SYNSET{SID-03271030-N : Words[W-03271030-N-1-electric_chair, W-03271030-N-2-chair, W-03271030-N-3-death_chair, W-03271030-N-4-hot_seat]} | an instrument of execution by electrocution; resembles an ordinary seat for one person; "the murderer was sentenced to die in the chair"
+BOW: [sentence, execution, die, death, electrocution, chair, murderer, electric, resemble, instrument, ordinary, hot, seat, person]
+MEDIA: 0.8587362827933652
+
+SYNSET{SID-03002096-N : Words[W-03002096-N-1-chair]} | a particular seat in an orchestra; "he is second chair violin"
+BOW: [seat, violin, orchestra, chair, particular, second]
+MEDIA: 1.126394589836882
+
+
+----------
+NOME: Conference_Session
+Desc: null
+Supers: [<http://ekaw#Session>, <http://ekaw#Scientific_Event>, <http://ekaw#Event>]
+Subs: [<http://ekaw#Industrial_Session>]
+Contexto: [industrial, conference, session, scientific, event]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#FormalMeeting>
+Synset selecionado: SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]}
+Conjunto de synsets recuperados:
+SYNSET{SID-07145508-N : Words[W-07145508-N-1-session]} | a meeting for execution of a group's functions; "it was the opening session of the legislature"
+BOW: [execution, session, function, meeting, open, group, legislature]
+MEDIA: 1.7894394285976887
+
+SYNSET{SID-15225249-N : Words[W-15225249-N-1-school_term, W-15225249-N-2-academic_term, W-15225249-N-3-academic_session, W-15225249-N-4-session]} | the time during which a school holds classes; "they had to shorten the school term"
+BOW: [shorten, school, academic, session, term, time, class, hold]
+MEDIA: 1.3122982799545753
+
+SYNSET{SID-01232091-N : Words[W-01232091-N-1-session]} | a meeting devoted to a particular activity; "a filming session"; "a gossip session"
+BOW: [devoted, activity, session, particular, gossip, film, meeting]
+MEDIA: 1.593900970382882
+
+SYNSET{SID-08417920-N : Words[W-08417920-N-1-seance, W-08417920-N-2-sitting, W-08417920-N-3-session]} | a meeting of spiritualists; "the seance was held in the medium's parlor"
+BOW: [parlor, session, spiritualist, seance, medium, meeting, sit, hold]
+MEDIA: 1.416752924444154
+
+
+----------
+NOME: Demo_Paper
+Desc: null
+Supers: [<http://ekaw#Paper>, <http://ekaw#Document>]
+Subs: []
+Contexto: [paper, document, demo]
+Conceito Topo alinhado: <file:/home/vhlab/Desktop/PLN_LAB/Ontology-Matcher/ontoAli-pucrs/resources/SUMO.owl#Newspaper>
+Synset selecionado: SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]}
+Conjunto de synsets recuperados:
+SYNSET{SID-14974264-N : Words[W-14974264-N-1-paper]} | a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+BOW: [paper, material, cellulose, grass, rag, wood, pulp, certain, derive, mainly]
+MEDIA: 1.5595378909104813
+
+SYNSET{SID-06409752-N : Words[W-06409752-N-1-composition, W-06409752-N-2-paper, W-06409752-N-3-report, W-06409752-N-4-theme]} | an essay (especially one written as an assignment); "he got an A on his composition"
+BOW: [paper, especially, composition, assignment, get, report, essay, theme, write]
+MEDIA: 1.6703835059026326
+
+SYNSET{SID-06267145-N : Words[W-06267145-N-1-newspaper, W-06267145-N-2-paper]} | a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast"
+BOW: [newspaper, news, contain, read, weekly, article, fold, paper, daily, publication, advertisement, sheet, breakfast]
+MEDIA: 1.9317112578891027
+
+SYNSET{SID-06255613-N : Words[W-06255613-N-1-paper]} | a medium for written communication; "the notion of an office running without paper is absurd"
+BOW: [notion, paper, absurd, run, medium, office, communication, write]
+MEDIA: 1.406957689129437
+
+SYNSET{SID-06269956-N : Words[W-06269956-N-1-paper]} | a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers"
+BOW: [scholarly, result, paper, observation, scientific, describe, state, hypothesis, write, papers, article]
+MEDIA: 1.6527959326225699
+
+SYNSET{SID-08062970-N : Words[W-08062970-N-1-newspaper, W-08062970-N-2-paper, W-08062970-N-3-newspaper_publisher]} | a business firm that publishes newspapers; "Murdoch owns many newspapers"
+BOW: [newspaper, firm, paper, business, publish, own, publisher, murdoch]
+MEDIA: 1.8109168100636452
+
+SYNSET{SID-03822171-N : Words[W-03822171-N-1-newspaper, W-03822171-N-2-paper]} | the physical object that is the product of a newspaper publisher; "when it began to rain he covered his head with a newspaper"
+BOW: [newspaper, head, rain, product, paper, covered, publisher, physical, begin, object]
+MEDIA: 1.3813216690905392
+
+
+----------

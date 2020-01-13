@@ -1,0 +1,33 @@
+14:07:59 - [log] - Loading ontology...
+
+Ontology loaded: http://edas
+From: file:/C:/Experimentos-Tese/Ontology-Matcher-master/ontologies/Conference-DS/edas.owl
+
+14:08:00 - [log] - Ontology loaded!
+14:08:00 - [log] - Loading ontology...
+
+Ontology loaded: file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO
+From: file:/C:/Users/danie/Downloads/Ontology-Matcher-WN-master/Ontology-Matcher-WN-master/ontoAli-pucrs/resources/SUMO.owl
+
+14:08:07 - [log] - Ontology loaded!
+14:08:07 - [log] - Context method selected!
+14:08:07 - [log] - Extracting domain ontology classes...
+14:08:07 - [log] - Domain ontology classes Extracted!
+14:08:07 - [log] - Context method selected!
+14:08:07 - [log] - Extracting upper ontology classes...
+14:08:07 - [log] - Upper ontology classes Extracted!
+14:08:07 - [log] - Initializing resources!
+14:08:07 - [log] - Reading Stop Words...
+14:08:07 - [log] - Accessing WordNet...
+14:08:07 - [log] - Initializing Lemmatizer...
+14:08:08 - [log] - Context process selected!
+14:08:08 - [log] - Processing the context...
+14:08:09 - [log] - Context processed!
+14:08:09 - [log] - Levenshtein Distance - Synset didambiguation selected!
+14:08:09 - [log] - Disambiguating Synsets...
+14:08:09 - [log] - Synsets disambiguated!
+14:08:09 - [log] - Matcher selected!
+14:08:09 - [log] - Matching ontologies...
+14:08:10 - [log] - Ontologies matched!
+14:08:10 - [log] - RDF file generated!
+Execution time: 0:11
